@@ -3,3 +3,6 @@
 * [Differential Calculus PDF](https://freemathematicsbooks.com/A.aspx?Id=Differential-Calculus)
 * [Integral Calculus PDF](https://freemathematicsbooks.com/A.aspx?Id=Integral-Calculus)
 * [Multivariable Calculus PDF](https://freemathematicsbooks.com/A.aspx?Id=Multivariable-Calculus)
+* [Advanced Calculus PDF](https://freemathematicsbooks.com/A.aspx?Id=Advanced-Calculus)
+* [Calculus of Variation PDF](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Variation)
+* [Calculus with Analytical Geometry PDF](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Analytical-Geometry)
