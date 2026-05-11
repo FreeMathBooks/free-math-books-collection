@@ -10,3 +10,5 @@ Welcome! Here you can find a curated list of free math textbooks. For more books
 * [Probability & Statistics](https://freemathematicsbooks.com/A.aspx?Id=Probability-Statistics)
 * [Applied Mathematics](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics)
 * [History of Mathematics](https://freemathematicsbooks.com/A.aspx?Id=Math-History)
+| **Calculus** | [Visit Page](https://freemathematicsbooks.com/A.aspx?Id=Calculus) | [View Files](./Calculus) |
+| **Geometry** | [Visit Page](https://freemathematicsbooks.com/A.aspx?Id=Geometry) | [View Files](./Geometry) |
