@@ -3,8 +3,8 @@ Welcome! Here you can find a curated list of free math textbooks. For more books
 * **Calculus** | [Visit Page](https://freemathematicsbooks.com/A.aspx?Id=Calculus) | [View Files](./Calculus) |
 * **Geometry** | [Visit Page](https://freemathematicsbooks.com/A.aspx?Id=Geometry) | [View Files](./Geometry) |
 * | **Calculus** | [📥 Access Books](https://freemathematicsbooks.com/A.aspx?Id=Calculus) | [📁 Explore Folders](./Calculus) |
-| **Geometry** | [📥 Access Books](https://freemathematicsbooks.com/A.aspx?Id=Geometry) | [📁 Explore Folders](./Geometry) |
-| **Linear Algebra** | [📥 Access Books](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra) | [📁 Explore Folders](./Linear-Algebra) |
+* | **Geometry** | [📥 Access Books](https://freemathematicsbooks.com/A.aspx?Id=Geometry) | [📁 Explore Folders](./Geometry) |
+* | **Linear Algebra** | [📥 Access Books](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra) | [📁 Explore Folders](./Linear-Algebra) |
 * [Algebra & Trigonometry](https://freemathematicsbooks.com/A.aspx?Id=Precalculus)
 * [Geometry & Topolgoy](https://freemathematicsbooks.com/A.aspx?Id=Geometry)
 * [Linear Algebra](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra)
