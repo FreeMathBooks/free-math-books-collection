@@ -1,3 +1,3 @@
-* [Applied Calculus An Introductory Textbook by Frederick Bisacre](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Calculus-An-Intro-Textbook--Frederick-Bisacre)
-* [Calculus Made Easy by Silvanus P Thompson](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Made-Easy--Silvanus-Thompson)
-* [Calculus and Probability for Actuarial Students by Alfred Henry](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Probability-Actuarial-Students--Alfred-Henry)
+* [Active Calculus Multivariable by Steve Schlicker](https://freemathematicsbooks.com/B.aspx?FileName=Active-Calculus-Multivariable--Steve-Schlicker)
+* [Advanced Calculus by Edwin Bidwell Wilson](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Edwin-Wilson)
+* [Advanced Calculus by Lynn H. Loomis, Shlomo Sternberg](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Lynn-Loomis)
