@@ -1,5 +1,7 @@
 # free-math-books-collection
 Welcome! Here you can find a curated list of free math textbooks. For more books, visit our website
+* **Calculus** | [Visit Page](https://freemathematicsbooks.com/A.aspx?Id=Calculus) | [View Files](./Calculus) |
+* **Geometry** | [Visit Page](https://freemathematicsbooks.com/A.aspx?Id=Geometry) | [View Files](./Geometry) |
 * [Algebra & Trigonometry](https://freemathematicsbooks.com/A.aspx?Id=Precalculus)
 * [Geometry & Topolgoy](https://freemathematicsbooks.com/A.aspx?Id=Geometry)
 * [Linear Algebra](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra)
