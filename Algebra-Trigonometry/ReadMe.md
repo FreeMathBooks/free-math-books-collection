@@ -13,7 +13,7 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 | Sub Category | 📥 Online Library | 📁 GitHub Resources |
 | :--- | :--- | :--- |
 | **Elementary Algebra** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Basic-Algebra) | [Explore Folders](./Basic-Algebra) |
-| **Integral Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Trigonometry) | [Explore Folders](./Trigonometry) |
+| **Trigonometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Trigonometry) | [Explore Folders](./Trigonometry) |
 
 ---
 
