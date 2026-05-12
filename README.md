@@ -17,3 +17,15 @@ Welcome! Here you can find a curated list of free math textbooks. For more books
 * [History of Mathematics](https://freemathematicsbooks.com/A.aspx?Id=Math-History)
 | **Calculus** | [Visit Page](https://freemathematicsbooks.com/A.aspx?Id=Calculus) | [View Files](./Calculus) |
 | **Geometry** | [Visit Page](https://freemathematicsbooks.com/A.aspx?Id=Geometry) | [View Files](./Geometry) |
+| Subject Category | 🌐 Online Library (Direct Download) | 📂 GitHub Resources |
+| :--- | :--- | :--- |
+| **Calculus** | [📥 Calculus Free Books](https://freemathematicsbooks.com/A.aspx?Id=Calculus) | [📁 Explore Folders](./Calculus) |
+| **Algebra & Trigonometry** | [📥 Algebra Free Books](https://freemathematicsbooks.com/A.aspx?Id=Precalculus) | [📁 Explore Folders](./Algebra-Trigonometry) |
+| **Geometry & Topology** | [📥 Geometry Free Books](https://freemathematicsbooks.com/A.aspx?Id=Geometry) | [📁 Explore Folders](./Geometry-Topology) |
+| **Linear Algebra** | [📥 Linear Algebra Free Books](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra) | [📁 Explore Folders](./Linear-Algebra) |
+| **Applied Mathematics** | [📥 Applied Math Free Books](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics) | [📁 Explore Folders](./Applied-Mathematics) |
+| **Probability & Statistics** | [📥 Statistics Free Books](https://freemathematicsbooks.com/A.aspx?Id=Probability-Statistics) | [📁 Explore Folders](./Probability-Statistics) |
+| **Discrete Mathematics** | [📥 Discrete Math Free Books](https://freemathematicsbooks.com/A.aspx?Id=Discrete-Mathematics) | [📁 Explore Folders](./Discrete-Mathematics) |
+| **Abstract Algebra** | [📥 Abstract Algebra Free Books](https://freemathematicsbooks.com/A.aspx?Id=Abstract-Algebra) | [📁 Explore Folders](./Abstract-Algebra) |
+| **Number Theory** | [📥 Number Theory Free Books](https://freemathematicsbooks.com/A.aspx?Id=Number-Theory) | [📁 Explore Folders](./Number-Theory) |
+| **History of Mathematics** | [📥 Math History Free Books](https://freemathematicsbooks.com/A.aspx?Id=Math-History) | [📁 Explore Folders](./History-of-Mathematics) |
