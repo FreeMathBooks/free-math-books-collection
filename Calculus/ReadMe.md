@@ -18,13 +18,6 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 | **Integral Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Integral-Calculus) | [Explore Folders](./Integral-Calculus) |
 | **Multivariable Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Multivariable-Calculus) | [Explore Folders](./Multivariable-Calculus) |
 | **Single Variable Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Single-Variable-Calculus) | [Explore Folders](./Single-Variable-Calculus) |
-* 📘 [Advanced Calculus](./Advanced-Calculus)
-* 📘 [Calculus & Analytical Geometry](./Calculus-Analytical-Geometry)
-* 📘 [Calculus of Variation](./Calculus-Variation)
-* 📘 [Differential Calculus](./Differential-Calculus)
-* 📘 [Integral Calculus](./Integral-Calculus)
-* 📘 [Multivariable Calculus](./Multivariable-Calculus)
-* 📘 [Single Variable Calculus](./Single-Variable-Calculus)
 
 ---
 
