@@ -20,8 +20,8 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 ### 📚 Recommended General Textbooks
 *Direct links to curated calculus books:*
 
-* 📖 **[Applied Calculus: An Introductory Textbook](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Calculus-Introductory-Frederick-Bisacre)** — *by Frederick Bisacre*
-* 📖 **[Calculus Made Easy](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Made-Easy-Silvanus-Thompson)** — *by Silvanus P. Thompson*
-* 📖 **[Calculus and Probability for Actuarial Students](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Probability-Actuarial-Students-Alfred-Henry)** — *by Alfred Henry*
+* 📖 **[Applied Calculus: An Introductory Textbook](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Calculus-Introductory--Frederick-Bisacre)** — *by Frederick Bisacre*
+* 📖 **[Calculus Made Easy](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Made-Easy--Silvanus-Thompson)** — *by Silvanus P. Thompson*
+* 📖 **[Calculus and Probability for Actuarial Students](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Probability-Actuarial-Students--Alfred-Henry)** — *by Alfred Henry*
 
 ---
