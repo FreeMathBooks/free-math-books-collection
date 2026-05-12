@@ -9,8 +9,6 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 
 * 📘 [Advanced Calculus](./Advanced-Calculus)
 * 📘 [Calculus & Analytical Geometry](./Calculus-Analytical-Geometry)
-* 📘 [Advanced Calculus](./Advanced-Calculus)
-* 📘 [Calculus & Analytical Geometry](./Calculus-Analytical-Geometry)
 * 📘 [Calculus of Variation](./Calculus-Variation)
 * 📘 [Differential Calculus](./Differential-Calculus)
 * 📘 [Integral Calculus](./Integral-Calculus)
