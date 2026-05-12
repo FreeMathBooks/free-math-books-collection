@@ -1,6 +1,6 @@
 # 📉 Calculus Collection
 
-Welcome to the Calculus resources folder. Here you can find general textbooks as well as specialized sub-categories. visit our Calculus Library online.
+Welcome to the Calculus resources folder. Here you can find general textbooks as well as specialized sub-categories. 
 * 📖 *Visit our* **[Calculus Main Library](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Calculus-Introductory-Frederick-Bisacre)** *online*
 ---
 
@@ -25,7 +25,3 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 * 📖 **[Calculus and Probability for Actuarial Students](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Probability-Actuarial-Students-Alfred-Henry)** — *by Alfred Henry*
 
 ---
-🌐 **For more resources, visit our [Calculus Library](https://freemathematicsbooks.com/A.aspx?Id=Calculus) online.**
-* [Applied Calculus An Introductory Textbook by Frederick Bisacre](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Calculus-An-Intro-Textbook--Frederick-Bisacre)
-* [Calculus Made Easy by Silvanus P Thompson](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Made-Easy--Silvanus-Thompson)
-* [Calculus and Probability for Actuarial Students by Alfred Henry](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Probability-Actuarial-Students--Alfred-Henry)
