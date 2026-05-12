@@ -8,14 +8,14 @@ Welcome! Here you can find a curated list of free math textbooks. For more books
 * [Algebra & Trigonometry](https://freemathematicsbooks.com/A.aspx?Id=Precalculus)
 * [Geometry & Topolgoy](https://freemathematicsbooks.com/A.aspx?Id=Geometry)
 * [Linear Algebra](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra)
-* [Calculus Free Books](https://freemathematicsbooks.com/A.aspx?Id=Calculus) | [View Files](./Calculus) |
+* [Calculus Free Books](https://freemathematicsbooks.com/A.aspx?Id=Calculus) | [📁 Explore Folders](./Calculus) |
 * [Discrete Mathematics](https://freemathematicsbooks.com/A.aspx?Id=Discrete-Mathematics)
 * [Abstract Algebra](https://freemathematicsbooks.com/A.aspx?Id=Abstract-Algebra)
 * [Number Theory](https://freemathematicsbooks.com/A.aspx?Id=Number-Theory)
 * [Probability & Statistics](https://freemathematicsbooks.com/A.aspx?Id=Probability-Statistics)
 * [Applied Mathematics](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics)
 * [History of Mathematics](https://freemathematicsbooks.com/A.aspx?Id=Math-History)
-| **Calculus** | [Visit Page](https://freemathematicsbooks.com/A.aspx?Id=Calculus) | [View Files](./Calculus) |
+| **Calculus** | [Visit Page](https://freemathematicsbooks.com/A.aspx?Id=Calculus) | [📁 Explore Folders](./Calculus) |
 | **Geometry** | [Visit Page](https://freemathematicsbooks.com/A.aspx?Id=Geometry) | [View Files](./Geometry) |
 | Subject Category | 🌐 Online Library (Direct Download) | 📂 GitHub Resources |
 | :--- | :--- | :--- |
