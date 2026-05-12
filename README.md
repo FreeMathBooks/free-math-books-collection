@@ -8,7 +8,7 @@ Welcome! Here you can find a curated list of free math textbooks. For more books
 * [Algebra & Trigonometry](https://freemathematicsbooks.com/A.aspx?Id=Precalculus)
 * [Geometry & Topolgoy](https://freemathematicsbooks.com/A.aspx?Id=Geometry)
 * [Linear Algebra](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra)
-* [Calculus](https://freemathematicsbooks.com/A.aspx?Id=Calculus) | [View Files](./Calculus) |
+* [Calculus Free Books](https://freemathematicsbooks.com/A.aspx?Id=Calculus) | [View Files](./Calculus) |
 * [Discrete Mathematics](https://freemathematicsbooks.com/A.aspx?Id=Discrete-Mathematics)
 * [Abstract Algebra](https://freemathematicsbooks.com/A.aspx?Id=Abstract-Algebra)
 * [Number Theory](https://freemathematicsbooks.com/A.aspx?Id=Number-Theory)
