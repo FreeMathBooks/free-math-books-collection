@@ -16,8 +16,8 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 | **Mathematical Methods** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Methods) | [Explore Folders](./Mathematical-Methods) |
 | **Mathematical Physics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Physics) | [Explore Folders](./Mathematical-Physics) |
 | **Computational Mathematics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Computational-Mathematics) | [Explore Folders](./Computational-Mathematics) |
-| **Numerical Analysis** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Numerical-Analysis) | [Explore Folders](./Mathematical Modeling) |
-| **Multivariable Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Modeling) | [Explore Folders](./Mathematical-Modeling) |
+| **Numerical Analysis** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Numerical-Analysis) | [Explore Folders](./Numerical-Analysis) |
+| **Mathematical-Modeling** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Modeling) | [Explore Folders](./Mathematical-Modeling) |
 | **Engineering-Mathematics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Engineering-Mathematics) | [Explore Folders](./Engineering-Mathematics) |
 
 ---
