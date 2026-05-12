@@ -1,7 +1,7 @@
 # 📉 Calculus Collection
 
 Welcome to the Calculus resources folder. Here you can find general textbooks as well as specialized sub-categories.
-🌐 **Visit our ** [Calculus Library]([https://freemathematicsbooks.com](https://freemathematicsbooks.com/A.aspx?Id=Calculus)) ** online **
+
 ---
 
 ### 📂 Specialized Sub-Categories
