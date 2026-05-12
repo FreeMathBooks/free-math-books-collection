@@ -9,7 +9,7 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 *If you are looking for specific topics, explore our sub-folders below:*
 ### 📂 Explore by Sub Category
 
-| Subject Sub Category | 📥 Online Library | 📁 GitHub Resources |
+| Sub Category | 📥 Online Library | 📁 GitHub Resources |
 | :--- | :--- | :--- |
 | **Advanced Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Advanced-Calculus) | [Explore Folders](./Advanced-Calculus) |
 | **Calculus & Analytical Geometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Analytical-Geometry) | [Explore Folders](./Calculus-Analytical-Geometry) |
