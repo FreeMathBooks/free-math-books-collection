@@ -36,4 +36,3 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 
 ---
 🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com)**
-
