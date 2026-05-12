@@ -2,7 +2,7 @@
 
 Welcome to the Calculus resources folder. Here you can find general textbooks as well as specialized sub-categories. 
 * 📖 *Visit our* **[Calculus Main Library](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Calculus-Introductory-Frederick-Bisacre)** *online*
-* 📖 *Visit our website* **[freemathematicsbooks.com](https://freemathematicsbooks.com)** 
+* 📖 *Visit our website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
 
