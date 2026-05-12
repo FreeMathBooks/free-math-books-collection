@@ -14,9 +14,10 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 | **Advanced Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Advanced-Calculus) | [Explore Folders](./Advanced-Calculus) |
 | **Calculus & Analytical Geometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Analytical-Geometry) | [Explore Folders](./Calculus-Analytical-Geometry) |
 | **Calculus of Variation** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Variation) | [Explore Folders](./Calculus-Variation) |
-
-
-
+| **Differential Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Differential-Calculus) | [Explore Folders](./Differential-Calculus) |
+| **Integral Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Integral-Calculus) | [Explore Folders](./Integral-Calculus) |
+| **Multivariable Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Multivariable-Calculus) | [Explore Folders](./Multivariable-Calculus) |
+| **Single Variable Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Single-Variable-Calculus) | [Explore Folders](./Single-Variable-Calculus) |
 * 📘 [Advanced Calculus](./Advanced-Calculus)
 * 📘 [Calculus & Analytical Geometry](./Calculus-Analytical-Geometry)
 * 📘 [Calculus of Variation](./Calculus-Variation)
