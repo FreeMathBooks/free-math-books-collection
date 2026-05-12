@@ -1,10 +1,3 @@
-* [Elementary Geometry](https://freemathematicsbooks.com/A.aspx?Id=Elementary-Geometry)
-* [Analytic Geometry](https://freemathematicsbooks.com/A.aspx?Id=Analytic-Geometry)
-* [Differential Geometry](https://freemathematicsbooks.com/A.aspx?Id=Differential-Geometry)
-* [Algebraic Geometry](https://freemathematicsbooks.com/A.aspx?Id=Algebraic-Geometry)
-* [Non Euclidean Geometry](https://freemathematicsbooks.com/A.aspx?Id=Algebraic-Geometry)
-* [Computational Geometry](https://freemathematicsbooks.com/A.aspx?Id=Algebraic-Geometry)
-* [Topology](https://freemathematicsbooks.com/A.aspx?Id=Topology)
 # 📉 Geometry and Topology Collection
 
 Welcome to the Geometry and Topology resources folder. Here you can find general textbooks as well as specialized sub-categories. 
