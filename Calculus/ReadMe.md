@@ -30,3 +30,10 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 * 📖 **[Calculus and Probability for Actuarial Students](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Probability-Actuarial-Students--Alfred-Henry)** — *by Alfred Henry*
 
 ---
+
+### 🔙 Navigation
+* [🏠 Back to Home Repository](../../../../)
+
+---
+🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com)**
+
