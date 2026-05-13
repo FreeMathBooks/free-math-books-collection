@@ -38,9 +38,9 @@ Calculus-Based Physics II by Jeffrey Schnick https://freemathematicsbooks.com/B.
 Calculus Of Finite Differences Fourth Edition by George Boole https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Finite-Differences--George-Boole
 The Calculus for Engineers and Physicists by Robert H. Smith https://freemathematicsbooks.com/B.aspx?FileName=Calculus-for-Eng-Phy--Robert-Smith 
 Calculus and Linear Algebra Vol. 1 by Wilfred Kaplan, Donald J. Lewis https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Linear-Algebra-1--Kaplan
-https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Linear-Algebra-2--Wilfred-Kaplan Calculus - For The Practical Man by J. E. Thompson
-https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Practical-Man--James-Thompson Calculus: Theory and Applications by Kenneth Kuttler
-https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Theory-App--Kenneth-Kuttler 
+Calculus and Linear Algebra Vol. 2 by Wilfred Kaplan, Donald J. Lewis https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Linear-Algebra-2--Wilfred-Kaplan
+Calculus - For The Practical Man by J. E. Thompson https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Practical-Man--James-Thompson
+Calculus: Theory and Applications by Kenneth Kuttler https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Theory-App--Kenneth-Kuttler 
 Difference Equations to Differential Equations by Dan Sloughter https://freemathematicsbooks.com/B.aspx?FileName=Difference-Eqs-Diff-Eqs--Dan-Sloughter
 Elementary Calculus by Frederick S Woods, Frederick H Bailey https://freemathematicsbooks.com/B.aspx?FileName=Elementary-Calculus--Frederick-Woods--Frederick-Bailey
 The Fractional Calculus: Theory and Applications by Oldham & Spanier https://freemathematicsbooks.com/B.aspx?FileName=Fractional-Calculus--Keith-Oldham
