@@ -1,6 +1,5 @@
 * 📖 **[APEX Calculus](https://freemathematicsbooks.com/B.aspx?FileName=APEX-Calculus--Gregory-Hartman)** — *by Gregory Hartman*
 * 📖 **[Calculus One](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-One--Roman-Holowinsky)** — *by Roman Holowinsky, Johann Thiel, David Lindberg*
-* 📖 **[Yet Another Calculus Text: A Short Introduction with Infinitesimals](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Text-Intro-Infinitesimals--Dan-Sloughter)** — *by Dan Sloughter*
 * 📖 **[Community Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Community-Calculus--David-Guichard)** — *by David Guichard, Neal Koblitz*
 * 📖 **[Differential & Integral Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Differential-Integral-Calculus--Daniel-Murray)** — *by Daniel Murray*
 * 📖 **[Elementary Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Elementary-Calculus--Jerome-Keisler)** — *by H. Jerome Keisler*
@@ -10,3 +9,4 @@
 * 📖 **[Single Variable Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Single-Variable-Calculus--David-Guichard)** — *by David Guichard*
 * 📖 **[The Calculus for Engineers](https://freemathematicsbooks.com/B.aspx?FileName=The-Calculus-Engineers--John-Perry)** — *by John Perry*
 * 📖 **[Understanding Basic Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Understanding-Basic-Calculus--SK-Chung)** — *by S. K. Chung*
+* 📖 **[Yet Another Calculus Text: A Short Introduction with Infinitesimals](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Text-Intro-Infinitesimals--Dan-Sloughter)** — *by Dan Sloughter*
