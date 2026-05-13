@@ -19,7 +19,7 @@ Welcome! Here you can find a curated list of free math textbooks and resources.
 | **Discrete Mathematics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Discrete-Mathematics) | [Explore Folders](./Discrete-Mathematics) |
 | **Probability & Statistics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Probability-Statistics) | [Explore Folders](./Probability-Statistics) |
 | **Applied Mathematics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics) | [Explore Folders](./Applied-Mathematics) |
-| **History of Mathematics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Math-History) | [Explore Folders](./History-of-Mathematics) |
+| **History of Mathematics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Math-History) | [Explore Folders](./Math-History) |
 
 ---
 *Visit our profile for more educational resources and collections.*
