@@ -28,7 +28,7 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 * 📖 **[Applied Calculus: An Introductory Textbook](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Calculus-An-Intro-Textbook--Frederick-Bisacre)** — *by Frederick Bisacre*
 * 📖 **[Calculus Made Easy](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Made-Easy--Silvanus-Thompson)** — *by Silvanus P. Thompson*
 * 📖 **[Calculus and Probability for Actuarial Students](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Probability-Actuarial-Students--Alfred-Henry)** — *by Alfred Henry*
-* 📖 **[Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Edwin-Wilson** — *by Edwin Bidwell Wilson*
+* 📖 **[Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Edwin-Wilson)** — *by Edwin Bidwell Wilson*
 * 📖 **[Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Lynn-Loomis)** — *by Lynn H. Loomis, Shlomo Sternberg*
 * 📖 **[Calculus for Engineering Students](https://freemathematicsbooks.com/B.aspx?FileName=An-Elementary-Treatise-Calculus-Eng-Students--John-Graham)** — *by John Graham*
 * 📖 **[Calculus Based on Graphical Methods](https://freemathematicsbooks.com/B.aspx?FileName=An-Intro-Calculus-Graphical-Methods--George-Gibson)** — *by George Gibson*
