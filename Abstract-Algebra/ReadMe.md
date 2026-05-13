@@ -14,7 +14,6 @@ Welcome to the Abstract Algebra resources folder. Here you can find general text
 
 | Sub Category | 📥 Online Library | 📁 GitHub Resources |
 | :--- | :--- | :--- |
-| **Abstract Algebra ** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Abstract-Algebra) | [Explore Folders](./Abstract-Algebra
 
 ---
 
