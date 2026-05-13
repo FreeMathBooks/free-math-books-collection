@@ -25,34 +25,34 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 ### 📚 Recommended General Textbooks
 *Direct links to curated calculus books:*
 
+* 📖 **[A Problem Text in Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Problem-Text-Advanced-Calculus--John-Erdman)** — *by John M. Erdman*
+* 📖 **[Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Edwin-Wilson)** — *by Edwin Bidwell Wilson*
+* 📖 **[Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Lynn-Loomis)** — *by Lynn H. Loomis, Shlomo Sternberg*
 * 📖 **[Applied Calculus: An Introductory Textbook](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Calculus-An-Intro-Textbook--Frederick-Bisacre)** — *by Frederick Bisacre*
 * 📖 **[Calculus Made Easy](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Made-Easy--Silvanus-Thompson)** — *by Silvanus P. Thompson*
 * 📖 **[Calculus and Probability for Actuarial Students](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Probability-Actuarial-Students--Alfred-Henry)** — *by Alfred Henry*
-* 📖 **[Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Edwin-Wilson)** — *by Edwin Bidwell Wilson*
-* 📖 **[Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Lynn-Loomis)** — *by Lynn H. Loomis, Shlomo Sternberg*
 * 📖 **[Calculus for Engineering Students](https://freemathematicsbooks.com/B.aspx?FileName=An-Elementary-Treatise-Calculus-Eng-Students--John-Graham)** — *by John Graham*
 * 📖 **[Calculus Based on Graphical Methods](https://freemathematicsbooks.com/B.aspx?FileName=An-Intro-Calculus-Graphical-Methods--George-Gibson)** — *by George Gibson*
 * 📖 **[Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Calculus--Gilbert-Strang)** — *by Gilbert Strang*
 * 📖 **[Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Calculus--WikiBooks)** — *by WikiBooks*
 * 📖 **[Calculus-Based Physics II](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Based-Physics-II--Jeffrey-Schnick)** — *by Jeffrey Schnick*
 * 📖 **[Calculus Of Finite Differences Fourth Edition](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Finite-Differences--George-Boole)** — * by George Boole*
-* 📖 **[The Calculus for Engineers and Physicists](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-for-Eng-Phy--Robert-Smith)** — *by Robert H. Smith*
 * 📖 **[Calculus and Linear Algebra Vol. 1](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Linear-Algebra-1--Kaplan)** — *by Wilfred Kaplan, Donald J. Lewis*
 * 📖 **[Calculus and Linear Algebra Vol. 2](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Linear-Algebra-2--Wilfred-Kaplan)** — *by Wilfred Kaplan, Donald J. Lewis*
 * 📖 **[Calculus - For The Practical Man](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Practical-Man--James-Thompson)** — *by J. E. Thompson*
 * 📖 **[Calculus: Theory and Applications](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Theory-App--Kenneth-Kuttler)** — *by Kenneth Kuttler*
 * 📖 **[Difference Equations to Differential Equations](https://freemathematicsbooks.com/B.aspx?FileName=Difference-Eqs-Diff-Eqs--Dan-Sloughter)** — *by Dan Sloughter*
 * 📖 **[Elementary Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Elementary-Calculus--Frederick-Woods--Frederick-Bailey)** — *by Frederick S Woods, Frederick H Bailey*
-* 📖 **[The Fractional Calculus: Theory and Applications](https://freemathematicsbooks.com/B.aspx?FileName=Fractional-Calculus--Keith-Oldham)** — *by Oldham & Spanier*
 * 📖 **[Integral Calculus Course Materials](https://freemathematicsbooks.com/B.aspx?FileName=Integral-Calculus--Miguel-Lerma)** — *by Miguel A. Lerma*
 * 📖 **[Introduction to Calculus I](https://freemathematicsbooks.com/B.aspx?FileName=Intro-Calculus-I--JH-Heinbockel)** — *by J. H. Heinbockel*
 * 📖 **[Introduction to Differential Equations](https://freemathematicsbooks.com/B.aspx?FileName=Intro-DE--Mohammed-Kaabar)** — *by Mohammed Kaabar*
 * 📖 **[Mathematics for Engineering Students: Analytical Geometry & Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Eng-Students--Samuel-Keller)** — *by Keller & Knox*
 * 📖 **[Multivariable Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Multivariable-Calculus--Don-Shimamoto)** — *by Don Shimamoto*
 * 📖 **[Multivariable Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Multivariable-Calculus--Joel-Feldman)** — *by Joel Feldman*
-* 📖 **[A Problem Text in Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Problem-Text-Advanced-Calculus--John-Erdman)** — *by John M. Erdman*
 * 📖 **[Problems in the Calculus, with Formulas & Suggestions](https://freemathematicsbooks.com/B.aspx?FileName=Problems-Calculus-Formulas-Suggestions--David-Leib)** — *by David Leib*
 * 📖 **[Teaching and Learning of Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Teaching-Learning-Calculus--David-Bressoud)** — *by David Bressoud*
+* 📖 **[The Calculus for Engineers and Physicists](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-for-Eng-Phy--Robert-Smith)** — *by Robert H. Smith*
+* 📖 **[The Fractional Calculus: Theory and Applications](https://freemathematicsbooks.com/B.aspx?FileName=Fractional-Calculus--Keith-Oldham)** — *by Oldham & Spanier*
 * 📖 **[Vector Analysis](https://freemathematicsbooks.com/B.aspx?FileName=Vector-Analysis--Josiah-Gibbs--Edwin-Wilson)** — *by Josiah Gibbs and Edwin Wilson*
 * 📖 **[Vector Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Vector-Calculus--Michael-Corral)** — *by Michael Corral*
 
