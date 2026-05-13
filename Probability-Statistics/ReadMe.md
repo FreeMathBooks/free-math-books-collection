@@ -12,7 +12,7 @@ Welcome to the Probability & Statistics resources folder. Here you can find gene
 
 | Sub Category | 📥 Online Library | 📁 GitHub Resources |
 | :--- | :--- | :--- |
-| **Advanced Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Advanced-Calculus) | [Explore Folders](./Advanced-Calculus) |
+| **Introductory Statistics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Introductory-Statistics) | [Explore Folders](./Introductory-Statistics) |
 | **Probability & Stochastic** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Probability-Stochastic) | [Explore Folders](./Probability-Stochastic) |
 | **Mathematical Statistics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Statistics) | [Explore Folders](./Mathematical-Statistics) |
 | **Statistical Learning** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Statistical-Learning) | [Explore Folders](./Statistical-Learning) |
