@@ -1,4 +1,3 @@
-* 📖 **[A Course of Pure Mathematics](https://freemathematicsbooks.com/B.aspx?FileName=Course-Pure-Mathematics--GH-Hardy)** — *by G.H. Hardy*
 * 📖 **[An Elementary Treatise on the Calculus of Variations](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Variations--John-Jellett)** — *by J.H. Jellett*
 * 📖 **[A History of the Progress of the Calculus of Variations](https://freemathematicsbooks.com/B.aspx?FileName=Hisotry-Calculus-Variations--Todhunter)** — *by Isaac Todhunter*
 * 📖 **[Isoperimetrical Problems and Calculus of Variations](https://freemathematicsbooks.com/B.aspx?FileName=Isoperimetrical-Prob-Calculus-Variations--Robert-Woodhouse)** — *by Robert Woodhouse*
