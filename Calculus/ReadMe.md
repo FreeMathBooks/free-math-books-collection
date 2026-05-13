@@ -28,6 +28,33 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 * 📖 **[Applied Calculus: An Introductory Textbook](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Calculus-An-Intro-Textbook--Frederick-Bisacre)** — *by Frederick Bisacre*
 * 📖 **[Calculus Made Easy](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Made-Easy--Silvanus-Thompson)** — *by Silvanus P. Thompson*
 * 📖 **[Calculus and Probability for Actuarial Students](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Probability-Actuarial-Students--Alfred-Henry)** — *by Alfred Henry*
+Advanced Calculus by Edwin Bidwell Wilson https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Edwin-Wilson
+Advanced Calculus by Lynn H. Loomis, Shlomo Sternberg https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Lynn-Loomis
+Calculus for Engineering Students by John Graham https://freemathematicsbooks.com/B.aspx?FileName=An-Elementary-Treatise-Calculus-Eng-Students--John-Graham Calculus Based on Graphical Methods by George Gibson
+https://freemathematicsbooks.com/B.aspx?FileName=An-Intro-Calculus-Graphical-Methods--George-Gibson
+Calculus by Gilbert Strang https://freemathematicsbooks.com/B.aspx?FileName=Calculus--Gilbert-Strang
+Calculus by WikiBooks https://freemathematicsbooks.com/B.aspx?FileName=Calculus--WikiBooks
+Calculus-Based Physics II by Jeffrey Schnick https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Based-Physics-II--Jeffrey-Schnick 
+Calculus Of Finite Differences Fourth Edition by George Boole https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Finite-Differences--George-Boole
+The Calculus for Engineers and Physicists by Robert H. Smith https://freemathematicsbooks.com/B.aspx?FileName=Calculus-for-Eng-Phy--Robert-Smith 
+Calculus and Linear Algebra Vol. 1 by Wilfred Kaplan, Donald J. Lewis https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Linear-Algebra-1--Kaplan
+https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Linear-Algebra-2--Wilfred-Kaplan Calculus - For The Practical Man by J. E. Thompson
+https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Practical-Man--James-Thompson Calculus: Theory and Applications by Kenneth Kuttler
+https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Theory-App--Kenneth-Kuttler 
+Difference Equations to Differential Equations by Dan Sloughter https://freemathematicsbooks.com/B.aspx?FileName=Difference-Eqs-Diff-Eqs--Dan-Sloughter
+Elementary Calculus by Frederick S Woods, Frederick H Bailey https://freemathematicsbooks.com/B.aspx?FileName=Elementary-Calculus--Frederick-Woods--Frederick-Bailey
+The Fractional Calculus: Theory and Applications by Oldham & Spanier https://freemathematicsbooks.com/B.aspx?FileName=Fractional-Calculus--Keith-Oldham
+Integral Calculus Course Materials by Miguel A. Lerma https://freemathematicsbooks.com/B.aspx?FileName=Integral-Calculus--Miguel-Lerma
+Introduction to Calculus I by J. H. Heinbockel https://freemathematicsbooks.com/B.aspx?FileName=Intro-Calculus-I--JH-Heinbockel
+Introduction to Differential Equations by Mohammed Kaabar https://freemathematicsbooks.com/B.aspx?FileName=Intro-DE--Mohammed-Kaabar
+Mathematics for Engineering Students: Analytical Geometry & Calculus by Keller & Knox  https://freemathematicsbooks.com/B.aspx? FileName=Mathematics-Eng-Students--Samuel-Keller
+Multivariable Calculus by Don Shimamoto https://freemathematicsbooks.com/B.aspx?FileName=Multivariable-Calculus--Don-Shimamoto
+Multivariable Calculus by Joel Feldman https://freemathematicsbooks.com/B.aspx?FileName=Multivariable-Calculus--Joel-Feldman
+A Problem Text in Advanced Calculus by John M. Erdman https://freemathematicsbooks.com/B.aspx?FileName=Problem-Text-Advanced-Calculus--John-Erdman
+Problems in the Calculus, with Formulas & Suggestions by David Leib https://freemathematicsbooks.com/B.aspx?FileName=Problems-Calculus-Formulas-Suggestions--David-Leib
+Teaching and Learning of Calculus by David Bressoud https://freemathematicsbooks.com/B.aspx?FileName=Teaching-Learning-Calculus--David-Bressoud
+Vector Analysis by Josiah Gibbs and Edwin Wilson https://freemathematicsbooks.com/B.aspx?FileName=Vector-Analysis--Josiah-Gibbs--Edwin-Wilson
+Vector Calculus by Michael Corral https://freemathematicsbooks.com/B.aspx?FileName=Vector-Calculus--Michael-Corral
 
 ---
 
