@@ -47,7 +47,7 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 * 📖 **[Integral Calculus Course Materials](https://freemathematicsbooks.com/B.aspx?FileName=Integral-Calculus--Miguel-Lerma)** — *by Miguel A. Lerma*
 * 📖 **[Introduction to Calculus I](https://freemathematicsbooks.com/B.aspx?FileName=Intro-Calculus-I--JH-Heinbockel)** — *by J. H. Heinbockel*
 * 📖 **[Introduction to Differential Equations](https://freemathematicsbooks.com/B.aspx?FileName=Intro-DE--Mohammed-Kaabar)** — *by Mohammed Kaabar*
-* 📖 **[Mathematics for Engineering Students: Analytical Geometry & Calculus](https://freemathematicsbooks.com/B.aspx? FileName=Mathematics-Eng-Students--Samuel-Keller)** — *by Keller & Knox*
+* 📖 **[Mathematics for Engineering Students: Analytical Geometry & Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Eng-Students--Samuel-Keller)** — *by Keller & Knox*
 * 📖 **[Multivariable Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Multivariable-Calculus--Don-Shimamoto)** — *by Don Shimamoto*
 * 📖 **[Multivariable Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Multivariable-Calculus--Joel-Feldman)** — *by Joel Feldman*
 * 📖 **[A Problem Text in Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Problem-Text-Advanced-Calculus--John-Erdman)** — *by John M. Erdman*
