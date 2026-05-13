@@ -9,8 +9,6 @@ This category contains advanced-level calculus textbooks, including topics like 
 
 * 📖 **[A Course of Pure Mathematics](https://freemathematicsbooks.com/B.aspx?FileName=Course-Pure-Mathematics--GH-Hardy)** — *by G.H. Hardy*
 * 📖 **[Active Calculus Multivariable](https://freemathematicsbooks.com/B.aspx?FileName=Active-Calculus-Multivariable--Steve-Schlicker)** — *by Steve Schlicker*
-* 📖 **[Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Edwin-Bidwell-Wilson)** — *by Edwin Bidwell Wilson*
-* 📖 **[Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Loomis-Sternberg)** — *by Lynn H. Loomis and Shlomo Sternberg*
 * 📖 **[Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Edwin-Wilson)** — *by Edwin Bidwell Wilson*
 * 📖 **[Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Lynn-Loomis)** — *by Lynn H. Loomis, Shlomo Sternberg*
 * 📖 **[Calculus and Linear Algebra Vol. 2](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Linear-Algebra-2--Wilfred-Kaplan)** — *by Wilfred Kaplan*
