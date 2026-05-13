@@ -7,7 +7,7 @@
 * 📖 **[Differential & Integral Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Differential-Integral-Calculus--Daniel-Murray)** — *by Daniel Murray*
 * 📖 **[Differential and Integral Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Differential-Integral-Calculus--Snyder-Virgil)** — *by Snyder Virgil*
 * 📖 **[Differential and Integral Calculus with Examples & Applications](https://freemathematicsbooks.com/B.aspx?FileName=Differential-Integral-Calculus-Exp-App--James-Taylor)** — *by James Tayor*
-* * 📖 **[Differential and Integral Calculus for Beginners](https://freemathematicsbooks.com/B.aspx?FileName=Diff-Int-Calculus-Beginners--Edwin-Edser)** — *by Edwin Edser*
+* 📖 **[Differential and Integral Calculus for Beginners](https://freemathematicsbooks.com/B.aspx?FileName=Diff-Int-Calculus-Beginners--Edwin-Edser)** — *by Edwin Edser*
 * 📖 **[Integral Calculus Course Materials](https://freemathematicsbooks.com/B.aspx?FileName=Integral-Calculus--Miguel-Lerma)** — *by Miguel A. Lerma*
 * 📖 **[Integration by Parts: Tutorial and Examples](https://freemathematicsbooks.com/B.aspx?FileName=Integration-by-Parts--Graham-McDonald)** — *by Graham S McDonald*
 * 📖 **[Integration Theory: Lecture Notes](https://freemathematicsbooks.com/B.aspx?FileName=Integration-Theory--Johan-Jonasson)** — *by Johan Jonasson*
