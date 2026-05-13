@@ -36,7 +36,7 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 * 📖 **[Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Calculus--Gilbert-Strang)** — *by Gilbert Strang*
 * 📖 **[Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Calculus--WikiBooks)** — *by WikiBooks*
 * 📖 **[Calculus-Based Physics II](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Based-Physics-II--Jeffrey-Schnick)** — *by Jeffrey Schnick*
-* 📖 **[Calculus Of Finite Differences Fourth Edition](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Finite-Differences--George-Boole)** — * by George Boole*
+* 📖 **[Calculus Of Finite Differences Fourth Edition](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Finite-Differences--George-Boole)** — *by George Boole*
 * 📖 **[Calculus and Linear Algebra Vol. 1](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Linear-Algebra-1--Kaplan)** — *by Wilfred Kaplan, Donald J. Lewis*
 * 📖 **[Calculus and Linear Algebra Vol. 2](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Linear-Algebra-2--Wilfred-Kaplan)** — *by Wilfred Kaplan, Donald J. Lewis*
 * 📖 **[Calculus - For The Practical Man](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Practical-Man--James-Thompson)** — *by J. E. Thompson*
