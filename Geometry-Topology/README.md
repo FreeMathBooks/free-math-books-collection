@@ -23,7 +23,7 @@ Welcome to the Geometry and Topology resources folder. Here you can find general
 ---
 
 ### 📚 Recommended General Textbooks
-*Direct links to curated calculus books:*
+*Direct links to curated Geometry & Topology books:*
 
 * 📖 **[Applied Calculus: An Introductory Textbook](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Calculus-An-Intro-Textbook--Frederick-Bisacre)** — *by Frederick Bisacre*
 * 📖 **[Calculus Made Easy](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Made-Easy--Silvanus-Thompson)** — *by Silvanus P. Thompson*
