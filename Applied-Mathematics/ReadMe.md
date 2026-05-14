@@ -25,62 +25,61 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 ### 📚 Recommended General Textbooks
 *Direct links to curated Applied Mathematics books:*
 
-* 📖 **[A Problem Text in Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Problem-Text-Advanced-Calculus--John-Erdman)** — *by John M. Erdman*
-* 📖 **[Applied Analysisv by John K. Hunter, Bruno Nachtergaele](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Analysis--John-Hunter)** — **
-* 📖 **[Applied & Computational Linear Algebra by Charles Byrne](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Computational-Linear-Algebra--Charles-Byrne)** — **
-* 📖 **[Applied DE & Linear Algebra by Grant B. Gustafson](https://freemathematicsbooks.com/B.aspx?FileName=Applied-DE-LA--Grant-Gustafson)** — **
-* 📖 **[Applied Finite Mathematics - Roberta Bloom, Rupinder Sekhon](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Finite-Mathematics--Roberta-Bloom)** — **
-* 📖 **[Applied Mathematics in Ferroelectricity and Piezoelectricity by Kenji Uchino](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Math-Ferroelectricity-Piezoelectricity--Kenji-Uchino)** — **
-* 📖 **[Complex and Adaptive Dynamical Systems: A Primer by Claudius Gros](https://freemathematicsbooks.com/B.aspx?FileName=Complex-Adaptive-Dynamical-Systems--Claudius-Gros)** — **
-* 📖 **[Calculus Of Finite Differences Fourth Edition by George Boole](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Finite-Differences--George-Boole)** — **
-* 📖 **[Computational Incompressible Flow by Johan Hoffman, Claes Johnson](https://freemathematicsbooks.com/B.aspx?FileName=Computational-Incompressible-Flow--Johan-Hoffman)** — **
-* 📖 **[Differential Equations & Linear Algebra by G. B. Gustafson](https://freemathematicsbooks.com/B.aspx?FileName=DE--LA--Grant-Gustafson)** — **
-* 📖 **[Essential Engineering Mathematics by Michael Batty](https://freemathematicsbooks.com/B.aspx?FileName=Essential-Eng-Math--Michael-Batty)** — **
-* 📖 **[Evolutionary Equations and Picard’s Theorem by Christian Seifert](https://freemathematicsbooks.com/B.aspx?FileName=Evolutionary-Equations--Christian-Seifert)** — **
-* 📖 **[Feedback Control Theory by John Doyle, Bruce Francis and Allen Tannenbaum](https://freemathematicsbooks.com/B.aspx?FileName=Feedback-Control-Theory--John-Doyle)** — **
-* 📖 **[Finite Difference Computing with PDEs by Hans Petter Langtangen Finite Difference Computing with PDEs by Hans Petter Langtangen](https://freemathematicsbooks.com/B.aspx?FileName=Finite-Difference-PDEs--Hans-Langtangen)** — **
+* 📖 **[Applied Analysisv](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Analysis--John-Hunter)** — *by John K. Hunter, Bruno Nachtergaele*
+* 📖 **[Applied & Computational Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Computational-Linear-Algebra--Charles-Byrne)** — *by Charles Byrne*
+* 📖 **[Applied DE & Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Applied-DE-LA--Grant-Gustafson)** — *by Grant B. Gustafson*
+* 📖 **[Applied Finite Mathematics](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Finite-Mathematics--Roberta-Bloom)** — *by Roberta Bloom, Rupinder Sekhon*
+* 📖 **[Applied Mathematics in Ferroelectricity and Piezoelectricity](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Math-Ferroelectricity-Piezoelectricity--Kenji-Uchino)** — *by Kenji Uchino*
+* 📖 **[Complex and Adaptive Dynamical Systems: A Primer](https://freemathematicsbooks.com/B.aspx?FileName=Complex-Adaptive-Dynamical-Systems--Claudius-Gros)** — *by Claudius Gros*
+* 📖 **[Calculus Of Finite Differences Fourth Edition](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Finite-Differences--George-Boole)** — *by George Boole*
+* 📖 **[Computational Incompressible Flow](https://freemathematicsbooks.com/B.aspx?FileName=Computational-Incompressible-Flow--Johan-Hoffman)** — *by Johan Hoffman, Claes Johnson*
+* 📖 **[Differential Equations & Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=DE--LA--Grant-Gustafson)** — *by G. B. Gustafson*
+* 📖 **[Essential Engineering Mathematics](https://freemathematicsbooks.com/B.aspx?FileName=Essential-Eng-Math--Michael-Batty)** — *by Michael Batty*
+* 📖 **[Evolutionary Equations and Picard’s Theorem](https://freemathematicsbooks.com/B.aspx?FileName=Evolutionary-Equations--Christian-Seifert)** — *by Christian Seifert*
+* 📖 **[Feedback Control Theory](https://freemathematicsbooks.com/B.aspx?FileName=Feedback-Control-Theory--John-Doyle)** — *by John Doyle, Bruce Francis and Allen Tannenbaum*
+* 📖 **[Finite Difference Computing with PDEs](https://freemathematicsbooks.com/B.aspx?FileName=Finite-Difference-PDEs--Hans-Langtangen)** — *by Hans Petter Langtangen*
 
-* 📖 **[Finite Element Analysis - From Biomedical to Industrial by David Moratal](https://freemathematicsbooks.com/B.aspx?FileName=Finite-Element-Analysis--David-Moratal)** — **
-* 📖 **[Finite Element Methods for Electromagnetics by Stanley Humphries Jr](https://freemathematicsbooks.com/B.aspx?FileName=Finite-Element-Methods--Stanley-Humphries)** — **
-* 📖 **[Foundations of Signal Processing by Martin Vetterli, et al](https://freemathematicsbooks.com/B.aspx?FileName=Foundations-Signal-Processing--Martin-Vetterli)** — **
-* 📖 **[The Fractional Calculus: Theory and Applications by Oldham & Spanier](https://freemathematicsbooks.com/B.aspx?FileName=Fractional-Calculus--Keith-Oldham)** — **
-* 📖 **[Fuzzy Mathematics by Etienne Kerre, John Mordeson](https://freemathematicsbooks.com/B.aspx?FileName=Fuzzy-Mathematics--Etienne-Kerre)** — **
-* 📖 **[Games, Fixed Points and Mathematical Economics by Ewald & McLennan](https://freemathematicsbooks.com/B.aspx?FileName=Games-Fixed-Points--Christian-Ewald)** — **
+* 📖 **[Finite Element Analysis - From Biomedical to Industrial](https://freemathematicsbooks.com/B.aspx?FileName=Finite-Element-Analysis--David-Moratal)** — *by David Moratal*
+* 📖 **[Finite Element Methods for Electromagnetics](https://freemathematicsbooks.com/B.aspx?FileName=Finite-Element-Methods--Stanley-Humphries)** — *by Stanley Humphries Jr*
+* 📖 **[Foundations of Signal Processing](https://freemathematicsbooks.com/B.aspx?FileName=Foundations-Signal-Processing--Martin-Vetterli)** — *by Martin Vetterli, et al*
+* 📖 **[The Fractional Calculus: Theory and Applications](https://freemathematicsbooks.com/B.aspx?FileName=Fractional-Calculus--Keith-Oldham)** — *by Oldham & Spanier*
+* 📖 **[Fuzzy Mathematics](https://freemathematicsbooks.com/B.aspx?FileName=Fuzzy-Mathematics--Etienne-Kerre)** — *by Etienne Kerre, John Mordeson*
+* 📖 **[Games, Fixed Points and Mathematical Economics](https://freemathematicsbooks.com/B.aspx?FileName=Games-Fixed-Points--Christian-Ewald)** — *by Ewald & McLennan*
 
-* 📖 **[Interest and Derivatives Markets by Marcel B. Finan](https://freemathematicsbooks.com/B.aspx?FileName=Interest-Derivatives-Markets--Marcel-Finan)** — **
-* 📖 **[Introduction to Mathematical Finance by Kaisa Taipale](https://freemathematicsbooks.com/B.aspx?FileName=Intro-Mathematical-Finance--Kaisa-Taipale)** — **
-* 📖 **[Linear Algebra by David Cherney, Denton and Waldron](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra--David-Cherney)** — **
-* 📖 **[Linear Algebra for Computer Vision & ML by Jean Gallier](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Computer-Machine-Learning--Jean-Gallier)** — **
-* 📖 **[Linear Algebra for Physicists & Engineers by Arak Mathai](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Physicists-Engineers--Arak-Mathai)** — **
-* 📖 **[Linear Algebra, Theory And Applications by Kenneth Kuttler](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Theory-App--Kenneth-Kuttler)** — **
-* 📖 **[Linear PDEs and Fourier Theory by Marcus Pivato](https://freemathematicsbooks.com/B.aspx?FileName=LPDEs-Fourier-Theory--Marcus-Pivato)** — **
-* 📖 **[Making Presentation Math Computable by André Greiner-Petter](https://freemathematicsbooks.com/B.aspx?FileName=Making-Presentation-Math-Computable--Greiner-Petter)** — **
-* 📖 **[Mathematics for Algorithm and System Analysis by Bender & Williamson](https://freemathematicsbooks.com/B.aspx?FileName=Math-Algorithm-System-Analysis--Edward-Bender)** — **
-* 📖 **[Math Alive by Ingrid Daubechies, Shannon Hughes](https://freemathematicsbooks.com/B.aspx?FileName=Math-Alive--Ingrid-Daubechies
-* 📖 **[Mathematics for Computer Scientists by Gareth J. Janacek, Mark Lemmon Close](https://freemathematicsbooks.com/B.aspx?FileName=Math-Computer-Scientists--Gareth-Janacek)** — **
-* 📖 **[Mathematics for the Physical Sciences by Herbert S. Wilf](https://freemathematicsbooks.com/B.aspx?FileName=Math-Physical-Sciences--Herbert-Wilf)** — **
-* 📖 **[Mathematical Control Theory by Eduardo D. Sontag](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Control-Theory--Eduardo-Sontag)** — **
-* 📖 **[Mathematical Linguistics by Andras Kornai](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Linguistics--Andras-Kornai)** — **
+* 📖 **[Interest and Derivatives Markets](https://freemathematicsbooks.com/B.aspx?FileName=Interest-Derivatives-Markets--Marcel-Finan)** — *by Marcel B. Finan*
+* 📖 **[Introduction to Mathematical Finance](https://freemathematicsbooks.com/B.aspx?FileName=Intro-Mathematical-Finance--Kaisa-Taipale)** — *by Kaisa Taipale*
+* 📖 **[Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra--David-Cherney)** — *by David Cherney, Denton and Waldron*
+* 📖 **[Linear Algebra for Computer Vision & ML](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Computer-Machine-Learning--Jean-Gallier)** — *by Jean Gallier*
+* 📖 **[Linear Algebra for Physicists & Engineers](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Physicists-Engineers--Arak-Mathai)** — *by Arak Mathai*
+* 📖 **[Linear Algebra, Theory And Applications](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Theory-App--Kenneth-Kuttler)** — *by Kenneth Kuttler*
+* 📖 **[Linear PDEs and Fourier Theory](https://freemathematicsbooks.com/B.aspx?FileName=LPDEs-Fourier-Theory--Marcus-Pivato)** — *by Marcus Pivato*
+* 📖 **[Making Presentation Math Computable](https://freemathematicsbooks.com/B.aspx?FileName=Making-Presentation-Math-Computable--Greiner-Petter)** — *by André Greiner-Petter*
+* 📖 **[Mathematics for Algorithm and System Analysis](https://freemathematicsbooks.com/B.aspx?FileName=Math-Algorithm-System-Analysis--Edward-Bender)** — *by Bender & Williamson*
+* 📖 **[Math Alive](https://freemathematicsbooks.com/B.aspx?FileName=Math-Alive--Ingrid-Daubechies)** — *by Ingrid Daubechies, Shannon Hughes*
+* 📖 **[Mathematics for Computer Scientists](https://freemathematicsbooks.com/B.aspx?FileName=Math-Computer-Scientists--Gareth-Janacek)** — *by Gareth J. Janacek, Mark Lemmon Close*
+* 📖 **[Mathematics for the Physical Sciences](https://freemathematicsbooks.com/B.aspx?FileName=Math-Physical-Sciences--Herbert-Wilf)** — *by Herbert S. Wilf*
+* 📖 **[Mathematical Control Theory](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Control-Theory--Eduardo-Sontag)** — *by Eduardo D. Sontag*
+* 📖 **[Mathematical Linguistics](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Linguistics--Andras-Kornai)** — *by Andras Kornai*
 
 
-* 📖 **[Mathematical Methods in Quantum Mechanics by Gerald Teschl](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Methods-Quantum-Mechanics--Gerald-Teschl)** — **
-* 📖 **[Mathematical Tools for Physics by James Nearing](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Tools-Physics--James-Nearing)** — **
-* 📖 **[A Theory Revolutionizing Technology and Science by Avi Wigderson](https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Computation--Avi-Wigderson)** — **
-* 📖 **[Mathematics for Game Developers by Denny Burzynski](https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Game-Developers--Denny-Burzynski)** — **
-* 📖 **[Mathematics and Music by David Wright](https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Music--David-Wright)** — **
-* 📖 **[Matrix Algebra with Computational Applications by Dirk Colbry](https://freemathematicsbooks.com/B.aspx?FileName=Matrix-Algebra-Computational-App--Dirk-Colbry)** — **
-* 📖 **[Modeling with Data by Ben Klemens](https://freemathematicsbooks.com/B.aspx?FileName=Modeling-Data--Ben-Klemens
-* 📖 **[Music: A Mathematical Offering by David J. Benson](https://freemathematicsbooks.com/B.aspx?FileName=Music-A-Mathematical-Offering--David-Benson)** — **
-* 📖 **[Networks, Crowds, and Markets by David Easley, Jon Kleinberg](https://freemathematicsbooks.com/B.aspx?FileName=Networks-Crowds-Markets--David-Easley)** — **
-* 📖 **[Numerical Methods for ODEs by Kees Vuik and Fred Vermolen](https://freemathematicsbooks.com/B.aspx?FileName=Numerical-Methods-ODEs--Kees-Vuik)** — **
-* 📖 **[Probability in Electrical Engineering and Computer Science by Jean Walrand](https://freemathematicsbooks.com/B.aspx?* 📖 **[FileName=Probability-Electrical-Eng-Computer-Science--Jean-Walrand)** — **
-* 📖 **[Solved Problems in Nonlinear Oscillations by Zeng He, Wen Jiang, Lin Wang](https://freemathematicsbooks.com/B.aspx?FileName=Solved-Problems-Nonlinear-Oscillations--Zeng-He)** — **
-* 📖 **[Solving Ordinary Differential Equations in Python by Joakim Sundnes](https://freemathematicsbooks.com/B.aspx?FileName=Solving-ODE-Python--Joakim-Sundnes)** — **
-* 📖 **[Solving PDEs in Python: The Fenics Tutorial I by Hans Langtangen](https://freemathematicsbooks.com/B.aspx?FileName=Solving-PDEs-Python--Hans-Langtangen)** — **
+* 📖 **[Mathematical Methods in Quantum Mechanics](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Methods-Quantum-Mechanics--Gerald-Teschl)** — *by Gerald Teschl*
+* 📖 **[Mathematical Tools for Physics](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Tools-Physics--James-Nearing)** — *by James Nearing*
+* 📖 **[A Theory Revolutionizing Technology and Science](https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Computation--Avi-Wigderson)** — *by Avi Wigderson*
+* 📖 **[Mathematics for Game Developers](https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Game-Developers--Denny-Burzynski)** — *by Denny Burzynski*
+* 📖 **[Mathematics and Music](https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Music--David-Wright)** — *by David Wright*
+* 📖 **[Matrix Algebra with Computational Applications](https://freemathematicsbooks.com/B.aspx?FileName=Matrix-Algebra-Computational-App--Dirk-Colbry)** — *by Dirk Colbry*
+* 📖 **[Modeling with Data](https://freemathematicsbooks.com/B.aspx?FileName=Modeling-Data--Ben-Klemen)** — *sby Ben Klemens*
+* 📖 **[Music: A Mathematical Offering](https://freemathematicsbooks.com/B.aspx?FileName=Music-A-Mathematical-Offering--David-Benson)** — *by David J. Benson*
+* 📖 **[Networks, Crowds, and Markets](https://freemathematicsbooks.com/B.aspx?FileName=Networks-Crowds-Markets--David-Easley)** — *by David Easley, Jon Kleinberg*
+* 📖 **[Numerical Methods for ODEs](https://freemathematicsbooks.com/B.aspx?FileName=Numerical-Methods-ODEs--Kees-Vuik)** — *by Kees Vuik and Fred Vermolen*
+* 📖 **[Probability in Electrical Engineering and Computer Science](https://freemathematicsbooks.com/B.aspx?FileName=Probability-Electrical-Eng-Computer-Science--Jean-Walrand)** — *by Jean Walrand*
+* 📖 **[Solved Problems in Nonlinear Oscillations](https://freemathematicsbooks.com/B.aspx?FileName=Solved-Problems-Nonlinear-Oscillations--Zeng-He)** — *by Zeng He, Wen Jiang, Lin Wang*
+* 📖 **[Solving Ordinary Differential Equations in Python](https://freemathematicsbooks.com/B.aspx?FileName=Solving-ODE-Python--Joakim-Sundnes)** — *by Joakim Sundnes*
+* 📖 **[Solving PDEs in Python: The Fenics Tutorial I](https://freemathematicsbooks.com/B.aspx?FileName=Solving-PDEs-Python--Hans-Langtangen)** — *by Hans Langtangen*
 
-* 📖 **[Techniques of Applied Mathematics by Andrew Fowler](https://freemathematicsbooks.com/B.aspx?FileName=Techniques-Applied-Math--Andrew-Fowler)** — **
-* 📖 **[The Calculus for Engineers by John Perry](https://freemathematicsbooks.com/B.aspx?FileName=The-Calculus-Engineers--John-Perry)** — **
-* 📖 **[Theory and Applications of Ordered Fuzzy Numbers by Piotr Prokopowicz](https://freemathematicsbooks.com/B.aspx?FileName=Theory-App-Ordered-Fuzzy-Numbers--Piotr-Prokopowicz)** — **
+* 📖 **[Techniques of Applied Mathematics](https://freemathematicsbooks.com/B.aspx?FileName=Techniques-Applied-Math--Andrew-Fowler)** — *by Andrew Fowler*
+* 📖 **[The Calculus for Engineers](https://freemathematicsbooks.com/B.aspx?FileName=The-Calculus-Engineers--John-Perry)** — *by John Perry*
+* 📖 **[Theory and Applications of Ordered Fuzzy Numbers](https://freemathematicsbooks.com/B.aspx?FileName=Theory-App-Ordered-Fuzzy-Numbers--Piotr-Prokopowicz)** — *by Piotr Prokopowicz*
 
 ---
 
