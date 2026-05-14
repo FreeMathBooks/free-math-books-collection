@@ -22,18 +22,18 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 
 * 📖 **[A Problem Text in Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Problem-Text-Advanced-Calculus--John-Erdman)** — *by John M. Erdman*
 
-Modeling, Functions, and Graphs by Katherine Yoshiwarahttps://freemathematicsbooks.com/B.aspx?FileName=Algebra-College-Students--Katherine-Yoshiwara
-Algebra and Trigonometry by Jay Abramsonhttps://freemathematicsbooks.com/B.aspx?FileName=Algebra-Trigonometry--Jay-Abramson
-Algebra and Trigonometry by Michael Sullivanhttps://freemathematicsbooks.com/B.aspx?FileName=Algebra-Trigonometry--Michael-Sullivan
-College Algebra and Trigonometry by Richard Beveridgehttps://freemathematicsbooks.com/B.aspx?FileName=College-Algebra-Trig--Richard-Beveridge
-Geometry, Algebra, and Trigonometry by Thomas Kirkmanhttps://freemathematicsbooks.com/B.aspx?FileName=Geometry-Algebra-Trig--Thomas-Kirkman
-Intermediate Algebra by Katherine Yoshiwarahttps://freemathematicsbooks.com/B.aspx?FileName=Intermediate-Algebra--Katherine-Yoshiwara
-Lecture Notes on Precalculus by Eleftherios Gkioulekas https://freemathematicsbooks.com/B.aspx?FileName=Lecture-Notes-Precalculus--Eleftherios-Gkioulekas
-Precaclulus, An Investigation of Functions by David Lippmanhttps://freemathematicsbooks.com/B.aspx?FileName=Precalculus--David-Lippman
-Arithmetic, Geometry, Algebra and Trigonometry by Claude Palmerhttps://freemathematicsbooks.com/B.aspx?FileName=Practical-Mathematics--Claude-Palmer
-The Teaching of Algebra (Including Trigonometry) by Thomas Nunnhttps://freemathematicsbooks.com/B.aspx?FileName=Teaching-Algebra-Including-Trig--Thomas-Nunn
-Trigonometry, and Trigonometrical Analysis by Augustus De Morganhttps://freemathematicsbooks.com/B.aspx?FileName=Trig-Analysis-Arithmetic-Algebra--Augustus-Morgan
-Intermediate Algebra by Katherine Yoshiwarahttps://freemathematicsbooks.com/B.aspx?FileName=Intermediate-Algebra--Katherine-Yoshiwara
+* 📖 **[Modeling, Functions, and Graphs](https://freemathematicsbooks.com/B.aspx?FileName=Algebra-College-Students--Katherine-Yoshiwara)** — *by Katherine Yoshiwara*
+* 📖 **[Algebra and Trigonometry](https://freemathematicsbooks.com/B.aspx?FileName=Algebra-Trigonometry--Jay-Abramson)** — *by Jay Abramson*
+* 📖 **[Algebra and Trigonometry](https://freemathematicsbooks.com/B.aspx?FileName=Algebra-Trigonometry--Michael-Sullivan)** — *by Michael Sullivan*
+* 📖 **[College Algebra and Trigonometry](https://freemathematicsbooks.com/B.aspx?FileName=College-Algebra-Trig--Richard-Beveridge)** — *by Richard Beveridge*
+* 📖 **[Geometry, Algebra, and Trigonometry](https://freemathematicsbooks.com/B.aspx?FileName=Geometry-Algebra-Trig--Thomas-Kirkman)** — *by Thomas Kirkman*
+* 📖 **[Intermediate Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Intermediate-Algebra--Katherine-Yoshiwara)** — *by Katherine Yoshiwara*
+* 📖 **[Lecture Notes on Precalculus](https://freemathematicsbooks.com/B.aspx?FileName=Lecture-Notes-Precalculus--Eleftherios-Gkioulekas)** — *by Eleftherios Gkioulekas*
+* 📖 **[Precaclulus, An Investigation of Functions](https://freemathematicsbooks.com/B.aspx?FileName=Precalculus--David-Lippman)** — *by David Lippman*
+* 📖 **[Arithmetic, Geometry, Algebra and Trigonometry](https://freemathematicsbooks.com/B.aspx?FileName=Practical-Mathematics--Claude-Palmer)** — *by Claude Palmer*
+* 📖 **[The Teaching of Algebra (Including Trigonometry)](https://freemathematicsbooks.com/B.aspx?FileName=Teaching-Algebra-Including-Trig--Thomas-Nunn)** — *by Thomas Nunn*
+* 📖 **[Trigonometry, and Trigonometrical Analysis](https://freemathematicsbooks.com/B.aspx?FileName=Trig-Analysis-Arithmetic-Algebra--Augustus-Morgan)** — *by Augustus De Morgan*
+* 📖 **[Intermediate Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Intermediate-Algebra--Katherine-Yoshiwara)** — *by Katherine Yoshiwara*
 
 ---
 
