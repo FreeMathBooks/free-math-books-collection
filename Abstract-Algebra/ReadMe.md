@@ -18,20 +18,19 @@ Welcome to the Abstract Algebra resources folder. Here you can find general text
 ### 📚 Recommended General Textbooks
 *Direct links to curated Abstract Algebra books:*
 
-* 📖 **[A Problem Text in Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Problem-Text-Advanced-Calculus--John-Erdman)** — *by John M. Erdman*
-Abstract Algebra: Theory and Applications by Thomas W Judsonhttps://freemathematicsbooks.com/B.aspx?FileName=Abstract-Algebra-Theory-App--Thomas-Judson
-Abstract Algebra: The Basic Graduate Year by Robert B. Ashhttps://freemathematicsbooks.com/B.aspx?FileName=Abstract-Algebra-Basic-Graduate--Robert-Ash
-Algebra: Abstract and Concrete by Frederick M. Goodmanhttps://freemathematicsbooks.com/B.aspx?FileName=Algebra-Abstract--Frederick-Goodman
-Algebra: A Computational Introduction by John Scherkhttps://freemathematicsbooks.com/B.aspx?FileName=Algebra-A-Computational-Intro--John-Scherk
-Algebraic Topology by Allen Hatcherhttps://freemathematicsbooks.com/B.aspx?FileName=Algebraic-Topology--Allen-Hatcher
-Basic Category Theory by Tom Leinster https://freemathematicsbooks.com/B.aspx?FileName=Basic-Category-Theory--Tom-Leinster
-Lecture on Galois Theory by Emil Artinhttps://freemathematicsbooks.com/B.aspx?FileName=Galois-Theory--Emil-Artin
-Linear Algebra: Introduction to Abstract Math by Isaiah Lankhamhttps://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Intro-Abstract-Math--Isaiah-Lankham
-Number Theory and Geometry by Alvaro Lozano-Robledohttps://freemathematicsbooks.com/B.aspx?FileName=Number-Theory-Geometry--Alvaro-Lozano-robledo
-Model Theory, Algebra, and Geometry by Deirdre Haskellhttps://freemathematicsbooks.com/B.aspx?FileName=Model-Theory-Algebra-Geometry--Deirdre-Haskell
-Quaternion Algebras by John Voight https://freemathematicsbooks.com/B.aspx?FileName=Quaternion-Algebras--John-Voight
-Super Linear Algebra by Kandasamy & Smarandachehttps://freemathematicsbooks.com/B.aspx?FileName=Super-Linear-Algebra--Vasantha-Kandasamy
-Topological Groups: Yesterday, Today, Tomorrow by Sidney Morrishttps://freemathematicsbooks.com/B.aspx?FileName=Topological-Groups--Sidney-Morris
+* 📖 **[Abstract Algebra: Theory and Applications](https://freemathematicsbooks.com/B.aspx?FileName=Abstract-Algebra-Theory-App--Thomas-Judson)** — *by Thomas W Judson*
+* 📖 **[Abstract Algebra: The Basic Graduate Year](https://freemathematicsbooks.com/B.aspx?FileName=Abstract-Algebra-Basic-Graduate--Robert-Ash)** — *by Robert B. Ash*
+* 📖 **[Algebra: Abstract and Concrete](https://freemathematicsbooks.com/B.aspx?FileName=Algebra-Abstract--Frederick-Goodman)** — *by Frederick M. Goodman*
+* 📖 **[Algebra: A Computational Introduction](https://freemathematicsbooks.com/B.aspx?FileName=Algebra-A-Computational-Intro--John-Scherk)** — *by John Scherk*
+* 📖 **[Algebraic Topology](https://freemathematicsbooks.com/B.aspx?FileName=Algebraic-Topology--Allen-Hatcher)** — *by Allen Hatcher*
+* 📖 **[Basic Category Theory](https://freemathematicsbooks.com/B.aspx?FileName=Basic-Category-Theory--Tom-Leinster)** — *by Tom Leinster*
+* 📖 **[Lecture on Galois Theory](https://freemathematicsbooks.com/B.aspx?FileName=Galois-Theory--Emil-Artin)** — *by Emil Artin*
+* 📖 **[Linear Algebra: Introduction to Abstract Math](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Intro-Abstract-Math--Isaiah-Lankham)** — *by Isaiah Lankham*
+* 📖 **[Number Theory and Geometry](https://freemathematicsbooks.com/B.aspx?FileName=Number-Theory-Geometry--Alvaro-Lozano-robledo)** — *by Alvaro Lozano-Robledo*
+* 📖 **[Model Theory, Algebra, and Geometry](https://freemathematicsbooks.com/B.aspx?FileName=Model-Theory-Algebra-Geometry--Deirdre-Haskell)** — *by Deirdre Haskell*
+* 📖 **[Quaternion Algebras](https://freemathematicsbooks.com/B.aspx?FileName=Quaternion-Algebras--John-Voight)** — *by John Voight*
+* 📖 **[Super Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Super-Linear-Algebra--Vasantha-Kandasamy)** — *by Kandasamy & Smarandache*
+* 📖 **[Topological Groups: Yesterday, Today, Tomorrow](https://freemathematicsbooks.com/B.aspx?FileName=Topological-Groups--Sidney-Morris)** — *by Sidney Morris*
 
 ---
 
