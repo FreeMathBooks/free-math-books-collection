@@ -25,6 +25,7 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 ### 📚 Recommended General Textbooks
 *Direct links to curated Applied Mathematics books:*
 
+* 📖 **[A Theory Revolutionizing Technology and Science](https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Computation--Avi-Wigderson)** — *by Avi Wigderson*
 * 📖 **[Applied Analysisv](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Analysis--John-Hunter)** — *by John K. Hunter, Bruno Nachtergaele*
 * 📖 **[Applied & Computational Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Computational-Linear-Algebra--Charles-Byrne)** — *by Charles Byrne*
 * 📖 **[Applied DE & Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Applied-DE-LA--Grant-Gustafson)** — *by Grant B. Gustafson*
@@ -42,7 +43,6 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 * 📖 **[Finite Element Analysis - From Biomedical to Industrial](https://freemathematicsbooks.com/B.aspx?FileName=Finite-Element-Analysis--David-Moratal)** — *by David Moratal*
 * 📖 **[Finite Element Methods for Electromagnetics](https://freemathematicsbooks.com/B.aspx?FileName=Finite-Element-Methods--Stanley-Humphries)** — *by Stanley Humphries Jr*
 * 📖 **[Foundations of Signal Processing](https://freemathematicsbooks.com/B.aspx?FileName=Foundations-Signal-Processing--Martin-Vetterli)** — *by Martin Vetterli, et al*
-* 📖 **[The Fractional Calculus: Theory and Applications](https://freemathematicsbooks.com/B.aspx?FileName=Fractional-Calculus--Keith-Oldham)** — *by Oldham & Spanier*
 * 📖 **[Fuzzy Mathematics](https://freemathematicsbooks.com/B.aspx?FileName=Fuzzy-Mathematics--Etienne-Kerre)** — *by Etienne Kerre, John Mordeson*
 * 📖 **[Games, Fixed Points and Mathematical Economics](https://freemathematicsbooks.com/B.aspx?FileName=Games-Fixed-Points--Christian-Ewald)** — *by Ewald & McLennan*
 
@@ -64,7 +64,6 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 
 * 📖 **[Mathematical Methods in Quantum Mechanics](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Methods-Quantum-Mechanics--Gerald-Teschl)** — *by Gerald Teschl*
 * 📖 **[Mathematical Tools for Physics](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Tools-Physics--James-Nearing)** — *by James Nearing*
-* 📖 **[A Theory Revolutionizing Technology and Science](https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Computation--Avi-Wigderson)** — *by Avi Wigderson*
 * 📖 **[Mathematics for Game Developers](https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Game-Developers--Denny-Burzynski)** — *by Denny Burzynski*
 * 📖 **[Mathematics and Music](https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Music--David-Wright)** — *by David Wright*
 * 📖 **[Matrix Algebra with Computational Applications](https://freemathematicsbooks.com/B.aspx?FileName=Matrix-Algebra-Computational-App--Dirk-Colbry)** — *by Dirk Colbry*
@@ -79,6 +78,7 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 
 * 📖 **[Techniques of Applied Mathematics](https://freemathematicsbooks.com/B.aspx?FileName=Techniques-Applied-Math--Andrew-Fowler)** — *by Andrew Fowler*
 * 📖 **[The Calculus for Engineers](https://freemathematicsbooks.com/B.aspx?FileName=The-Calculus-Engineers--John-Perry)** — *by John Perry*
+* 📖 **[The Fractional Calculus: Theory and Applications](https://freemathematicsbooks.com/B.aspx?FileName=Fractional-Calculus--Keith-Oldham)** — *by Oldham & Spanier*
 * 📖 **[Theory and Applications of Ordered Fuzzy Numbers](https://freemathematicsbooks.com/B.aspx?FileName=Theory-App-Ordered-Fuzzy-Numbers--Piotr-Prokopowicz)** — *by Piotr Prokopowicz*
 
 ---
