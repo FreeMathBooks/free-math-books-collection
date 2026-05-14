@@ -24,7 +24,6 @@ Welcome to the Probability & Statistics resources folder. Here you can find gene
 ### 📚 Recommended General Textbooks
 *Direct links to curated Probability & Statistics books:*
 
-* 📖 **[A Problem Text in Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Problem-Text-Advanced-Calculus--John-Erdman)** — *by John M. Erdman*
 * 📖 **[An Introduction to Probabilistic Programming](https://freemathematicsbooks.com/B.aspx?FileName=An-Intro-Probabilistic-Programming--Jan-Meent)** — *by Jan-Willem van de Meent, et al.*
 * 📖 **[Bayesian Methods for Hackers](https://freemathematicsbooks.com/B.aspx?FileName=Bayesian-Methods-Hackers--Cameron-Pilon)** — *by Cameron Davidson-Pilon*
 * 📖 **[Essentials of Stochastic Processes](https://freemathematicsbooks.com/B.aspx?FileName=Essentials-Stochastic-Processes--Rick-Durrett)** — *by Rick Durrett*
