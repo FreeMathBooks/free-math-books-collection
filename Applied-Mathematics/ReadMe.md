@@ -65,7 +65,26 @@ Mathematical Control Theory by Eduardo D. Sontaghttps://freemathematicsbooks.com
 Mathematical Linguistics by Andras Kornai https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Linguistics--Andras-Kornai
 
 
+Mathematical Methods in Quantum Mechanics by Gerald Teschl
+https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Methods-Quantum-Mechanics--Gerald-Teschl
+Mathematical Tools for Physics by James Nearing https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Tools-Physics--James-Nearing
+https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Computation--Avi-Wigderson A Theory Revolutionizing Technology and Science by Avi Wigderson
+Mathematics for Game Developers by Denny Burzynski https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Game-Developers--Denny-Burzynski
+Mathematics and Music by David Wright https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Music--David-Wright
+Matrix Algebra with Computational Applications by Dirk Colbry https://freemathematicsbooks.com/B.aspx?FileName=Matrix-Algebra-Computational-App--Dirk-Colbry
+Modeling with Data by Ben Klemens https://freemathematicsbooks.com/B.aspx?FileName=Modeling-Data--Ben-Klemens
+Music: A Mathematical Offering by David J. Benson https://freemathematicsbooks.com/B.aspx?FileName=Music-A-Mathematical-Offering--David-Benson
+Networks, Crowds, and Markets by David Easley, Jon Kleinberg https://freemathematicsbooks.com/B.aspx?FileName=Networks-Crowds-Markets--David-Easley
+Numerical Methods for ODEs by Kees Vuik and Fred Vermolen https://freemathematicsbooks.com/B.aspx?FileName=Numerical-Methods-ODEs--Kees-Vuik
+Probability in Electrical Engineering and Computer Science by Jean Walrand https://freemathematicsbooks.com/B.aspx?FileName=Probability-Electrical-Eng-Computer-Science--Jean-Walrand
+Solved Problems in Nonlinear Oscillations by Zeng He, Wen Jiang, Lin Wang https://freemathematicsbooks.com/B.aspx?FileName=Solved-Problems-Nonlinear-Oscillations--Zeng-He
+Solving Ordinary Differential Equations in Python by Joakim Sundnes https://freemathematicsbooks.com/B.aspx?FileName=Solving-ODE-Python--Joakim-Sundnes
+Solving PDEs in Python: The Fenics Tutorial I by Hans Langtangen
+https://freemathematicsbooks.com/B.aspx?FileName=Solving-PDEs-Python--Hans-Langtangen
 
+Techniques of Applied Mathematics by Andrew Fowler https://freemathematicsbooks.com/B.aspx?FileName=Techniques-Applied-Math--Andrew-Fowler
+The Calculus for Engineers by John Perry https://freemathematicsbooks.com/B.aspx?FileName=The-Calculus-Engineers--John-Perry
+Theory and Applications of Ordered Fuzzy Numbers by Piotr Prokopowicz https://freemathematicsbooks.com/B.aspx?FileName=Theory-App-Ordered-Fuzzy-Numbers--Piotr-Prokopowicz
 
 
 
