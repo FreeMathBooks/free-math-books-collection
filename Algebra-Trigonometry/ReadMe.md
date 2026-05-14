@@ -26,7 +26,6 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 * 📖 **[College Algebra and Trigonometry](https://freemathematicsbooks.com/B.aspx?FileName=College-Algebra-Trig--Richard-Beveridge)** — *by Richard Beveridge*
 * 📖 **[Geometry, Algebra, and Trigonometry](https://freemathematicsbooks.com/B.aspx?FileName=Geometry-Algebra-Trig--Thomas-Kirkman)** — *by Thomas Kirkman*
 * 📖 **[Intermediate Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Intermediate-Algebra--Katherine-Yoshiwara)** — *by Katherine Yoshiwara*
-* 📖 **[Intermediate Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Intermediate-Algebra--Katherine-Yoshiwara)** — *by Katherine Yoshiwara*
 * 📖 **[Lecture Notes on Precalculus](https://freemathematicsbooks.com/B.aspx?FileName=Lecture-Notes-Precalculus--Eleftherios-Gkioulekas)** — *by Eleftherios Gkioulekas*
 * 📖 **[Modeling, Functions, and Graphs](https://freemathematicsbooks.com/B.aspx?FileName=Algebra-College-Students--Katherine-Yoshiwara)** — *by Katherine Yoshiwara*
 * 📖 **[Precaclulus, An Investigation of Functions](https://freemathematicsbooks.com/B.aspx?FileName=Precalculus--David-Lippman)** — *by David Lippman*
