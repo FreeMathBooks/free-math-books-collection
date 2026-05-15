@@ -1,6 +1,6 @@
 # 📘 Applied Statistics
 
-Applied Statistics textbooks cover data summarization, probability distributions, hypothesis testing, and regression analysis to solve real-world problems using empirical data.
+Welcome to the Applied Statistics textbooks collection.
 
 ---
 
