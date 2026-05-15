@@ -1,18 +1,10 @@
-Introduction to Probability for Data Science by Stanley H. Chan
-https://freemathematicsbooks.com/B.aspx?FileName=Intro-Prob-Data-Science--Stanley-Chan
-Statistical Inference for Data Science by Brian Caffo
-https://freemathematicsbooks.com/B.aspx?FileName=Statistical-Inference-Data-Science--Brian-Caffo
-Introduction to Statistical Thinking by Benjamin Yakir
-https://freemathematicsbooks.com/B.aspx?FileName=Intro-Statistical-Thinking--Benjamin-Yakir
-Stochastic Calculus with Applications to Finance by Michael Kozdron
-https://freemathematicsbooks.com/B.aspx?FileName=Stochastic-Calculus-App-Finance--Michael-Kozdron
-Stochastic Processes & Mathematics of Finance by Jonathan Block
-https://freemathematicsbooks.com/B.aspx?FileName=Stochastic-Processes-Math-Finance--Jonathan-Block
-Probability: Theory and Examples by Rick Durrett
-https://freemathematicsbooks.com/B.aspx?FileName=Probability-Theory-Examples--Rick-Durrett
-Introduction to Probability by Grinstead & Snell
-https://freemathematicsbooks.com/B.aspx?FileName=Intro-Probability--Grinstead--Snell
-Random Graphs and Complex Networks by Remco van der Hofstad
-https://freemathematicsbooks.com/B.aspx?FileName=Random-Graphs-Complex-Networks--Remco-Hofstad
-Lectures on Stochastic Processes by Kiyosi Itô
-https://freemathematicsbooks.com/B.aspx?FileName=Lectures-Stochastic-Processes--Kiyosi-Ito
+* 📖 **[A Problem Text in Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Problem-Text-Advanced-Calculus--John-Erdman)** — *by John M. Erdman*
+* 📖 **[Introduction to Probability for Data Science](https://freemathematicsbooks.com/B.aspx?FileName=Intro-Prob-Data-Science--Stanley-Chan)** — *by Stanley H. Chan*
+* 📖 **[Statistical Inference for Data Science](https://freemathematicsbooks.com/B.aspx?FileName=Statistical-Inference-Data-Science--Brian-Caffo)** — *by Brian Caffo*
+* 📖 **[Introduction to Statistical Thinking](https://freemathematicsbooks.com/B.aspx?FileName=Intro-Statistical-Thinking--Benjamin-Yakir)** — *by Benjamin Yakir*
+* 📖 **[Stochastic Calculus with Applications to Finance](https://freemathematicsbooks.com/B.aspx?FileName=Stochastic-Calculus-App-Finance--Michael-Kozdron)** — *by Michael Kozdron*
+* 📖 **[Stochastic Processes & Mathematics of Finance](https://freemathematicsbooks.com/B.aspx?FileName=Stochastic-Processes-Math-Finance--Jonathan-Block)** — *by Jonathan Block*
+* 📖 **[Probability: Theory and Examples](https://freemathematicsbooks.com/B.aspx?FileName=Probability-Theory-Examples--Rick-Durrett)** — *by Rick Durrett*
+* 📖 **[Introduction to Probability](https://freemathematicsbooks.com/B.aspx?FileName=Intro-Probability--Grinstead--Snell)** — *by Grinstead & Snell*
+* 📖 **[Random Graphs and Complex Networks](https://freemathematicsbooks.com/B.aspx?FileName=Random-Graphs-Complex-Networks--Remco-Hofstad)** — *by Remco van der Hofstad*
+* 📖 **[Lectures on Stochastic Processes](https://freemathematicsbooks.com/B.aspx?FileName=Lectures-Stochastic-Processes--Kiyosi-Ito)** — *by Kiyosi Itô*
