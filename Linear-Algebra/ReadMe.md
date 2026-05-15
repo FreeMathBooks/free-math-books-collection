@@ -34,6 +34,26 @@ Welcome to the Linear Algebra resources folder. Here you can find general textbo
 * 📖 **[Linear Algebra with Python](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Python--Sean-Fitzpatrick)** — *by Sean Fitzpatrick*
 * 📖 **[Matrix Theory and Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Matrix-Theory-Linear-Algebra--Peter-Selinger)** — *by Peter Selinger*
 * 📖 **[Understanding Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Understanding-Linear-Algebra--David-Austin)** — *by David Austin*
+
+
+* 📖 **[A Quick Steep Climb Up Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=A-Quick-Linear-Algebra--Stephen-Davies)** — *by Stephen Davies*
+* 📖 **[Super Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Super-Linear-Algebra--Vasantha-Kandasamy)** — *by Kandasamy & Smarandache*
+* 📖 **[Special Set Linear Algebra and Special Set Fuzzy Linear](https://freemathematicsbooks.com/B.aspx?FileName=Special-Set-Linear-Algebra--Vasantha-Kandasamy)** — *by V. Kandasamy*
+* 📖 **[Linear Algebra via Exterior Products](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-exterior--Sergei-Winitzki)** — *by Sergei Winitzki*
+* 📖 **[Applied & Computational Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Computational-Linear-Algebra--Charles-Byrne)** — *by Charles Byrne*
+* 📖 **[Linear Algebra with Applications](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-App--Keith-Nicholson)** — *by Keith Nicholson*
+* 📖 **[Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra--David-Cherney)** — *by David Cherney, Denton and Waldron*
+* 📖 **[Linear Algebra for Computer Vision & ML](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Computer-Machine-Learning--Jean-Gallier)** — *by Jean Gallier*
+* 📖 **[Linear Algebra Done Right](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Done-Right--Sheldon-Axler)** — *by Sheldon Axler*
+* 📖 **[Notes for Computational Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Notes-Computational-Linear-Algebra--Jessy-Grizzle)** — *by Jessy Grizzle*
+* 📖 **[Advanced Linear Algebra: Foundations to Frontiers](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Linear-Algebra--Robert-Geijn)** — *by Robert Geijn*
+* 📖 **[Computational Methods of Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Computational-Methods-Linear-Algebra--V-Faddeeva)** — *by V. N. Faddeeva*
+* 📖 **[Linear Algebra for Physicists & Engineers](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Physicists-Engineers--Arak-Mathai)** — *by Arak Mathai*
+* 📖 **[Tea Time Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Tea-Time-Linear-Algebra--Leon-Brin)** — *by Leon Q. Brin*
+* 📖 **[Super Special Codes Using Super Matrices](https://freemathematicsbooks.com/B.aspx?FileName=Super-Special-Matrices--Vasantha-Kandasamy)** — *by Kandasamy & Smarandache*
+* 📖 **[Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra--Wikibooks)** — *by Wikibooks*
+* 📖 **[Numerical Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Numerical-Linear-Algebra--Pavel-Cizek)** — *by Pavel Cížek, Lenka Cížková*
+* 📖 **[Some Linear Algebra for Econometrics](https://freemathematicsbooks.com/B.aspx?FileName=Some-Linear-Algebra-Econometrics--Frank-Pinter)** — *by Frank Pinter*
 ---
 
 ### 🔙 Navigation
