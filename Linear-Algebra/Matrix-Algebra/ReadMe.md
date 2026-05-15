@@ -1,8 +1,8 @@
-# 📘 Applied Statistics
+# 📘 Matrix Algebra
 
-Welcome to the Applied Statistics textbooks collection.
-* 📖 *Visit our* **[Applied Statistics Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Statistics)** *online*
-* 📖 *Visit our* **[Probability and Statistics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Probability-Statistics)** *online*
+Welcome to the Matrix Algebra textbooks collection.
+* 📖 *Visit our* **[Matrix Algebra Library](https://freemathematicsbooks.com/A.aspx?Id=Matrix-Algebra)** *online*
+* 📖 *Visit our* **[Linear Algebra Main Library](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
@@ -26,7 +26,7 @@ Welcome to the Applied Statistics textbooks collection.
 ---
 
 ### 🔙 Navigation
-* [⬅️ Back to Main Probability and Statistics Category](../)
+* [⬅️ Back to Main Linear Algebra Category](../)
 * [🏠 Back to Home Repository](../../../../)
 
 ---
