@@ -56,6 +56,14 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 * 📖 **[Vector Analysis](https://freemathematicsbooks.com/B.aspx?FileName=Vector-Analysis--Josiah-Gibbs--Edwin-Wilson)** — *by Josiah Gibbs and Edwin Wilson*
 * 📖 **[Vector Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Vector-Calculus--Michael-Corral)** — *by Michael Corral*
 
+* 📖 **[APEX Calculus](https://freemathematicsbooks.com/B.aspx?FileName=APEX-Calculus--Gregory-Hartman)** — *by Gregory Hartman*
+* 📖 **[Higher Math for Students of Chemistry & Physics](https://freemathematicsbooks.com/B.aspx?FileName=Higher-Math-Students-Chemistry-Physics--Joseph-Mellor)** — *by Joseph Mellor*
+* 📖 **[Calculus for the Life Sciences 1](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Life-Sciences-1--Cornette--Ackerman)** — *by James Cornette, Ralph Ackerman*
+* 📖 **[Calculus for the Life Sciences 2](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Life-Sciences-2--Cornette--Ackerman)** — *by James Cornette, Ralph Ackerman*
+* 📖 **[Business Calculus with Excel](https://freemathematicsbooks.com/B.aspx?FileName=Business-Calculus-Excel--Mike-May)** — *by Mike May, S.J. & Anneke Bart*
+* 📖 **[Informal Calculus: Bio & Environmental Sciences](https://freemathematicsbooks.com/B.aspx?FileName=Informal-Calculus-Bio-Eco-Sciences--Tyler-Seacrest)** — *by Tyler Seacrest*
+* 📖 **[Formal Logic, or, The Calculus of Inference, Necessary and Probable](https://freemathematicsbooks.com/B.aspx?FileName=Formal-Logic-The-Calculus-Inference--De-Morgan)** — *by De Morgan*
+
 ---
 
 ### 🔙 Navigation
