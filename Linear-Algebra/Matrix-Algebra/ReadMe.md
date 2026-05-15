@@ -1,12 +1,12 @@
-Linear Transformations on Vector Spaces by Scott Kaschner, Amber Russell	Linear-Transformations-Vector-Spaces--Scott-Kaschner
-Fundamentals of Matrix Algebra by Gregory Hartman	Fundamentals-Matrix-Algebra--Gregory-Hartman
-Matrix Algebra with Computational Applications by Dirk Colbry	Matrix-Algebra-Computational-App--Dirk-Colbry
-Lecture Notes of Matrix Computations by Wen Wei Lin	Lecture-Notes-Matrix-Computations--Wen-Wei-Lin
-Theory of Determinants in the Historical Order of Development by Thomas Muir	Theory-Determinants-Historical-Order--Thomas-Muir
-Contributions To The History Of Determinants 1900 1920 by Thomas Muir	Contributions-History-Determinants--Thomas-Munir
-Theory of Determinants with Graduated Sets of Exercises by Thomas Muir	Theory-Determinants-Colleges--Thomas-Muir
-An Elementary Treatise on Determinants by Lewis Carroll	An-Elementary-Treatise-Determinants--Lewis-Carroll
-From Determinant To Tensor by William Sheppard	From-Determinant-To-Tensor--William-Sheppard
-Matrices and Determinoids 1 by Cuthbert Edmund Cullis	Matrices-Determinoids-1--Cuthbert-Cullis
-Matrices and Determinoids 2 by Cuthbert Cullis	Matrices-Determinoids-2--Cuthbert-Cullis
-Matrices and Determinoids 3 by Cuthbert Edmund Cullis	Matrices-Determinoids-3--Cuthbert-Cullis
+* 📖 **[Linear Transformations on Vector Spaces](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Transformations-Vector-Spaces--Scott-Kaschner)** — *by Scott Kaschner, Amber Russell*
+* 📖 **[Fundamentals of Matrix Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Fundamentals-Matrix-Algebra--Gregory-Hartman)** — *by Gregory Hartman*
+* 📖 **[Matrix Algebra with Computational Applications](https://freemathematicsbooks.com/B.aspx?FileName=Matrix-Algebra-Computational-App--Dirk-Colbry)** — *by Dirk Colbry*
+* 📖 **[Lecture Notes of Matrix Computations](https://freemathematicsbooks.com/B.aspx?FileName=Lecture-Notes-Matrix-Computations--Wen-Wei-Lin)** — *by Wen Wei Lin*
+* 📖 **[Theory of Determinants in the Historical Order of Development](https://freemathematicsbooks.com/B.aspx?FileName=Theory-Determinants-Historical-Order--Thomas-Muir)** — *by Thomas Muir*
+* 📖 **[Contributions To The History Of Determinants 1900 1920](https://freemathematicsbooks.com/B.aspx?FileName=Contributions-History-Determinants--Thomas-Munir)** — *by Thomas Muir*
+* 📖 **[Theory of Determinants with Graduated Sets of Exercises](https://freemathematicsbooks.com/B.aspx?FileName=Theory-Determinants-Colleges--Thomas-Muir)** — *by Thomas Muir*
+* 📖 **[An Elementary Treatise on Determinants](https://freemathematicsbooks.com/B.aspx?FileName=An-Elementary-Treatise-Determinants--Lewis-Carroll)** — *by Lewis Carroll*
+* 📖 **[From Determinant To Tensor](https://freemathematicsbooks.com/B.aspx?FileName=From-Determinant-To-Tensor--William-Sheppard)** — *by William Sheppard*
+* 📖 **[Matrices and Determinoids 1](https://freemathematicsbooks.com/B.aspx?FileName=Matrices-Determinoids-1--Cuthbert-Cullis)** — *by Cuthbert Edmund Cullis*
+* 📖 **[Matrices and Determinoids 2](https://freemathematicsbooks.com/B.aspx?FileName=Matrices-Determinoids-2--Cuthbert-Cullis)** — *by Cuthbert Edmund Cullis*
+* 📖 **[Matrices and Determinoids 3](https://freemathematicsbooks.com/B.aspx?FileName=Matrices-Determinoids-3--Cuthbert-Cullis)** — *by Cuthbert Edmund Cullis*
