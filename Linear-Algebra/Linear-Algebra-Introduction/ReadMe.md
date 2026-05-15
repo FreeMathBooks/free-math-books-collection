@@ -1,8 +1,8 @@
-# 📘 Applied Statistics
+# 📘 Linear Algebra (Introduction)
 
-Welcome to the Applied Statistics textbooks collection.
-* 📖 *Visit our* **[Applied Statistics Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Statistics)** *online*
-* 📖 *Visit our* **[Probability and Statistics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Probability-Statistics)** *online*
+Welcome to the Linear Algebra (Introduction) textbooks collection.
+* 📖 *Visit our* **[Linear Algebra (Introduction) Library](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra-Intro)** *online*
+* 📖 *Visit our* **[Linear Algebra Main Library](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
@@ -20,7 +20,7 @@ Welcome to the Applied Statistics textbooks collection.
 ---
 
 ### 🔙 Navigation
-* [⬅️ Back to Main Probability and Statistics Category](../)
+* [⬅️ Back to Main Linear Algebra Category](../)
 * [🏠 Back to Home Repository](../../../../)
 
 ---
