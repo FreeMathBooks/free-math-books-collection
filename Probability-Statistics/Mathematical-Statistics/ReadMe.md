@@ -1,6 +1,6 @@
 # 📘 Mathematical Statistics
 
-Welcome to the Introductory Statistics textbooks collection.
+Welcome to the Mathematical Statistics textbooks collection.
 * 📖 *Visit our* **[Mathematical Statistics Library](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Statistics)** *online*
 * 📖 *Visit our* **[Probability and Statistics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Probability-Statistics)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
