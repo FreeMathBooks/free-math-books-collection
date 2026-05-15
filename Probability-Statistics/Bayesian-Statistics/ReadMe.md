@@ -1,6 +1,9 @@
 # 📘 Bayesian Statistics
 
-Bayesian Statistics textbooks cover updating hypothesis probabilities using Bayes’ Theorem, focusing on prior and posterior distributions, MCMC methods, and probabilistic modeling to quantify uncertainty.
+Welcome to the Bayesian Statistics textbooks collection.
+* 📖 *Visit our* **[Bayesian Statistics Library](https://freemathematicsbooks.com/A.aspx?Id=Bayesian-Statistics)** *online*
+* 📖 *Visit our* **[Probability and Statistics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Probability-Statistics)** *online*
+* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
 
