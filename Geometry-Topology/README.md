@@ -29,6 +29,15 @@ Welcome to the Geometry and Topology resources folder. Here you can find general
 * 📖 **[Calculus Made Easy](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Made-Easy--Silvanus-Thompson)** — *by Silvanus P. Thompson*
 * 📖 **[Calculus and Probability for Actuarial Students](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Probability-Actuarial-Students--Alfred-Henry)** — *by Alfred Henry*
 
+
+Lectures on Symplectic Geometry by Ana Cannas da Silva	Lectures-Symplectic-Geometry--Cannas-da-Silva
+The Fourth Dimension by Charles Howard Hinton	The-Fourth-Dimension--Charles-Hinton
+The Axioms Of Descriptive Geometry by Alfred North Whitehead	The-Axioms-Descriptive-Geometry--Alfred-Whitehead
+The Geometry of Fractal Sets by Kenneth Falconer	The-Geometry-Fractal-Sets--Kenneth-Falconer
+Fractal Geometry by Kenneth Falconer	Fractal-Geometry--Kenneth-Falconer
+The Fractal Geometry of Nature by Benoit Mandelbrot	The-Fractal-Geometry-Nature--Benoit-Mandelbrot
+Curves and Surfaces in Geometric Modeling by Jean Gallier	Curves-Surfaces-Geometric-Modeling--Jean-Gallier
+The Legacy of Felix Klein by Weigand, McCallum & Menghini	The-Legacy-Felix-Klein--Hans-Georg-Weigand
 ---
 
 ### 🔙 Navigation
