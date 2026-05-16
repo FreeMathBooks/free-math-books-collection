@@ -1,18 +1,18 @@
-Intermediate Algebra by Katherine Yoshiwara	Intermediate-Algebra--Katherine-Yoshiwara
-Intermediate Algebra by Donna Gaudet, William Meacham	Intermediate-Algebra--Donna-Gaudet
-First Year Mathematics by George W. Evans, John A. Marsh	First-Year-Math--George-Evans
-Understanding Algebra by James W. Brennan	Understanding-Algebra--James-Brennan
-Beginning and Intermediate Algebra by Tyler Wallace	Beginning-Int-Algebra--Tyler-Wallace
-Primary Mathematics by Wikibooks	Primary-Math--Wikibooks
-Elementary Algebra by John Redden	Elementary-Algebra--John-Redden
-A Practical Arithmetic by Frank Lincoln Stevens	Practical-Arithmetic--Frank-Stevens
-Fundamentals of Mathematics by Denny Burzynski	Fundamentals-Math--Denny-Burzynski
-Elementary Algebra by Denny Burzynski, Wade Ellis	Elementary-Algebra--Denny-Burzynski
-The Algebra of Khuwarizmi: Translated by Frederic Rosen	Algebra-Khuwarizmi-Translated--Frederic-Rosen
-Elementary Algebra by H. S. Hall, S. R. Knight, F. L. Sevenoak	Elementary-Algebra--HS-Hall--SR-Knight
-Elements of Algebra by Leonhard Euler	Elements-Algebra--Leonhard-Euler
-Higher Algebra by H. S. Hall, S. R. Knight	Higher-Algebra--HS-Hall--SR-Knight
-Solutions of the Examples in Higher algebra by H. S. Hall, S. R. Knight	Higher-Algebra-Sol--HS-Hall--SR-Knight
-Algebraic Analysis: Solutions and Exercises by George Wentworth	Algebraic-Analysis--George-Wentworth
-First Course in Theory of Equations by Leonard Dickson	First-Course-Theory-Equations--Leonard-Dickson
-College Algebra by Jay Abramson  	College-Algebra--Jay-Abramson
+* 📖 **[A Practical Arithmetic](https://freemathematicsbooks.com/B.aspx?FileName=Practical-Arithmetic--Frank-Stevens)** — *by Frank Lincoln Stevens*
+* 📖 **[Algebraic Analysis: Solutions and Exercises](https://freemathematicsbooks.com/B.aspx?FileName=Algebraic-Analysis--George-Wentworth)** — *by George Wentworth*
+* 📖 **[Beginning and Intermediate Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Beginning-Int-Algebra--Tyler-Wallace)** — *by Tyler Wallace*
+* 📖 **[College Algebra](https://freemathematicsbooks.com/B.aspx?FileName=College-Algebra--Jay-Abramson)** — *by Jay Abramson*
+* 📖 **[Elementary Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Elementary-Algebra--Denny-Burzynski)** — *by Denny Burzynski, Wade Ellis*
+* 📖 **[Elementary Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Elementary-Algebra--HS-Hall--SR-Knight)** — *by H. S. Hall, S. R. Knight, F. L. Sevenoak*
+* 📖 **[Elementary Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Elementary-Algebra--John-Redden)** — *by John Redden*
+* 📖 **[Elements of Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Elements-Algebra--Leonhard-Euler)** — *by Leonhard Euler*
+* 📖 **[Fundamentals of Mathematics](https://freemathematicsbooks.com/B.aspx?FileName=Fundamentals-Math--Denny-Burzynski)** — *by Denny Burzynski*
+* 📖 **[First Course in Theory of Equations](https://freemathematicsbooks.com/B.aspx?FileName=First-Course-Theory-Equations--Leonard-Dickson)** — *by Leonard Dickson*
+* 📖 **[First Year Mathematics](https://freemathematicsbooks.com/B.aspx?FileName=First-Year-Math--George-Evans)** — *by George W. Evans, John A. Marsh*
+* 📖 **[Higher Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Higher-Algebra--HS-Hall--SR-Knight)** — *by H. S. Hall, S. R. Knight*
+* 📖 **[Intermediate Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Intermediate-Algebra--Katherine-Yoshiwara)** — *by Katherine Yoshiwara*
+* 📖 **[Intermediate Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Intermediate-Algebra--Donna-Gaudet)** — *by Donna Gaudet, William Meacham*
+* 📖 **[Primary Mathematics](https://freemathematicsbooks.com/B.aspx?FileName=Primary-Math--Wikibooks)** — *by Wikibooks*
+* 📖 **[Solutions of the Examples in Higher algebra](https://freemathematicsbooks.com/B.aspx?FileName=Higher-Algebra-Sol--HS-Hall--SR-Knight)** — *by H. S. Hall, S. R. Knight*
+* 📖 **[Understanding Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Understanding-Algebra--James-Brennan)** — *by James W. Brennan*
+* 📖 **[The Algebra of Khuwarizmi: Translated](https://freemathematicsbooks.com/B.aspx?FileName=Algebra-Khuwarizmi-Translated--Frederic-Rosen)** — *by Frederic Rosen*
