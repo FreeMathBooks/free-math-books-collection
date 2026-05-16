@@ -23,6 +23,12 @@ Welcome to the Abstract Algebra resources folder. Here you can find general text
 * 📖 **[Calculus Made Easy](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Made-Easy--Silvanus-Thompson)** — *by Silvanus P. Thompson*
 * 📖 **[Calculus and Probability for Actuarial Students](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Probability-Actuarial-Students--Alfred-Henry)** — *by Alfred Henry*
 
+Making up Numbers: A History of Invention in Mathematics by Ekkehard Kopp	A-History-Invention-Math--Ekkehard-Kopp
+Paul Lorenzen - Mathematician and Logician by Heinzmann & Wolters	Mathematician-Logician--Paul-Lorenzen
+History of Mathematics Teaching & Learning by Karp & Furinghetti	History-Math-Teaching-Learning--Karp--Furinghetti
+Mathematics in the Age of the Turing Machine by Thomas C. Hales	Mathematics-Age-Turing-Machine--Thomas-Hales
+The Survival of a Mathematician by Steven G. Krantz	The-Survival-Mathematician--Steven-Krantz
+
 ---
 
 ### 🔙 Navigation
