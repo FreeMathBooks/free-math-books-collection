@@ -1,3 +1,15 @@
+# 📘 Engineering Mathematics
+
+Welcome to the Engineering Mathematics textbooks collection.
+* 📖 *Visit our* **[Engineering Mathematics Library](https://freemathematicsbooks.com/A.aspx?Id=Engineering-Mathematics)** *online*
+* 📖 *Visit our* **[Applied Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics)** *online*
+* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
+
+---
+
+### 📚 Recommended Textbooks
+*Click on the titles below to visit the book's download page:*
+
 * 📖 **[Applied & Computational Linear Algebra](http://localhost:17966/B.aspx?FileName=Applied-Computational-Linear-Algebra--Charles-Byrne)** — *by Charles Byrne*
 * 📖 **[Boundary Element Methods in Engineering](http://localhost:17966/B.aspx?FileName=Boundary-Element-Methods--Eng-Sci--MH-Aliabadi)** — *by M. H. Aliabadi*
 * 📖 **[Elementary Differential Equations](http://localhost:17966/B.aspx?FileName=Elementary-DE--William-Trench)** — *by William F. Trench*
@@ -8,3 +20,15 @@
 * 📖 **[Techniques of Applied Mathematics](http://localhost:17966/B.aspx?FileName=Techniques-Applied-Math--Andrew-Fowler)** — *by Andrew Fowler*
 * 📖 **[The Calculus for Engineers](http://localhost:17966/B.aspx?FileName=The-Calculus-Engineers--John-Perry)** — *by John Perry*
 * 📖 **[The Calculus for Engineers and Physicists](http://localhost:17966/B.aspx?FileName=Calculus-for-Eng-Phy--Robert-Smith)** — *by Robert H. Smith*
+
+---
+
+### 🔙 Navigation
+* [⬅️ Back to Main Applied Mathematics Category](../)
+* [🏠 Back to Home Repository](../../../../)
+
+---
+
+🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com)**
+
+
