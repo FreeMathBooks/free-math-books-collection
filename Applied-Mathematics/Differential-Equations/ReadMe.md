@@ -1,16 +1,16 @@
-Differential Equations by Jeffrey R. Chasnov	Diff-Eqs-Eng--Jeffrey-Chasnov
-Differential Equations by Paul Dawkins	Diff-Eqs--Paul-Dawkins
-Ordinary Differential Equations by Gabriel Nagy	ODE--Gabriel-Nagy
-Linear PDEs and Fourier Theory by Marcus Pivato	LPDEs-Fourier-Theory--Marcus-Pivato
-Differential Equations & Boundary Value Problems by William Trench	Elementary-DE-Boundary-Value--William-Trench
-Elementary Differential Equations by William F. Trench	Elementary-DE--William-Trench
-Notes on Diffy Qs: Differential Equations for Engineers by Jiri Lebl	Notes-DE-Engineers--Jiri-Lebl
-Scaling of Differential Equations by Hans Petter Langtangen	Scaling-DE--Hans-Langtangen
-Finite Difference Computing with PDEs by Hans Petter Langtangen	Finite-Difference-PDEs--Hans-Langtangen
-Introduction to Differential Equations by Mohammed Kaabar	Intro-DE--Mohammed-Kaabar
-Finite Difference Methods for Differential by Randall LeVeque	Finite-Difference-Methods-DE--Randall-LeVeque
-Strange Attractors: Creating Patterns in Chaos by Julien Sprott	Creating-Patterns-Chaos--Julien-Sprott
-Numerical Methods for ODEs by Kees Vuik and Fred Vermolen	Numerical-Methods-ODEs--Kees-Vuik
-Theory of Differential Equations by A. R. Forsyth	Theory-DE--Andrew-Forsyth
-Ordinary Differential Equations by Edward L. Ince	ODEs--Edward-Ince
-Lectures on Cauchy's Problem in Linear PDEs by Jacques Hadamard	Lectures-Cauchy-Problem-LPDEs--Jacques-Hadamard
+* 📖 **[Differential Equations](https://freemathematicsbooks.com/B.aspx?FileName=Diff-Eqs-Eng--Jeffrey-Chasnov)** — *by Jeffrey R. Chasnov*
+* 📖 **[Differential Equations](https://freemathematicsbooks.com/B.aspx?FileName=Diff-Eqs--Paul-Dawkins)** — *by Paul Dawkins*
+* 📖 **[Differential Equations & Boundary Value Problems](https://freemathematicsbooks.com/B.aspx?FileName=Elementary-DE-Boundary-Value--William-Trench)** — *by William Trench*
+* 📖 **[Elementary Differential Equations](https://freemathematicsbooks.com/B.aspx?FileName=Elementary-DE--William-Trench)** — *by William F. Trench*
+* 📖 **[Finite Difference Computing with PDEs](https://freemathematicsbooks.com/B.aspx?FileName=Finite-Difference-PDEs--Hans-Langtangen)** — *by Hans Petter Langtangen*
+* 📖 **[Finite Difference Methods for Differential](https://freemathematicsbooks.com/B.aspx?FileName=Finite-Difference-Methods-DE--Randall-LeVeque)** — *by Randall LeVeque*
+* 📖 **[Introduction to Differential Equations](https://freemathematicsbooks.com/B.aspx?FileName=Intro-DE--Mohammed-Kaabar)** — *by Mohammed Kaabar*
+* 📖 **[Lectures on Cauchy's Problem in Linear PDEs](https://freemathematicsbooks.com/B.aspx?FileName=Lectures-Cauchy-Problem-LPDEs--Jacques-Hadamard)** — *by Jacques Hadamard*
+* 📖 **[Linear PDEs and Fourier Theory](https://freemathematicsbooks.com/B.aspx?FileName=LPDEs-Fourier-Theory--Marcus-Pivato)** — *by Marcus Pivato*
+* 📖 **[Notes on Diffy Qs: Differential Equations for Engineers](https://freemathematicsbooks.com/B.aspx?FileName=Notes-DE-Engineers--Jiri-Lebl)** — *by Jiri Lebl*
+* 📖 **[Numerical Methods for ODEs](https://freemathematicsbooks.com/B.aspx?FileName=Numerical-Methods-ODEs--Kees-Vuik)** — *by Kees Vuik and Fred Vermolen*
+* 📖 **[Ordinary Differential Equations](https://freemathematicsbooks.com/B.aspx?FileName=ODE--Gabriel-Nagy)** — *by Gabriel Nagy*
+* 📖 **[Ordinary Differential Equations](https://freemathematicsbooks.com/B.aspx?FileName=ODEs--Edward-Ince)** — *by Edward L. Ince*
+* 📖 **[Scaling of Differential Equations](https://freemathematicsbooks.com/B.aspx?FileName=Scaling-DE--Hans-Langtangen)** — *by Hans Petter Langtangen*
+* 📖 **[Strange Attractors: Creating Patterns in Chaos](https://freemathematicsbooks.com/B.aspx?FileName=Creating-Patterns-Chaos--Julien-Sprott)** — *by Julien Sprott*
+* 📖 **[Theory of Differential Equations](https://freemathematicsbooks.com/B.aspx?FileName=Theory-DE--Andrew-Forsyth)** — *by A. R. Forsyth*
