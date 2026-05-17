@@ -22,27 +22,19 @@ Welcome to the Mathematical Analysis resources folder. Here you can find general
 ### 📚 Recommended General Textbooks
 *Direct links to curated Mathematical Analysis books:*
 
-* 📖 **[Applied Calculus: An Introductory Textbook](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Calculus-An-Intro-Textbook--Frederick-Bisacre)** — *by Frederick Bisacre*
-* 📖 **[Calculus Made Easy](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Made-Easy--Silvanus-Thompson)** — *by Silvanus P. Thompson*
-* 📖 **[Calculus and Probability for Actuarial Students](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Probability-Actuarial-Students--Alfred-Henry)** — *by Alfred Henry*
-
-
-
-A Course of Modern Analysis 	A-Course-Modern-Analysis--Edmund-Whittaker)** — *by E. T.  Whittaker, G. N. Watson*
-A Treatise On The Theory Of Bessel Functions 	Theory-Bessel-Functions--GN-Watson)** — *by G. N. Watson*
-Analytical Institutions in Four Books 	Analytical-Institutions-Four-Books--Maria-Agnesi)** — *by Maria Agnesi*
-Cours d'Analyse de l'École Polytechnique 1 Différentiel 	Cours-Analyse-Polytechnique-1-Differentiel--Camille-Jordan)** — *by Camille Jordan*
-Cours d'Analyse de l'École Polytechnique 2 Intégral 	Cours-Analyse-Polytechnique-2-Integral--Camille-Jordan)** — *by Camille Jordan*
-Cours d'Analyse de l'École Polytechnique 3 Équations 	Cours-Analyse-Polytechnique-3-Equations--Camille-Jordan)** — *by Camille Jordan*
-Inequalities 1st Edition 	Inequalities-Mathematical-Analysis--George-Polya)** — *by George Polya*
-Mathematical Analysis I 	Mathematical-Analysis-I--Elias-Zakon)** — *by Elias Zakon*
-Mathematical Analysis II 	Mathematical-Analysis-II--Elias-Zakon)** — *by Elias Zakon*
-The Functional Analysis of Quantum Information Theory 	Quantum-Info-Theory--Gupta--Mandayam--Sunder)** — *by Ved Prakash Gupta*
-Traité D'Analyse I 	Traite-Analyse-I--Emile-Picard)** — *by Emile Picard*
-Traité D' Analyse II 	Traite-Analyse-II--Emile-Picard)** — *by Emile Picard*
-Traité D' Analyse III 	Traite-Analyse-III--Emile-Picard)** — *by Emile Picard*
-
-
+* 📖 **[A Course of Modern Analysis](https://freemathematicsbooks.com/B.aspx?FileName=A-Course-Modern-Analysis--Edmund-Whittaker)** — *by E. T.  Whittaker, G. N. Watson*
+* 📖 **[A Treatise On The Theory Of Bessel Functions](https://freemathematicsbooks.com/B.aspx?FileName=Theory-Bessel-Functions--GN-Watson)** — *by G. N. Watson*
+* 📖 **[Analytical Institutions in Four Books](https://freemathematicsbooks.com/B.aspx?FileName=Analytical-Institutions-Four-Books--Maria-Agnesi)** — *by Maria Agnesi*
+* 📖 **[Cours d'Analyse de l'École Polytechnique 1 Différentiel](https://freemathematicsbooks.com/B.aspx?FileName=Cours-Analyse-Polytechnique-1-Differentiel--Camille-Jordan)** — *by Camille Jordan*
+* 📖 **[Cours d'Analyse de l'École Polytechnique 2 Intégral](https://freemathematicsbooks.com/B.aspx?FileName=Cours-Analyse-Polytechnique-2-Integral--Camille-Jordan)** — *by Camille Jordan*
+* 📖 **[Cours d'Analyse de l'École Polytechnique 3 Équations](https://freemathematicsbooks.com/B.aspx?FileName=Cours-Analyse-Polytechnique-3-Equations--Camille-Jordan)** — *by Camille Jordan*
+* 📖 **[Inequalities 1st Edition](https://freemathematicsbooks.com/B.aspx?FileName=Inequalities-Mathematical-Analysis--George-Polya)** — *by George Polya*
+* 📖 **[Mathematical Analysis I](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Analysis-I--Elias-Zakon)** — *by Elias Zakon*
+* 📖 **[Mathematical Analysis II](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Analysis-II--Elias-Zakon)** — *by Elias Zakon*
+* 📖 **[The Functional Analysis of Quantum Information Theory](https://freemathematicsbooks.com/B.aspx?FileName=Quantum-Info-Theory--Gupta--Mandayam--Sunder)** — *by Ved Prakash Gupta*
+* 📖 **[Traité D'Analyse I](https://freemathematicsbooks.com/B.aspx?FileName=Traite-Analyse-I--Emile-Picard)** — *by Emile Picard*
+* 📖 **[Traité D' Analyse II](https://freemathematicsbooks.com/B.aspx?FileName=Traite-Analyse-II--Emile-Picard)** — *by Emile Picard*
+* 📖 **[Traité D' Analyse III](https://freemathematicsbooks.com/B.aspx?FileName=Traite-Analyse-III--Emile-Picard)** — *by Emile Picard*
 
 ---
 
