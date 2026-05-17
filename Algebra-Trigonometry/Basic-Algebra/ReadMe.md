@@ -1,3 +1,15 @@
+# 📘 Elementary Algebra
+
+Welcome to the Elementary Algebra textbooks collection.
+* 📖 *Visit our* **[Elementary Algebra Library](https://freemathematicsbooks.com/A.aspx?Id=Basic-Algebra)** *online*
+* 📖 *Visit our* **[Algebra and Trigonometry Main Library](https://freemathematicsbooks.com/A.aspx?Id=Precalculus)** *online*
+* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
+
+---
+
+### 📚 Recommended Textbooks
+*Click on the titles below to visit the book's download page:*
+
 * 📖 **[A Practical Arithmetic](https://freemathematicsbooks.com/B.aspx?FileName=Practical-Arithmetic--Frank-Stevens)** — *by Frank Lincoln Stevens*
 * 📖 **[Algebraic Analysis: Solutions and Exercises](https://freemathematicsbooks.com/B.aspx?FileName=Algebraic-Analysis--George-Wentworth)** — *by George Wentworth*
 * 📖 **[Beginning and Intermediate Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Beginning-Int-Algebra--Tyler-Wallace)** — *by Tyler Wallace*
@@ -16,3 +28,16 @@
 * 📖 **[Solutions of the Examples in Higher algebra](https://freemathematicsbooks.com/B.aspx?FileName=Higher-Algebra-Sol--HS-Hall--SR-Knight)** — *by H. S. Hall, S. R. Knight*
 * 📖 **[Understanding Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Understanding-Algebra--James-Brennan)** — *by James W. Brennan*
 * 📖 **[The Algebra of Khuwarizmi: Translated](https://freemathematicsbooks.com/B.aspx?FileName=Algebra-Khuwarizmi-Translated--Frederic-Rosen)** — *by Frederic Rosen*
+
+---
+
+### 🔙 Navigation
+* [⬅️ Back to Main Algebra and Trigonometry Category](../)
+* [🏠 Back to Home Repository](../../../../)
+
+---
+🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com)**
+
+
+
+
