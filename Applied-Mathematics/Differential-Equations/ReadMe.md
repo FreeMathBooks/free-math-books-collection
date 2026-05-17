@@ -1,3 +1,15 @@
+# 📘 Differential Equations
+
+Welcome to the Differential Equations textbooks collection.
+* 📖 *Visit our* **[Differential Equations Library](https://freemathematicsbooks.com/A.aspx?Id=Diff-Equations)** *online*
+* 📖 *Visit our* **[Applied Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics)** *online*
+* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
+
+---
+
+### 📚 Recommended Textbooks
+*Click on the titles below to visit the book's download page:*
+
 * 📖 **[Differential Equations](https://freemathematicsbooks.com/B.aspx?FileName=Diff-Eqs-Eng--Jeffrey-Chasnov)** — *by Jeffrey R. Chasnov*
 * 📖 **[Differential Equations](https://freemathematicsbooks.com/B.aspx?FileName=Diff-Eqs--Paul-Dawkins)** — *by Paul Dawkins*
 * 📖 **[Differential Equations & Boundary Value Problems](https://freemathematicsbooks.com/B.aspx?FileName=Elementary-DE-Boundary-Value--William-Trench)** — *by William Trench*
@@ -14,3 +26,13 @@
 * 📖 **[Scaling of Differential Equations](https://freemathematicsbooks.com/B.aspx?FileName=Scaling-DE--Hans-Langtangen)** — *by Hans Petter Langtangen*
 * 📖 **[Strange Attractors: Creating Patterns in Chaos](https://freemathematicsbooks.com/B.aspx?FileName=Creating-Patterns-Chaos--Julien-Sprott)** — *by Julien Sprott*
 * 📖 **[Theory of Differential Equations](https://freemathematicsbooks.com/B.aspx?FileName=Theory-DE--Andrew-Forsyth)** — *by A. R. Forsyth*
+
+---
+
+### 🔙 Navigation
+* [⬅️ Back to Main Applied Mathematics Category](../)
+* [🏠 Back to Home Repository](../../../../)
+
+---
+
+🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com)**
