@@ -1,8 +1,9 @@
-Measure, Integration & Real Analysis by Sheldon Axler	Measure-Int-Real-Analysis--Sheldon-Axler
-Introduction to Real Analysis by William F. Trench	Real-Analysis--William-Trench
-How We Got from There to Here: A Story of Real Analysis	Story-Real-Analysis--Boman--Rogers
-An Introduction to Measure Theory by Terrence Tao	Measure-Theory--Terrence-Tao
-A Course of Pure Mathematics by G.H. Hardy	Course-Pure-Mathematics--GH-Hardy
-Orders of Infinity by G. H. Hardy	Orders-Infinity--GH-Hardy
-Basic Analysis: Introduction to Real Analysis I by Jiri Lebl	Intro-Real-Analysis-I--Jiri-Lebl
-Basic Analysis: Introduction to Real Analysis II by Jiri Lebl	Intro-Real-Analysis-II--Jiri-Lebl
+* 📖 **[A Course of Pure Mathematics](https://freemathematicsbooks.com/B.aspx?FileName=Course-Pure-Mathematics--GH-Hardy)** — *by G.H. Hardy*
+* 📖 **[A Course of Pure Mathematics](https://freemathematicsbooks.com/B.aspx?FileName=Course-Pure-Mathematics--GH-Hardy)** — *by G.H. Hardy*
+* 📖 **[An Introduction to Measure Theory](https://freemathematicsbooks.com/B.aspx?FileName=Measure-Theory--Terrence-Tao)** — *by Terrence Tao*
+* 📖 **[Basic Analysis: Introduction to Real Analysis I](https://freemathematicsbooks.com/B.aspx?FileName=Intro-Real-Analysis-I--Jiri-Lebl)** — *by Jiri Lebl*
+* 📖 **[Basic Analysis: Introduction to Real Analysis II](https://freemathematicsbooks.com/B.aspx?FileName=Intro-Real-Analysis-II--Jiri-Lebl)** — *by Jiri Lebl*
+* 📖 **[How We Got from There to Here: A Story of Real Analysis](https://freemathematicsbooks.com/B.aspx?FileName=Story-Real-Analysis--Boman--Rogers)** — *by Eugene Boman and Robert Rogers*
+* 📖 **[Introduction to Real Analysis](https://freemathematicsbooks.com/B.aspx?FileName=Real-Analysis--William-Trench)** — *by William F. Trench*
+* 📖 **[Orders of Infinity](https://freemathematicsbooks.com/B.aspx?FileName=Orders-Infinity--GH-Hardy)** — *by G. H. Hardy*
+* 📖 **[Measure, Integration & Real Analysis](https://freemathematicsbooks.com/B.aspx?FileName=Measure-Int-Real-Analysis--Sheldon-Axler)** — *by Sheldon Axler*
