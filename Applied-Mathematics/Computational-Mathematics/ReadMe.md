@@ -1,43 +1,21 @@
-Advanced Linear Algebra: Foundations to Frontiers by Robert Geijn
-http://localhost:17966/B.aspx?FileName=Advanced-Linear-Algebra--Robert-Geijn
-Algorithms in Real Algebraic Geometry by Saugata Basu
-http://localhost:17966/B.aspx?FileName=Algorithms-Real-Algebraic-Geometry--Saugata-Basu
-Applied & Computational Linear Algebra by Charles Byrne
-http://localhost:17966/B.aspx?FileName=Applied-Computational-Linear-Algebra--Charles-Byrne
-Boundary Element Methods in Engineering by M. H. Aliabadi
-http://localhost:17966/B.aspx?FileName=Boundary-Element-Methods--Eng-Sci--MH-Aliabadi
-A Computational Number Theory & Algebra by Victor Shoup
-http://localhost:17966/B.aspx?FileName=Comp-Number-Theory-Algebra--Victor-Shoup
-Computational & Algorithmic Linear Algebra by Katta Murty
-http://localhost:17966/B.aspx?FileName=Computational-Algorithmic-Linear-Algebra--Katta-Murty
-Computational Methods of Linear Algebra by V. N. Faddeeva
-http://localhost:17966/B.aspx?FileName=Computational-Methods-Linear-Algebra--V-Faddeeva
-Finite Difference Methods for Differential by Randall LeVeque
-http://localhost:17966/B.aspx?FileName=Finite-Difference-Methods-DE--Randall-LeVeque
-Finite Difference Computing with PDEs by Hans Petter Langtangen
-http://localhost:17966/B.aspx?FileName=Finite-Difference-PDEs--Hans-Langtangen
-Finite Element Analysis - From Biomedical to Industrial by David Moratal
-http://localhost:17966/B.aspx?FileName=Finite-Element-Analysis--David-Moratal
-
-Finite Element Methods for Electromagnetics by Stanley Humphries Jr
-http://localhost:17966/B.aspx?FileName=Finite-Element-Methods--Stanley-Humphries
-A First Course in Linear Algebra by Robert Beezer
-http://localhost:17966/B.aspx?FileName=First-Course-Linear-Algebra--Robert-Beezer
-From Fourier Analysis to Wavelets by Jonas Gomes, et al.
-http://localhost:17966/B.aspx?FileName=From-Fourier-Analysis-Wavelets--Jonas-Gomes
-Fundamentals of Matrix Algebra by Gregory Hartman
-http://localhost:17966/B.aspx?FileName=Fundamentals-Matrix-Algebra--Gregory-Hartman
-Lecture Notes of Matrix Computations by Wen Wei Lin
-http://localhost:17966/B.aspx?FileName=Lecture-Notes-Matrix-Computations--Wen-Wei-Lin
-Linear Algebra by Jim Hefferon
-http://localhost:17966/B.aspx?FileName=Linear-Algebra-Jim-Hefferon
-Linear Algebra with Python by Sean Fitzpatrick
-http://localhost:17966/B.aspx?FileName=Linear-Algebra-Python--Sean-Fitzpatrick
-Matrix Algebra with Computational Applications by Dirk Colbry
-http://localhost:17966/B.aspx?FileName=Matrix-Algebra-Computational-App--Dirk-Colbry
-Neural Networks and Deep Learning by Michael Nielsen
-http://localhost:17966/B.aspx?FileName=Neural-Networks-Deep-Learning--Michael-Nielsen
-Solving Ordinary Differential Equations in Python by Joakim Sundnes
-http://localhost:17966/B.aspx?FileName=Solving-ODE-Python--Joakim-Sundnes
-Applied & Computational Linear Algebra by Charles Byrne
-http://localhost:17966/B.aspx?FileName=Applied-Computational-Linear-Algebra--Charles-Byrne
+* 📖 **[Advanced Linear Algebra: Foundations to Frontiers](http://localhost:17966/B.aspx?FileName=Advanced-Linear-Algebra--Robert-Geijn)** — *by Robert Geijn*
+* 📖 **[Algorithms in Real Algebraic Geometry](http://localhost:17966/B.aspx?FileName=Algorithms-Real-Algebraic-Geometry--Saugata-Basu)** — *by Saugata Basu*
+* 📖 **[Applied & Computational Linear Algebra by Charles Byrne](http://localhost:17966/B.aspx?FileName=Applied-Computational-Linear-Algebra--Charles-Byrne)** — *by Charles Byrne*
+* 📖 **[Boundary Element Methods in Engineering](http://localhost:17966/B.aspx?FileName=Boundary-Element-Methods--Eng-Sci--MH-Aliabadi)** — *by M. H. Aliabadi*
+* 📖 **[A Computational Number Theory & Algebra](http://localhost:17966/B.aspx?FileName=Comp-Number-Theory-Algebra--Victor-Shoup)** — *by Victor Shoup*
+* 📖 **[Computational & Algorithmic Linear Algebra](http://localhost:17966/B.aspx?FileName=Computational-Algorithmic-Linear-Algebra--Katta-Murty)** — *by Katta Murty*
+* 📖 **[Computational Methods of Linear Algebra](http://localhost:17966/B.aspx?FileName=Computational-Methods-Linear-Algebra--V-Faddeeva)** — *by V. N. Faddeeva*
+* 📖 **[Finite Difference Methods for Differential](http://localhost:17966/B.aspx?FileName=Finite-Difference-Methods-DE--Randall-LeVeque)** — *by Randall LeVeque*
+* 📖 **[Finite Difference Computing with PDEs](http://localhost:17966/B.aspx?FileName=Finite-Difference-PDEs--Hans-Langtangen)** — *by Hans Petter Langtangen*
+* 📖 **[Finite Element Analysis - From Biomedical to Industrial](http://localhost:17966/B.aspx?FileName=Finite-Element-Analysis--David-Moratal)** — *by David Moratal*
+* 📖 **[Finite Element Methods for Electromagnetics](Jr http://localhost:17966/B.aspx?FileName=Finite-Element-Methods--Stanley-Humphries)** — *by Stanley Humphries*
+* 📖 **[A First Course in Linear Algebra](http://localhost:17966/B.aspx?FileName=First-Course-Linear-Algebra--Robert-Beezer)** — *by Robert Beezer*
+* 📖 **[From Fourier Analysis to Wavelets](http://localhost:17966/B.aspx?FileName=From-Fourier-Analysis-Wavelets--Jonas-Gomes)** — *by Jonas Gomes, et al.*
+* 📖 **[Fundamentals of Matrix Algebra](http://localhost:17966/B.aspx?FileName=Fundamentals-Matrix-Algebra--Gregory-Hartman)** — *by Gregory Hartman*
+* 📖 **[Lecture Notes of Matrix Computations](http://localhost:17966/B.aspx?FileName=Lecture-Notes-Matrix-Computations--Wen-Wei-Lin)** — *by Wen Wei Lin*
+* 📖 **[Linear Algebra](http://localhost:17966/B.aspx?FileName=Linear-Algebra-Jim-Hefferon)** — *by Jim Hefferon*
+* 📖 **[Linear Algebra with Python](http://localhost:17966/B.aspx?FileName=Linear-Algebra-Python--Sean-Fitzpatrick)** — *by Sean Fitzpatrick*
+* 📖 **[Matrix Algebra with Computational Applications](http://localhost:17966/B.aspx?FileName=Matrix-Algebra-Computational-App--Dirk-Colbry)** — *by Dirk Colbry*
+* 📖 **[Neural Networks and Deep Learning](http://localhost:17966/B.aspx?FileName=Neural-Networks-Deep-Learning--Michael-Nielsen)** — *by Michael Nielsen*
+* 📖 **[Solving Ordinary Differential Equations in Python](http://localhost:17966/B.aspx?FileName=Solving-ODE-Python--Joakim-Sundnes)** — *by Joakim Sundnes*
+* 📖 **[Applied & Computational Linear Algebra](http://localhost:17966/B.aspx?FileName=Applied-Computational-Linear-Algebra--Charles-Byrne)** — *by Charles Byrne*
