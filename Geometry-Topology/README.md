@@ -29,15 +29,14 @@ Welcome to the Geometry and Topology resources folder. Here you can find general
 * 📖 **[Calculus Made Easy](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Made-Easy--Silvanus-Thompson)** — *by Silvanus P. Thompson*
 * 📖 **[Calculus and Probability for Actuarial Students](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Probability-Actuarial-Students--Alfred-Henry)** — *by Alfred Henry*
 
-
-Lectures on Symplectic Geometry by Ana Cannas da Silva	Lectures-Symplectic-Geometry--Cannas-da-Silva
-The Fourth Dimension by Charles Howard Hinton	The-Fourth-Dimension--Charles-Hinton
-The Axioms Of Descriptive Geometry by Alfred North Whitehead	The-Axioms-Descriptive-Geometry--Alfred-Whitehead
-The Geometry of Fractal Sets by Kenneth Falconer	The-Geometry-Fractal-Sets--Kenneth-Falconer
-Fractal Geometry by Kenneth Falconer	Fractal-Geometry--Kenneth-Falconer
-The Fractal Geometry of Nature by Benoit Mandelbrot	The-Fractal-Geometry-Nature--Benoit-Mandelbrot
-Curves and Surfaces in Geometric Modeling by Jean Gallier	Curves-Surfaces-Geometric-Modeling--Jean-Gallier
-The Legacy of Felix Klein by Weigand, McCallum & Menghini	The-Legacy-Felix-Klein--Hans-Georg-Weigand
+* 📖 **[Curves and Surfaces in Geometric Modeling](https://freemathematicsbooks.com/B.aspx?FileName=Curves-Surfaces-Geometric-Modeling--Jean-Gallier)** — *by Jean Gallier*
+* 📖 **[Fractal Geometry](https://freemathematicsbooks.com/B.aspx?FileName=Fractal-Geometry--Kenneth-Falconer)** — *by Kenneth Falconer*
+* 📖 **[Lectures on Symplectic Geometry](https://freemathematicsbooks.com/B.aspx?FileName=Lectures-Symplectic-Geometry--Cannas-da-Silva)** — *by Ana Cannas da Silva*
+* 📖 **[The Axioms Of Descriptive Geometry](https://freemathematicsbooks.com/B.aspx?FileName=The-Axioms-Descriptive-Geometry--Alfred-Whitehead)** — *by Alfred North Whitehead*
+* 📖 **[The Fractal Geometry of Nature](The-Fractal-Geometry-Nature--Benoit-Mandelbrot)** — *by Benoit Mandelbrot*
+* 📖 **[The Fourth Dimension](https://freemathematicsbooks.com/B.aspx?FileName=The-Fourth-Dimension--Charles-Hinton)** — *by Charles Howard Hinton*
+* 📖 **[The Geometry of Fractal Sets](https://freemathematicsbooks.com/B.aspx?FileName=The-Geometry-Fractal-Sets--Kenneth-Falconer)** — *by Kenneth Falconer*
+* 📖 **[The Legacy of Felix Klein](https://freemathematicsbooks.com/B.aspx?FileName=The-Legacy-Felix-Klein--Hans-Georg-Weigand)** — *by Weigand, McCallum & Menghini*
 ---
 
 ### 🔙 Navigation
