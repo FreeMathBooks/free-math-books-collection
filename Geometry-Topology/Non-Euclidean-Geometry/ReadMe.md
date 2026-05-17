@@ -1,5 +1,4 @@
-
-The Elements Of Non-Euclidean Geometry by Julian Coolidge	Elements-Non-Euclidean-Geometry--Julian-Coolidge
-Geometry with an Introduction to Cosmic Topology by Mike Hitchman	Geometry-Intro-Cosmic-Topology--Mike-Hitchman
-Euclid's Parallel Postulate: Its Nature, Validity and Place in Geometrical Systems by John William Withers	Euclid-Parallel-Postulate--John-Withers
-Non-Euclidean Geometry by Roberto Bonola	Non-Euclidean-Geometry--Roberto-Bonola
+Euclid's Parallel Postulate: Its Nature, Validity and Place in Geometrical Systems](https://freemathematicsbooks.com/B.aspx?FileName=Euclid-Parallel-Postulate--John-Withers)** — *by John William Withers*
+Geometry with an Introduction to Cosmic Topology](https://freemathematicsbooks.com/B.aspx?FileName=Geometry-Intro-Cosmic-Topology--Mike-Hitchman)** — *by Mike Hitchman*
+Non-Euclidean Geometry](https://freemathematicsbooks.com/B.aspx?FileName=Non-Euclidean-Geometry--Roberto-Bonola)** — *by Roberto Bonola*
+The Elements Of Non-Euclidean Geometry](https://freemathematicsbooks.com/B.aspx?FileName=Elements-Non-Euclidean-Geometry--Julian-Coolidge)** — *by Julian Coolidge*
