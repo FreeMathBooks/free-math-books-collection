@@ -1,3 +1,15 @@
+# 📘 Numerical Analysis
+
+Welcome to the Applied Statistics textbooks collection.
+* 📖 *Visit our* **[Numerical Analysis Library](https://freemathematicsbooks.com/A.aspx?Id=Numerical-Analysis)** *online*
+* 📖 *Visit our* **[Applied Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics)** *online*
+* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
+
+---
+
+### 📚 Recommended Textbooks
+*Click on the titles below to visit the book's download page:*
+
 * 📖 **[Algorithms for Sparse Linear Systems](https://freemathematicsbooks.com/B.aspx?FileName=Algorithms-Sparse-Linear-Systems--Jennifer-Scott)** — *by Jennifer Scott*
 * 📖 **[Computational & Algorithmic Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Computational-Algorithmic-Linear-Algebra--Katta-Murty)** — *by Katta Murty*
 * 📖 **[Computational Incompressible Flow](https://freemathematicsbooks.com/B.aspx?FileName=Computational-Incompressible-Flow--Johan-Hoffman)** — *by Johan Hoffman, Claes Johnson*
@@ -15,3 +27,13 @@
 * 📖 **[Solving PDEs in Python: The Fenics Tutorial I](https://freemathematicsbooks.com/B.aspx?FileName=Solving-PDEs-Python--Hans-Langtangen)** — *by Hans Langtangen*
 * 📖 **[Stochastic Differential Equations](https://freemathematicsbooks.com/B.aspx?FileName=Stochastic-DE-Models-Numerics--Jesper-Carlsson)** — *by Jesper Carlsson*
 * 📖 **[Templates for the Solution of Linear Systems](https://freemathematicsbooks.com/B.aspx?FileName=Templates-Sol-Linear-Systems--Richard-Barrett)** — *by Richard Barrett*
+
+---
+
+### 🔙 Navigation
+* [⬅️ Back to Main Applied Mathematics Category](../)
+* [🏠 Back to Home Repository](../../../../)
+
+---
+
+🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com)**
