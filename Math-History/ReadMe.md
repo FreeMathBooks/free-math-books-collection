@@ -1,6 +1,6 @@
 # 📉 History of Mathematics Collection
 
-Welcome to the Abstract Algebra resources folder. Here you can find general textbooks as well as specialized sub-categories. 
+Welcome to the History of Mathematics resources folder. Here you can find general textbooks as well as specialized sub-categories. 
 * 📖 *Visit our* **[History of Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Math-History
 )** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
