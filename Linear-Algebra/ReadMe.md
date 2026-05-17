@@ -12,7 +12,7 @@ Welcome to the Linear Algebra resources folder. Here you can find general textbo
 
 | Sub Category | 📥 Online Library | 📁 GitHub Resources |
 | :--- | :--- | :--- |
-| **Linear Algebra (Introdution)** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra-Introduction) | [Explore Folders](./Linear-Algebra-Intro) |
+| **Linear Algebra (Introdution)** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra-Intro) | [Explore Folders](./Linear-Algebra-Intro) |
 | **Matrix Algebra** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Matrix-Algebra) | [Explore Folders](./Matrix-Algebra) |
 
 ---
