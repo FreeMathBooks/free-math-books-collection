@@ -1,3 +1,15 @@
+# 📘 Computational Mathematics
+
+Welcome to the Computational Mathematics textbooks collection.
+* 📖 *Visit our* **[Computational Mathematics Library](https://freemathematicsbooks.com/A.aspx?Id=Computational-Mathematics)** *online*
+* 📖 *Visit our* **[Applied Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics)** *online*
+* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
+
+---
+
+### 📚 Recommended Textbooks
+*Click on the titles below to visit the book's download page:*
+
 * 📖 **[A Computational Number Theory & Algebra](http://localhost:17966/B.aspx?FileName=Comp-Number-Theory-Algebra--Victor-Shoup)** — *by Victor Shoup*
 * 📖 **[A First Course in Linear Algebra](http://localhost:17966/B.aspx?FileName=First-Course-Linear-Algebra--Robert-Beezer)** — *by Robert Beezer*
 * 📖 **[Advanced Linear Algebra: Foundations to Frontiers](http://localhost:17966/B.aspx?FileName=Advanced-Linear-Algebra--Robert-Geijn)** — *by Robert Geijn*
@@ -17,4 +29,15 @@
 * 📖 **[Linear Algebra with Python](http://localhost:17966/B.aspx?FileName=Linear-Algebra-Python--Sean-Fitzpatrick)** — *by Sean Fitzpatrick*
 * 📖 **[Matrix Algebra with Computational Applications](http://localhost:17966/B.aspx?FileName=Matrix-Algebra-Computational-App--Dirk-Colbry)** — *by Dirk Colbry*
 * 📖 **[Neural Networks and Deep Learning](http://localhost:17966/B.aspx?FileName=Neural-Networks-Deep-Learning--Michael-Nielsen)** — *by Michael Nielsen*
+
+---
+
+### 🔙 Navigation
+* [⬅️ Back to Main Applied Mathematics Category](../)
+* [🏠 Back to Home Repository](../../../../)
+
+---
+
+🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com)**
+
 * 📖 **[Solving Ordinary Differential Equations in Python](http://localhost:17966/B.aspx?FileName=Solving-ODE-Python--Joakim-Sundnes)** — *by Joakim Sundnes*
