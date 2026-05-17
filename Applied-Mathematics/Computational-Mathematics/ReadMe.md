@@ -8,7 +8,7 @@
 * 📖 **[Finite Difference Methods for Differential](http://localhost:17966/B.aspx?FileName=Finite-Difference-Methods-DE--Randall-LeVeque)** — *by Randall LeVeque*
 * 📖 **[Finite Difference Computing with PDEs](http://localhost:17966/B.aspx?FileName=Finite-Difference-PDEs--Hans-Langtangen)** — *by Hans Petter Langtangen*
 * 📖 **[Finite Element Analysis - From Biomedical to Industrial](http://localhost:17966/B.aspx?FileName=Finite-Element-Analysis--David-Moratal)** — *by David Moratal*
-* 📖 **[Finite Element Methods for Electromagnetics](Jr http://localhost:17966/B.aspx?FileName=Finite-Element-Methods--Stanley-Humphries)** — *by Stanley Humphries*
+* 📖 **[Finite Element Methods for Electromagnetics Jr](http://localhost:17966/B.aspx?FileName=Finite-Element-Methods--Stanley-Humphries)** — *by Stanley Humphries*
 * 📖 **[A First Course in Linear Algebra](http://localhost:17966/B.aspx?FileName=First-Course-Linear-Algebra--Robert-Beezer)** — *by Robert Beezer*
 * 📖 **[From Fourier Analysis to Wavelets](http://localhost:17966/B.aspx?FileName=From-Fourier-Analysis-Wavelets--Jonas-Gomes)** — *by Jonas Gomes, et al.*
 * 📖 **[Fundamentals of Matrix Algebra](http://localhost:17966/B.aspx?FileName=Fundamentals-Matrix-Algebra--Gregory-Hartman)** — *by Gregory Hartman*
