@@ -1,6 +1,6 @@
 # 📘 Numerical Analysis
 
-Welcome to the Applied Statistics textbooks collection.
+Welcome to the Numerical Analysis textbooks collection.
 * 📖 *Visit our* **[Numerical Analysis Library](https://freemathematicsbooks.com/A.aspx?Id=Numerical-Analysis)** *online*
 * 📖 *Visit our* **[Applied Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
