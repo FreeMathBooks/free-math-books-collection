@@ -19,19 +19,16 @@ Welcome to the Abstract Algebra resources folder. Here you can find general text
 ### 📚 Recommended General Textbooks
 *Direct links to curated Number Theory books:*
 
-* 📖 **[Applied Calculus: An Introductory Textbook](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Calculus-An-Intro-Textbook--Frederick-Bisacre)** — *by Frederick Bisacre*
-* 📖 **[Calculus Made Easy](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Made-Easy--Silvanus-Thompson)** — *by Silvanus P. Thompson*
-* 📖 **[Calculus and Probability for Actuarial Students](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Probability-Actuarial-Students--Alfred-Henry)** — *by Alfred Henry*
+* 📖 **[A Computational Number Theory & Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Comp-Number-Theory-Algebra--Victor-Shoup)** — *by Victor Shoup*
+* 📖 **[A Friendly Introduction to Number Theory](https://freemathematicsbooks.com/B.aspx?FileName=A-Friendly-Intro-Number-Theory--Joseph-Silverman)** — *by Joseph Silverman*
+* 📖 **[Algorithms for Modular Elliptic Curves](https://freemathematicsbooks.com/B.aspx?FileName=Algorithms-Modular-Elliptic-Curves--JE-Cremona)** — *by John Cremona*
+* 📖 **[Elementary Number Theory](https://freemathematicsbooks.com/B.aspx?FileName=Elementary-Number-Theory--William-Stein)** — *by William Stein*
+* 📖 **[Essays on the Theory of Numbers](https://freemathematicsbooks.com/B.aspx?FileName=Essays-Theory-Numbers--Richard-Dedekind)** — *by Richard Dedekind*
+* 📖 **[Introductory Number Theory Textbook (Cryptology)](https://freemathematicsbooks.com/B.aspx?FileName=Intro-Number-Theory-Cryptology--Jonathan-Poritz)** — *by Jonathan Poritz*
+* 📖 **[Magic Squares and Cubes](https://freemathematicsbooks.com/B.aspx?FileName=Magic-Squares-Cubes--Andrews-Symes)** — *by William Symes Andrews*
+* 📖 **[Number Theory: In Context and Interactive](https://freemathematicsbooks.com/B.aspx?FileName=Number-Theory-Context-Interactive--Karl-Crisman)** — *by Karl-Dieter Crisman*
+* 📖 **[The General Theory of Dirichlet's Series](https://freemathematicsbooks.com/B.aspx?FileName=General-Theory-Dirichlet-Series--GH-Hardy)** — *by G.H. Hardy, Marcel Riesz*
 
-A Computational Number Theory & Algebra by Victor Shoup	Comp-Number-Theory-Algebra--Victor-Shoup
-Algorithms for Modular Elliptic Curves by John Cremona	Algorithms-Modular-Elliptic-Curves--JE-Cremona
-The General Theory of Dirichlet's Series by G.H. Hardy, Marcel Riesz	General-Theory-Dirichlet-Series--GH-Hardy
-Number Theory: In Context and Interactive by Karl-Dieter Crisman	Number-Theory-Context-Interactive--Karl-Crisman
-Elementary Number Theory by William Stein	Elementary-Number-Theory--William-Stein
-Introductory Number Theory Textbook (Cryptology) by Jonathan Poritz	Intro-Number-Theory-Cryptology--Jonathan-Poritz
-Magic Squares and Cubes by William Symes Andrews.	Magic-Squares-Cubes--Andrews-Symes
-Essays on the Theory of Numbers by Richard Dedekind	Essays-Theory-Numbers--Richard-Dedekind
-A Friendly Introduction to Number Theory by Joseph Silverman	A-Friendly-Intro-Number-Theory--Joseph-Silverman
 ---
 
 ### 🔙 Navigation
