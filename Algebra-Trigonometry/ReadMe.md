@@ -1,6 +1,8 @@
 # 📉 Algebra and Trigonometry Collection
 
-Welcome to the Calculus resources folder. Here you can find general textbooks as well as specialized sub-categories. 
+Welcome to the Algebra and Trigonometry resources folder. 
+
+Here you can find general textbooks as well as specialized sub-categories. 
 * 📖 *Visit our* **[Algebra & Trigonometry Main Library](https://freemathematicsbooks.com/A.aspx?Id=Precalculus)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
