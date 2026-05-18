@@ -14,7 +14,7 @@ Here you can find general textbooks as well as specialized sub-categories.
 
 | Sub Category | 📥 Online Library | 📁 GitHub Resources |
 | :--- | :--- | :--- |
-| **Elementary Algebra** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Basic-Algebra) | [Explore Folders](./Basic-Algebra) |
+| **Elementary Algebra** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Basic-Algebra) | [Explore Folders](./Elementary-Algebra) |
 | **Trigonometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Trigonometry) | [Explore Folders](./Trigonometry) |
 
 ---
