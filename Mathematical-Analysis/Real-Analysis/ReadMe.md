@@ -10,7 +10,6 @@ Welcome to the Real Analysis textbooks collection.
 ### 📚 Recommended Textbooks
 *Click on the titles below to visit the book's download page:*
 
-🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com)**
 * 📖 **[A Course of Pure Mathematics](https://freemathematicsbooks.com/B.aspx?FileName=Course-Pure-Mathematics--GH-Hardy)** — *by G.H. Hardy*
 * 📖 **[An Introduction to Measure Theory](https://freemathematicsbooks.com/B.aspx?FileName=Measure-Theory--Terrence-Tao)** — *by Terrence Tao*
 * 📖 **[Basic Analysis: Introduction to Real Analysis I](https://freemathematicsbooks.com/B.aspx?FileName=Intro-Real-Analysis-I--Jiri-Lebl)** — *by Jiri Lebl*
