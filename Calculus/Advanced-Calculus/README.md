@@ -1,7 +1,8 @@
 
 # 📘 Advanced Calculus
 
-Welcome to the Calculus of Variations textbooks collection.
+Welcome to the Advanced Calculus textbooks collection.
+
 This category contains advanced-level calculus textbooks, including topics like multivariable analysis, vector calculus, and rigorous treatments of mathematical theory.
 * 📖 *Visit our* **[Calculus of Variations Library](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Variation)** *online*
 * 📖 *Visit our* **[Calculus Main Library](https://freemathematicsbooks.com/A.aspx?Id=Calculus)** *online*
