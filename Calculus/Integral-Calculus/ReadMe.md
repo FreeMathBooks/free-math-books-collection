@@ -1,3 +1,15 @@
+# 📘 Integral Calculus
+
+Welcome to the Integral Calculus textbooks collection.
+* 📖 *Visit our* **[Integral Calculus Library](https://freemathematicsbooks.com/A.aspx?Id=Integral-Calculus)** *online*
+* 📖 *Visit our* **[Calculus Main Library](https://freemathematicsbooks.com/A.aspx?Id=Calculus)** *online*
+* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
+
+---
+
+### 📚 Recommended Textbooks
+*Click on the titles below to visit the book's download page:*
+
 * 📖 **[A Treatise on the Integral Calculus Method of Rates](https://freemathematicsbooks.com/B.aspx?FileName=Treatise-Integral-Calculus-Method-Rates-William-Johnson)** — *by William Johnson*
 * 📖 **[An Elementary Course in the Integral Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Elementary-Integral-Calculus--Daniel-Murray)** — *by Daniel A. Murray*
 * 📖 **[Definite Integrals: Theory & Practice](https://freemathematicsbooks.com/B.aspx?FileName=Definite-Integration--Horan--Lavelle)** — *by R Horan & M Lavelle*
@@ -13,3 +25,12 @@
 * 📖 **[Integration Theory: Lecture Notes](https://freemathematicsbooks.com/B.aspx?FileName=Integration-Theory--Johan-Jonasson)** — *by Johan Jonasson*
 * 📖 **[Lectures on Integration](https://freemathematicsbooks.com/B.aspx?FileName=Lectures-Integration-William-Faris)** — *by William G. Faris*
 * 📖 **[Techniques of Integration](https://freemathematicsbooks.com/B.aspx?FileName=Techniques-Integration--Whitman-College)** — *by David Guichard*
+
+---
+
+### 🔙 Navigation
+* [⬅️ Back to Main Calculus Category](../)
+* [🏠 Back to Home Repository](../../../../)
+
+---
+🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com)**
