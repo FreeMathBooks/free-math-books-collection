@@ -34,5 +34,5 @@ This category contains advanced-level calculus textbooks, including topics like 
 
 ---
 🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com)**
-[Cal-Advanced]: [https://freemathematicsbooks.com/A.aspx?Id=Advanced-Calculus]&utm_source=github&utm_medium=readme&utm_campaign=Advanced-Calculus
+[Cal-Advanced]: https://freemathematicsbooks.com/A.aspx?Id=Advanced-Calculus&utm_source=github&utm_medium=readme&utm_campaign=Advanced-Calculus
 
