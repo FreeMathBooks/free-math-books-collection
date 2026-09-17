@@ -1,8 +1,8 @@
 # 📘 Analytic Geometry
 
 Welcome to the Analytic Geometry textbooks collection.
-* 📖 *Visit our* **[Analytic Geometry Library](https://freemathematicsbooks.com/A.aspx?Id=Analytic-Geometry)** *online*
-* 📖 *Visit our* **[Geometry & Topology Main Library](https://freemathematicsbooks.com/A.aspx?Id=Geometry)** *online*
+* 📖 *Visit our* **[Analytic Geometry Library](https://freemathematicsbooks.com/A.aspx?Id=Analytic-Geometry&utm_source=github&utm_medium=readme&utm_campaign=Analytic-Geometry)** *online*
+* 📖 *Visit our* **[Geometry & Topology Main Library](https://freemathematicsbooks.com/A.aspx?Id=Geometry&utm_source=github&utm_medium=readme&utm_campaign=Geometry)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
