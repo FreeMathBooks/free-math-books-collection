@@ -1,7 +1,7 @@
 # 📉 Calculus Collection
 
 Welcome to the Calculus resources folder. Here you can find general textbooks as well as specialized sub-categories. 
-* 📖 *Visit our* **[Calculus Main Library](https://freemathematicsbooks.com/A.aspx?Id=Calculus)** *online*
+* 📖 *Visit our* **[Calculus Main Library](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=readme&utm_campaign=Calculus)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
@@ -12,13 +12,13 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 
 | Sub Category | 📥 Online Library | 📁 GitHub Resources |
 | :--- | :--- | :--- |
-| **Advanced Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Advanced-Calculus) | [Explore Folders](./Advanced-Calculus) |
-| **Calculus & Analytical Geometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Analytical-Geometry) | [Explore Folders](./Calculus-Analytical-Geometry) |
-| **Calculus of Variation** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Variation) | [Explore Folders](./Calculus-Variation) |
-| **Differential Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Differential-Calculus) | [Explore Folders](./Differential-Calculus) |
-| **Integral Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Integral-Calculus) | [Explore Folders](./Integral-Calculus) |
-| **Multivariable Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Multivariable-Calculus) | [Explore Folders](./Multivariable-Calculus) |
-| **Single Variable Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Single-Variable-Calculus) | [Explore Folders](./Single-Variable-Calculus) |
+| **Advanced Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Advanced-Calculus&utm_source=github&utm_medium=readme&utm_campaign=Advanced-Calculu) | [Explore Folders](./Advanced-Calculus) |
+| **Calculus & Analytical Geometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Analytical-Geometry&utm_source=github&utm_medium=readme&utm_campaign=Calculus-Analytical-Geometry) | [Explore Folders](./Calculus-Analytical-Geometry) |
+| **Calculus of Variation** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Variation&utm_source=github&utm_medium=readme&utm_campaign=Calculus-Variation) | [Explore Folders](./Calculus-Variation) |
+| **Differential Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Differential-Calculus&utm_source=github&utm_medium=readme&utm_campaign=Differential-Calculus) | [Explore Folders](./Differential-Calculus) |
+| **Integral Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Integral-Calculus&utm_source=github&utm_medium=readme&utm_campaign=Integral-Calculus) | [Explore Folders](./Integral-Calculus) |
+| **Multivariable Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Multivariable-Calculus&utm_source=github&utm_medium=readme&utm_campaign=Multivariable-Calculus) | [Explore Folders](./Multivariable-Calculus) |
+| **Single Variable Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Single-Variable-Calculus&utm_source=github&utm_medium=readme&utm_campaign=Single-Variable-Calculus) | [Explore Folders](./Single-Variable-Calculus) |
 
 ---
 
