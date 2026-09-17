@@ -1,8 +1,8 @@
 # 📘 Matrix Algebra
 
 Welcome to the Matrix Algebra textbooks collection.
-* 📖 *Visit our* **[Matrix Algebra Library](https://freemathematicsbooks.com/A.aspx?Id=Matrix-Algebra)** *online*
-* 📖 *Visit our* **[Linear Algebra Main Library](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra)** *online*
+* 📖 *Visit our* **[Matrix Algebra Library](https://freemathematicsbooks.com/A.aspx?Id=Matrix-Algebra&utm_source=github&utm_medium=readme&utm_campaign=Matrix-Algebra)** *online*
+* 📖 *Visit our* **[Linear Algebra Main Library](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra&utm_source=github&utm_medium=readme&utm_campaign=Linear-Algebra)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
