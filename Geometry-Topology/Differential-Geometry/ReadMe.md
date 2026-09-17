@@ -1,8 +1,8 @@
 # 📘 Differential Geometry
 
 Welcome to the Differential Geometry textbooks collection.
-* 📖 *Visit our* **[Differential Geometry Library](https://freemathematicsbooks.com/A.aspx?Id=Differential-Geometry)** *online*
-* 📖 *Visit our* **[Geometry & Topology Main Library](https://freemathematicsbooks.com/A.aspx?Id=Geometry)** *online*
+* 📖 *Visit our* **[Differential Geometry Library](https://freemathematicsbooks.com/A.aspx?Id=Differential-Geometry&utm_source=github&utm_medium=readme&utm_campaign=Differential-Geometry)** *online*
+* 📖 *Visit our* **[Geometry & Topology Main Library](https://freemathematicsbooks.com/A.aspx?Id=Geometry&utm_source=github&utm_medium=readme&utm_campaign=Geometry)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
