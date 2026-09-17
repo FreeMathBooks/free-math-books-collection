@@ -1,8 +1,8 @@
 # 📘 Fourier Analysis
 
 Welcome to the Fourier Analysis textbooks collection.
-* 📖 *Visit our* **[Fourier Analysis Library](https://freemathematicsbooks.com/A.aspx?Id=Fourier-Analysis)** *online*
-* 📖 *Visit our* **[Mathematical Analysis Main Library](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Analysis)** *online*
+* 📖 *Visit our* **[Fourier Analysis Library](https://freemathematicsbooks.com/A.aspx?Id=Fourier-Analysis&utm_source=github&utm_medium=readme&utm_campaign=Fourier-Analysis)** *online*
+* 📖 *Visit our* **[Mathematical Analysis Main Library](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Analysis&utm_source=github&utm_medium=readme&utm_campaign=Mathematical-Analysis)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
