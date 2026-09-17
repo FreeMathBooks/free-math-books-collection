@@ -1,7 +1,7 @@
 # 📉 Linear Algebra Collection
 
 Welcome to the Linear Algebra resources folder. Here you can find general textbooks as well as specialized sub-categories. 
-* 📖 *Visit our* **[Linear Algebra Main Library](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra)** *online*
+* 📖 *Visit our* **[Linear Algebra Main Library](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra&utm_source=github&utm_medium=readme&utm_campaign=Linear-Algebra)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
@@ -12,8 +12,8 @@ Welcome to the Linear Algebra resources folder. Here you can find general textbo
 
 | Sub Category | 📥 Online Library | 📁 GitHub Resources |
 | :--- | :--- | :--- |
-| **Linear Algebra (Introdution)** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra-Intro) | [Explore Folders](./Linear-Algebra-Introduction) |
-| **Matrix Algebra** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Matrix-Algebra) | [Explore Folders](./Matrix-Algebra) |
+| **Linear Algebra (Introdution)** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra-Intro&utm_source=github&utm_medium=readme&utm_campaign=Linear-Algebra-Intro) | [Explore Folders](./Linear-Algebra-Introduction) |
+| **Matrix Algebra** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Matrix-Algebra&utm_source=github&utm_medium=readme&utm_campaign=Matrix-Algebra) | [Explore Folders](./Matrix-Algebra) |
 
 ---
 
