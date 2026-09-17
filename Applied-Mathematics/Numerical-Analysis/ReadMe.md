@@ -1,8 +1,8 @@
 # 📘 Numerical Analysis
 
 Welcome to the Numerical Analysis textbooks collection.
-* 📖 *Visit our* **[Numerical Analysis Library](https://freemathematicsbooks.com/A.aspx?Id=Numerical-Analysis)** *online*
-* 📖 *Visit our* **[Applied Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics)** *online*
+* 📖 *Visit our* **[Numerical Analysis Library](https://freemathematicsbooks.com/A.aspx?Id=Numerical-Analysis&utm_source=github&utm_medium=readme&utm_campaign=Numerical-Analysis)** *online*
+* 📖 *Visit our* **[Applied Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics&utm_source=github&utm_medium=readme&utm_campaign=Applied-Mathematics)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
