@@ -1,8 +1,8 @@
-# 📘 Bayesian Statistics
+# 📘 Statistical Inference
 
 Welcome to the Introductory Statistics textbooks collection.
-* 📖 *Visit our* **[Introductory Statistics Library](https://freemathematicsbooks.com/A.aspx?Id=Introductory-Statistics)** *online*
-* 📖 *Visit our* **[Probability and Statistics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Probability-Statistics)** *online*
+* 📖 *Visit our* **[Statistical Inference Library](https://freemathematicsbooks.com/A.aspx?Id=Statistical-Inference&utm_source=github&utm_medium=readme&utm_campaign=Statistical-Inference)** *online*
+* 📖 *Visit our* **[Probability and Statistics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Probability-Statistics&utm_source=github&utm_medium=readme&utm_campaign=Probability-Statistics)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
