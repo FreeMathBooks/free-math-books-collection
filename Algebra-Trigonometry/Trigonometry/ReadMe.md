@@ -1,8 +1,8 @@
 # 📘 Trigonometry
 
 Welcome to the Trigonometry textbooks collection.
-* 📖 *Visit our* **[Trigonometry Library](https://freemathematicsbooks.com/A.aspx?Id=Trigonometry)** *online*
-* 📖 *Visit our* **[Algebra and Trigonometry Main Library](https://freemathematicsbooks.com/A.aspx?Id=Precalculus)** *online*
+* 📖 *Visit our* **[Trigonometry Library](https://freemathematicsbooks.com/A.aspx?Id=Trigonometry&utm_source=github&utm_medium=readme&utm_campaign=Trigonometry)** *online*
+* 📖 *Visit our* **[Algebra and Trigonometry Main Library](https://freemathematicsbooks.com/A.aspx?Id=Algebra-Trigonometry&utm_source=github&utm_medium=readme&utm_campaign=Algebra-Trigonometry)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
