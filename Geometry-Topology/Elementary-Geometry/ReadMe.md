@@ -1,8 +1,8 @@
 # 📘 Elementary Geometry
 
 Welcome to the Elementary Geometry textbooks collection.
-* 📖 *Visit our* **[Elementary Geometry Library](https://freemathematicsbooks.com/A.aspx?Id=Elementary-Geometry)** *online*
-* 📖 *Visit our* **[Geometry & Topology Main Library](https://freemathematicsbooks.com/A.aspx?Id=Geometry)** *online*
+* 📖 *Visit our* **[Elementary Geometry Library](https://freemathematicsbooks.com/A.aspx?Id=Elementary-Geometry&utm_source=github&utm_medium=readme&utm_campaign=Elementary-Geometry)** *online*
+* 📖 *Visit our* **[Geometry & Topology Main Library](https://freemathematicsbooks.com/A.aspx?Id=Geometry&utm_source=github&utm_medium=readme&utm_campaign=Geometry)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
