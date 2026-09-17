@@ -1,7 +1,7 @@
 # 📉 Mathematical Analysis Collection
 
 Welcome to the Mathematical Analysis resources folder. Here you can find general textbooks as well as specialized sub-categories. 
-* 📖 *Visit our* **[Mathematical Analysis Main Library](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Analysis)** *online*
+* 📖 *Visit our* **[Mathematical Analysis Main Library](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Analysis&utm_source=github&utm_medium=readme&utm_campaign=Mathematical-Analysis)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
@@ -12,10 +12,10 @@ Welcome to the Mathematical Analysis resources folder. Here you can find general
 
 | Sub Category | 📥 Online Library | 📁 GitHub Resources |
 | :--- | :--- | :--- |
-| **Real Analysis** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Real-Analysis) | [Explore Folders](./Real-Analysis) |
-| **Complex Analysis** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Complex-Analysis) | [Explore Folders](./Complex-Analysis) |
-| **Fourier Analysis** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Fourier-Analysis) | [Explore Folders](./Fourier-Analysis) |
-| **Functional-Analysis** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Functional-Analysis) | [Explore Folders](./Functional-Analysis) |
+| **Real Analysis** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Real-Analysis&utm_source=github&utm_medium=readme&utm_campaign=Real-Analysis) | [Explore Folders](./Real-Analysis) |
+| **Complex Analysis** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Real-Analysis&utm_source=github&utm_medium=readme&utm_campaign=Real-Analysis) | [Explore Folders](./Complex-Analysis) |
+| **Fourier Analysis** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Fourier-Analysis&utm_source=github&utm_medium=readme&utm_campaign=Fourier-Analysis) | [Explore Folders](./Fourier-Analysis) |
+| **Functional-Analysis** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Functional-Analysis&utm_source=github&utm_medium=readme&utm_campaign=Functional-Analysis) | [Explore Folders](./Functional-Analysis) |
 
 ---
 
