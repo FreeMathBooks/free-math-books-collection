@@ -1,7 +1,7 @@
 # 📉 Applied Mathematics Collection
 
 Welcome to the Calculus resources folder. Here you can find general textbooks as well as specialized sub-categories. 
-* 📖 *Visit our* **[Applied Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics)** *online*
+* 📖 *Visit our* **[Applied Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics&utm_source=github&utm_medium=readme&utm_campaign=Applied-Mathematics)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
@@ -12,13 +12,13 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 
 | Sub Category | 📥 Online Library | 📁 GitHub Resources |
 | :--- | :--- | :--- |
-| **Differential Equations** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Diff-Equations) | [Explore Folders](./Differential-Equations) |
-| **Mathematical Methods** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Methods) | [Explore Folders](./Mathematical-Methods) |
-| **Mathematical Physics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Physics) | [Explore Folders](./Mathematical-Physics) |
-| **Computational Mathematics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Computational-Mathematics) | [Explore Folders](./Computational-Mathematics) |
-| **Numerical Analysis** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Numerical-Analysis) | [Explore Folders](./Numerical-Analysis) |
-| **Mathematical-Modeling** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Modeling) | [Explore Folders](./Mathematical-Modeling) |
-| **Engineering-Mathematics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Engineering-Mathematics) | [Explore Folders](./Engineering-Mathematics) |
+| **Differential Equations** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Differential-Equations&utm_source=github&utm_medium=readme&utm_campaign=Differential-Equations) | [Explore Folders](./Differential-Equations) |
+| **Mathematical Methods** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Methods&utm_source=github&utm_medium=readme&utm_campaign=Mathematical-Methods) | [Explore Folders](./Mathematical-Methods) |
+| **Mathematical Physics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Physics&utm_source=github&utm_medium=readme&utm_campaign=Mathematical-Physics) | [Explore Folders](./Mathematical-Physics) |
+| **Computational Mathematics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Computational-Mathematics&utm_source=github&utm_medium=readme&utm_campaign=Computational-Mathematics) | [Explore Folders](./Computational-Mathematics) |
+| **Numerical Analysis** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Numerical-Analysis&utm_source=github&utm_medium=readme&utm_campaign=Numerical-Analysis) | [Explore Folders](./Numerical-Analysis) |
+| **Mathematical-Modeling** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Modeling&utm_source=github&utm_medium=readme&utm_campaign=Mathematical-Modeling) | [Explore Folders](./Mathematical-Modeling) |
+| **Engineering-Mathematics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Engineering-Mathematics&utm_source=github&utm_medium=readme&utm_campaign=Engineering-Mathematics) | [Explore Folders](./Engineering-Mathematics) |
 
 ---
 
