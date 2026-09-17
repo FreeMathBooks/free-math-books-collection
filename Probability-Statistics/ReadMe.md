@@ -1,7 +1,7 @@
 # 📉 Probability & Statistics Collection
 
 Welcome to the Probability & Statistics resources folder. Here you can find general textbooks as well as specialized sub-categories. 
-* 📖 *Visit our* **[Probability & Statistics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Probability-Statistics)** *online*
+* 📖 *Visit our* **[Probability & Statistics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Probability-Statistics&utm_source=github&utm_medium=readme&utm_campaign=Probability-Statistics)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
@@ -12,12 +12,12 @@ Welcome to the Probability & Statistics resources folder. Here you can find gene
 
 | Sub Category | 📥 Online Library | 📁 GitHub Resources |
 | :--- | :--- | :--- |
-| **Introductory Statistics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Introductory-Statistics) | [Explore Folders](./Introductory-Statistics) |
-| **Probability & Stochastic** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Probability-Stochastic) | [Explore Folders](./Probability-Stochastic) |
-| **Mathematical Statistics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Statistics) | [Explore Folders](./Mathematical-Statistics) |
-| **Statistical Learning** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Statistical-Learning) | [Explore Folders](./Statistical-Learning) |
-| **Bayesian Statistics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Bayesian-Statistics) | [Explore Folders](./Bayesian-Statistics) |
-| **Applied Statistics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Applied-Statistics) | [Explore Folders](./Applied-Statistics) |
+| **Introductory Statistics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Introductory-Statistics&utm_source=github&utm_medium=readme&utm_campaign=Introductory-Statistics) | [Explore Folders](./Introductory-Statistics) |
+| **Probability & Stochastic** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Probability-Stochastic&utm_source=github&utm_medium=readme&utm_campaign=Probability-Stochastic) | [Explore Folders](./Probability-Stochastic) |
+| **Mathematical Statistics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Statistics&utm_source=github&utm_medium=readme&utm_campaign=Mathematical-Statistics) | [Explore Folders](./Mathematical-Statistics) |
+| **Statistical Learning** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Statistical-Learning&utm_source=github&utm_medium=readme&utm_campaign=Statistical-Learning) | [Explore Folders](./Statistical-Learning) |
+| **Bayesian Statistics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Bayesian-Statistics&utm_source=github&utm_medium=readme&utm_campaign=Bayesian-Statistics) | [Explore Folders](./Bayesian-Statistics) |
+| **Applied Statistics** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Applied-Statistics&utm_source=github&utm_medium=readme&utm_campaign=Applied-Statist) | [Explore Folders](./Applied-Statistics) |
 
 ---
 
