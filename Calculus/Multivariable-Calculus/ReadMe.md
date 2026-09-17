@@ -1,8 +1,8 @@
 # 📘 Multivariable Calculus
 
 Welcome to the Multivariable Calculus textbooks collection.
-* 📖 *Visit our* **[Multivariable Calculus Library](https://freemathematicsbooks.com/A.aspx?Id=Multivariable-Calculus)** *online*
-* 📖 *Visit our* **[Calculus Main Library](https://freemathematicsbooks.com/A.aspx?Id=Calculus)** *online*
+* 📖 *Visit our* **[Multivariable Calculus Library](https://freemathematicsbooks.com/A.aspx?Id=Multivariable-Calculus&utm_source=github&utm_medium=readme&utm_campaign=Multivariable-Calculus)** *online*
+* 📖 *Visit our* **[Calculus Main Library](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=readme&utm_campaign=Calculus)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
