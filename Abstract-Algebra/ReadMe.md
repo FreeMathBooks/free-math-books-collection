@@ -1,7 +1,7 @@
 # 📉 Abstract Algebra Collection
 
 Welcome to the Abstract Algebra resources folder. Here you can find general textbooks as well as specialized sub-categories. 
-* 📖 *Visit our* **[Abstract Algebra Main Library](https://freemathematicsbooks.com/A.aspx?Id=Abstract-Algebra)** *online*
+* 📖 *Visit our* **[Abstract Algebra Main Library](https://freemathematicsbooks.com/A.aspx?Id=Abstract-Algebra&utm_source=github&utm_medium=readme&utm_campaign=Abstract-Algebra)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
