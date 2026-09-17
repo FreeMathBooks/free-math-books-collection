@@ -1,7 +1,7 @@
 # 📉 Geometry and Topology Collection
 
 Welcome to the Geometry and Topology resources folder. Here you can find general textbooks as well as specialized sub-categories. 
-* 📖 *Visit our* **[Geometry and Topology Main Library](https://freemathematicsbooks.com/A.aspx?Id=Geometry)** *online*
+* 📖 *Visit our* **[Geometry and Topology Main Library](https://freemathematicsbooks.com/A.aspx?Id=Geometry&utm_source=github&utm_medium=readme&utm_campaign=)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
@@ -12,13 +12,13 @@ Welcome to the Geometry and Topology resources folder. Here you can find general
 
 | Sub Category | 📥 Online Library | 📁 GitHub Resources |
 | :--- | :--- | :--- |
-| **Elementary Geometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Elementary-Geometry) | [Explore Folders](./Elementary-Geometry) |
-| **Analytic Geometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Analytic-Geometry) | [Explore Folders](./Analytic-Geometry) |
-| **Differential Geometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Differential-Geometry) | [Explore Folders](./Differential-Geometry) |
-| **Algebraic Geometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Algebraic-Geometry) | [Explore Folders](./Algebraic-Geometry) |
-| **Non Euclidean Geometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Non-Euclidean-Geometry) | [Explore Folders](./Non-Euclidean-Geometry) |
-| **Computational Geometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Computational-Geometry) | [Explore Folders](./Computational-Geometry) |
-| **Topology** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Topology) | [Explore Folders](./Topology) |
+| **Elementary Geometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Elementary-Geometry&utm_source=github&utm_medium=readme&utm_campaign=Elementary-Geometry) | [Explore Folders](./Elementary-Geometry) |
+| **Analytic Geometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Analytic-Geometry&utm_source=github&utm_medium=readme&utm_campaign=Analytic-Geometry) | [Explore Folders](./Analytic-Geometry) |
+| **Differential Geometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Differential-Geometry&utm_source=github&utm_medium=readme&utm_campaign=Differential-Geometry) | [Explore Folders](./Differential-Geometry) |
+| **Algebraic Geometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Differential-Geometry&utm_source=github&utm_medium=readme&utm_campaign=Differential-Geometry) | [Explore Folders](./Algebraic-Geometry) |
+| **Non Euclidean Geometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Non-Euclidean-Geometry&utm_source=github&utm_medium=readme&utm_campaign=Non-Euclidean-Geometry) | [Explore Folders](./Non-Euclidean-Geometry) |
+| **Computational Geometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Computational-Geometry&utm_source=github&utm_medium=readme&utm_campaign=Computational-Geometry) | [Explore Folders](./Computational-Geometry) |
+| **Topology** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Topology&utm_source=github&utm_medium=readme&utm_campaign=Topology) | [Explore Folders](./Topology) |
 
 ---
 
