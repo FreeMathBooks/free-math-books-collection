@@ -1,8 +1,8 @@
 # 📘 Engineering Mathematics
 
 Welcome to the Engineering Mathematics textbooks collection.
-* 📖 *Visit our* **[Engineering Mathematics Library](https://freemathematicsbooks.com/A.aspx?Id=Engineering-Mathematics)** *online*
-* 📖 *Visit our* **[Applied Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics)** *online*
+* 📖 *Visit our* **[Engineering Mathematics Library](https://freemathematicsbooks.com/A.aspx?Id=Engineering-Mathematics&utm_source=github&utm_medium=readme&utm_campaign=Engineering-Mathematics)** *online*
+* 📖 *Visit our* **[Applied Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics&utm_source=github&utm_medium=readme&utm_campaign=Applied-Mathematics)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
