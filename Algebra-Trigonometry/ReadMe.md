@@ -3,7 +3,7 @@
 Welcome to the Algebra and Trigonometry resources folder. 
 
 Here you can find general textbooks as well as specialized sub-categories. 
-* 📖 *Visit our* **[Algebra & Trigonometry Main Library](https://freemathematicsbooks.com/A.aspx?Id=Precalculus)** *online*
+* 📖 *Visit our* **[Algebra & Trigonometry Main Library](https://freemathematicsbooks.com/A.aspx?Id=Algebra-Trigonometry&utm_source=github&utm_medium=readme&utm_campaign=Algebra-Trigonometry)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
@@ -14,8 +14,8 @@ Here you can find general textbooks as well as specialized sub-categories.
 
 | Sub Category | 📥 Online Library | 📁 GitHub Resources |
 | :--- | :--- | :--- |
-| **Elementary Algebra** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Basic-Algebra) | [Explore Folders](./Elementary-Algebra) |
-| **Trigonometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Trigonometry) | [Explore Folders](./Trigonometry) |
+| **Elementary Algebra** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Basic-Algebra&utm_source=github&utm_medium=readme&utm_campaign=Basic-Algebra) | [Explore Folders](./Elementary-Algebra) |
+| **Trigonometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Trigonometry&utm_source=github&utm_medium=readme&utm_campaign=Trigonometry) | [Explore Folders](./Trigonometry) |
 
 ---
 
