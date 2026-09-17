@@ -1,8 +1,8 @@
 # 📘 Mathematical Methods
 
 Welcome to the Mathematical Methods textbooks collection.
-* 📖 *Visit our* **[Mathematical Methods Library](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Methods)** *online*
-* 📖 *Visit our* **[Applied Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics)** *online*
+* 📖 *Visit our* **[Mathematical Methods Library](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Methods&utm_source=github&utm_medium=readme&utm_campaign=Mathematical-Methods)** *online*
+* 📖 *Visit our* **[Applied Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics&utm_source=github&utm_medium=readme&utm_campaign=Applied-Mathematics)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
