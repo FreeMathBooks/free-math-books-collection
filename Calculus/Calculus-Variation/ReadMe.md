@@ -1,8 +1,8 @@
 # 📘 Calculus of Variations
 
 Welcome to the Calculus of Variations textbooks collection.
-* 📖 *Visit our* **[Calculus of Variations Library](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Variation)** *online*
-* 📖 *Visit our* **[Calculus Main Library](https://freemathematicsbooks.com/A.aspx?Id=Calculus)** *online*
+* 📖 *Visit our* **[Calculus of Variations Library](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Variation&utm_source=github&utm_medium=readme&utm_campaign=Calculus-Variation)** *online*
+* 📖 *Visit our* **[Calculus Main Library](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=readme&utm_campaign=Calculus)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
