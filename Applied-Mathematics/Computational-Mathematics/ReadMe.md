@@ -1,8 +1,8 @@
 # 📘 Computational Mathematics
 
 Welcome to the Computational Mathematics textbooks collection.
-* 📖 *Visit our* **[Computational Mathematics Library](https://freemathematicsbooks.com/A.aspx?Id=Computational-Mathematics)** *online*
-* 📖 *Visit our* **[Applied Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics)** *online*
+* 📖 *Visit our* **[Computational Mathematics Library](https://freemathematicsbooks.com/A.aspx?Id=Computational-Mathematics&utm_source=github&utm_medium=readme&utm_campaign=Computational-Mathematics)** *online*
+* 📖 *Visit our* **[Applied Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics&utm_source=github&utm_medium=readme&utm_campaign=Applied-Mathematics)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
