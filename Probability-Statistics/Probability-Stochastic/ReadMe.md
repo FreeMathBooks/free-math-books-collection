@@ -1,8 +1,8 @@
 # 📘 Probability Stochastic
 
 Welcome to the Probability Stochastic textbooks collection.
-* 📖 *Visit our* **[Probability Stochastic Library](https://freemathematicsbooks.com/A.aspx?Id=Probability-Stochastic)** *online*
-* 📖 *Visit our* **[Probability and Statistics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Probability-Statistics)** *online*
+* 📖 *Visit our* **[Probability Stochastic Library](https://freemathematicsbooks.com/A.aspx?Id=Probability-Stochastic&utm_source=github&utm_medium=readme&utm_campaign=Probability-Stochastic)** *online*
+* 📖 *Visit our* **[Probability and Statistics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Probability-Statistics&utm_source=github&utm_medium=readme&utm_campaign=Probability-Statistics)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
