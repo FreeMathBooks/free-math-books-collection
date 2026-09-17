@@ -1,8 +1,8 @@
 # 📘 Linear Algebra (Introduction)
 
 Welcome to the Linear Algebra (Introduction) textbooks collection.
-* 📖 *Visit our* **[Linear Algebra (Introduction) Library](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra-Intro)** *online*
-* 📖 *Visit our* **[Linear Algebra Main Library](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra)** *online*
+* 📖 *Visit our* **[Linear Algebra (Introduction) Library](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra-Intro&utm_source=github&utm_medium=readme&utm_campaign=Linear-Algebra-Intro)** *online*
+* 📖 *Visit our* **[Linear Algebra Main Library](https://freemathematicsbooks.com/A.aspx?Id=Linear-Algebra&utm_source=github&utm_medium=readme&utm_campaign=Linear-Algebra)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
