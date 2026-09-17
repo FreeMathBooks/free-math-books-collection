@@ -1,8 +1,8 @@
 # 📘 Differential Calculus
 
 Welcome to the Differential Calculus textbooks collection.
-* 📖 *Visit our* **[Differential Calculus Library](https://freemathematicsbooks.com/A.aspx?Id=Differential-Calculus)** *online*
-* 📖 *Visit our* **[Calculus Main Library](https://freemathematicsbooks.com/A.aspx?Id=Calculus)** *online*
+* 📖 *Visit our* **[Differential Calculus Library](https://freemathematicsbooks.com/A.aspx?Id=Differential-Calculus&utm_source=github&utm_medium=readme&utm_campaign=Differential-Calculus)** *online*
+* 📖 *Visit our* **[Calculus Main Library](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=readme&utm_campaign=Calculus)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
 
 ---
