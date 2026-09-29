@@ -3,7 +3,7 @@
 Welcome to the Bayesian Statistics textbooks collection.
 * 📖 *Visit our* **[Bayesian Statistics Library](https://freemathematicsbooks.com/A.aspx?Id=Bayesian-Statistics&utm_source=github&utm_medium=readme&utm_campaign=Bayesian-Statistics)** *online*
 * 📖 *Visit our* **[Probability and Statistics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Probability-Statistics&utm_source=github&utm_medium=readme&utm_campaign=Probability-Statistics)** *online*
-* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
+* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)** *online*
 
 ---
 
@@ -24,4 +24,4 @@ Welcome to the Bayesian Statistics textbooks collection.
 * [🏠 Back to Home Repository](../../../../)
 
 ---
-🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com)**
+🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)**
