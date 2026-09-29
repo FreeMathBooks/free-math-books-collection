@@ -3,7 +3,7 @@
 Welcome to the Computational Geometry textbooks collection.
 * 📖 *Visit our* **[Computational Geometry Library](https://freemathematicsbooks.com/A.aspx?Id=Computational-Geometry&utm_source=github&utm_medium=readme&utm_campaign=Computational-Geometry)** *online*
 * 📖 *Visit our* **[Geometry & Topology Main Library](https://freemathematicsbooks.com/A.aspx?Id=Geometry&utm_source=github&utm_medium=readme&utm_campaign=Geometry)** *online*
-* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
+* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)** *online*
 
 ---
 
@@ -22,3 +22,4 @@ Welcome to the Computational Geometry textbooks collection.
 * [🏠 Back to Home Repository](../../../../)
 
 ---
+🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)**
