@@ -3,7 +3,7 @@
 Welcome to the Single Variable Calculus textbooks collection.
 * 📖 *Visit our* **[Single Variable Calculus Library](https://freemathematicsbooks.com/A.aspx?Id=Single-Variable-Calculus&utm_source=github&utm_medium=readme&utm_campaign=Single-Variable-Calculus)** *online*
 * 📖 *Visit our* **[Calculus Main Library](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=readme&utm_campaign=Calculus)** *online*
-* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
+* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)** *online*
 
 ---
 
@@ -30,4 +30,4 @@ Welcome to the Single Variable Calculus textbooks collection.
 * [🏠 Back to Home Repository](../../../../)
 
 ---
-🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com)**
+🌐 **Discover more advanced resources at [freemathematicsbooks.com]([https://freemathematicsbooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks))**
