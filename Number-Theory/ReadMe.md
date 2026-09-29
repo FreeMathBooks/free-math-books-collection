@@ -3,7 +3,7 @@
 Welcome to the Abstract Algebra resources folder. Here you can find general textbooks as well as specialized sub-categories. 
 * 📖 *Visit our* **[Number Theory Main Library](https://freemathematicsbooks.com/A.aspx?Id=Number-Theory&utm_source=github&utm_medium=readme&utm_campaign=Number-Theory
 )** *online*
-* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
+* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)** *online*
 
 ---
 
@@ -35,4 +35,4 @@ Welcome to the Abstract Algebra resources folder. Here you can find general text
 * [🏠 Back to Home Repository](../../../../)
 
 ---
-🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com)**
+🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)**
