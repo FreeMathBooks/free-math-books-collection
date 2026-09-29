@@ -3,7 +3,7 @@
 Welcome to the Differential Equations textbooks collection.
 * 📖 *Visit our* **[Differential Equations Library](https://freemathematicsbooks.com/A.aspx?Id=Differential-Equations&utm_source=github&utm_medium=readme&utm_campaign=Differential-Equations)** *online*
 * 📖 *Visit our* **[Applied Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics&utm_source=github&utm_medium=readme&utm_campaign=Applied-Mathematics)** *online*
-* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
+* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)** *online*
 
 ---
 
@@ -35,4 +35,4 @@ Welcome to the Differential Equations textbooks collection.
 
 ---
 
-🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com)**
+🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)**
