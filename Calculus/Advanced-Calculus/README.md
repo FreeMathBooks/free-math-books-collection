@@ -32,4 +32,4 @@ This category contains advanced-level calculus textbooks, including topics like 
 * [🏠 Back to Home Repository](../../../../)
 
 ---
-🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com)**
+🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)**
