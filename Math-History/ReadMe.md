@@ -2,7 +2,7 @@
 
 Welcome to the History of Mathematics resources folder. Here you can find general textbooks as well as specialized sub-categories. 
 * 📖 *Visit our* **[History of Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Math-History&utm_source=github&utm_medium=readme&utm_campaign=Math-History)** *online*
-* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
+* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)** *online*
 
 ---
 
@@ -30,4 +30,4 @@ Welcome to the History of Mathematics resources folder. Here you can find genera
 * [🏠 Back to Home Repository](../../../../)
 
 ---
-🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com)**
+🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)**
