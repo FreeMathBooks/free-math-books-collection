@@ -2,7 +2,7 @@
 
 Welcome to the Geometry and Topology resources folder. Here you can find general textbooks as well as specialized sub-categories. 
 * 📖 *Visit our* **[Geometry and Topology Main Library](https://freemathematicsbooks.com/A.aspx?Id=Geometry&utm_source=github&utm_medium=readme&utm_campaign=)** *online*
-* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
+* 📖 *Website* **[FreeMathematicsBooks.com]([Interactive Linear Algebra by Dan Margalit](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks))** *online*
 
 ---
 
@@ -43,4 +43,4 @@ Welcome to the Geometry and Topology resources folder. Here you can find general
 * [🏠 Back to Home Repository](../../../../)
 
 ---
-🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com)**
+🌐 **Discover more advanced resources at [freemathematicsbooks.com]([https://freemathematicsbooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks))**
