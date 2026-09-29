@@ -3,7 +3,7 @@
 Welcome to the Mathematical Physics textbooks collection.
 * 📖 *Visit our* **[Mathematical Physics Library](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Physics&utm_source=github&utm_medium=readme&utm_campaign=Mathematical-Physics)** *online*
 * 📖 *Visit our* **[Applied Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics&utm_source=github&utm_medium=readme&utm_campaign=Applied-Mathematics)** *online*
-* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com)** *online*
+* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)** *online*
 
 ---
 
@@ -26,4 +26,4 @@ Welcome to the Mathematical Physics textbooks collection.
 
 ---
 
-🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com)**
+🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)**
