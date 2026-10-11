@@ -1,6 +1,9 @@
 # 📘 Elementary Algebra
 
 Welcome to the Elementary Algebra textbooks collection.
+
+![Basic-Algebra Image](/Books/Basic-Algebra.jpg)
+
 * 📖 *Visit our* **[Elementary Algebra Library](https://freemathematicsbooks.com/A.aspx?Id=Basic-Algebra&utm_source=github&utm_medium=readme&utm_campaign=Basic-Algebra)** *online*
 * 📖 *Visit our* **[Algebra and Trigonometry Main Library](https://freemathematicsbooks.com/A.aspx?Id=Algebra-Trigonometry&utm_source=github&utm_medium=readme&utm_campaign=Algebra-Trigonometry)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)** *online*
