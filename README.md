@@ -1,5 +1,5 @@
 # 📚 Free Mathematics Books Collection
-Algebra-Precalculus.jpg
+
 Welcome! Here you can find a curated list of free math textbooks and resources.  
 🌐 **For more books, visit our website:** [freemathematicsbooks.com](https://freemathematicsbooks.com)
 
