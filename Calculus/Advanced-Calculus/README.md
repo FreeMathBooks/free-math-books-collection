@@ -3,6 +3,8 @@
 
 Welcome to the Advanced Calculus textbooks collection.
 
+![Advanced-Calculus Image](/Books/Advanced-Calculus.jpg)
+
 This category contains advanced-level calculus textbooks, including topics like multivariable analysis, vector calculus, and rigorous treatments of mathematical theory.
 * 📖 *Visit our* **[Advanced Calculus Library](https://freemathematicsbooks.com/A.aspx?Id=Advanced-Calculus&utm_source=github&utm_medium=readme&utm_campaign=Advanced-Calculus)** *online*
 * 📖 *Visit our* **[Calculus Main Library](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=readme&utm_campaign=Calculus)** *online*
