@@ -1,6 +1,9 @@
 # 📘 Applied Statistics
 
 Welcome to the Applied Statistics textbooks collection.
+
+![Applied-Statistics Image](/Books/Applied-Statistics.jpg)
+
 * 📖 *Visit our* **[Applied Statistics Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Statistics&utm_source=github&utm_medium=readme&utm_campaign=Applied-Statistics)** *online*
 * 📖 *Visit our* **[Probability and Statistics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Probability-Statistics&utm_source=github&utm_medium=readme&utm_campaign=Probability-Statistics)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)** *online*
