@@ -1,6 +1,9 @@
 # 📘 Mathematical Physics
 
 Welcome to the Mathematical Physics textbooks collection.
+
+![Mathematical-Physics Image](/Books/Mathematical-Physics.jpg)
+
 * 📖 *Visit our* **[Mathematical Physics Library](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Physics&utm_source=github&utm_medium=readme&utm_campaign=Mathematical-Physics)** *online*
 * 📖 *Visit our* **[Applied Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics&utm_source=github&utm_medium=readme&utm_campaign=Applied-Mathematics)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)** *online*
