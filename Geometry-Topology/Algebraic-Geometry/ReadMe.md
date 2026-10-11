@@ -1,6 +1,8 @@
 # 📘 Algebraic Geometry
 Welcome to the Algebraic Geometry textbooks collection.
+
 ![Algebraic-Geometry Image](/Books/Algebraic-Geometry.jpg)
+
 * 📖 *Visit our* **[Algebraic Geometry Library](https://freemathematicsbooks.com/A.aspx?Id=Algebraic-Geometry&utm_source=github&utm_medium=readme&utm_campaign=Algebraic-Geometry)** *online*
 * 📖 *Visit our* **[Geometry & Topology Main Library](https://freemathematicsbooks.com/A.aspx?Id=Geometry&utm_source=github&utm_medium=readme&utm_campaign=Geometry)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)** *online*
