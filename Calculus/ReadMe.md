@@ -1,6 +1,6 @@
 # 📉 Calculus Collection
 ![Algebra Precalculus](/Algebra-Precalculus.jpg)
-![Algebra Precalculus](/Calculus/Algebra-Precalculus.jpg)
+![Algebra Precalculus](/Books/Algebra-Precalculus.jpg)
 ![Free Mathematics Books Banner](https://freemathematicsbooks.com/Books/Calculus.jpg)
 Welcome to the Calculus resources folder. Here you can find general textbooks as well as specialized sub-categories. 
 * 📖 *Visit our* **[Calculus Main Library](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=readme&utm_campaign=Calculus)** *online*
