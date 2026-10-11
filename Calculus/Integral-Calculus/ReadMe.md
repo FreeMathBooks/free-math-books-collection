@@ -1,6 +1,9 @@
 # 📘 Integral Calculus
 
 Welcome to the Integral Calculus textbooks collection.
+
+![Integral-Calculus Image](/Books/Integral-Calculus.jpg)
+
 * 📖 *Visit our* **[Integral Calculus Library](https://freemathematicsbooks.com/A.aspx?Id=Integral-Calculus&utm_source=github&utm_medium=readme&utm_campaign=Integral-Calculus)** *online*
 * 📖 *Visit our* **[Calculus Main Library](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=readme&utm_campaign=Calculus)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)** *online*
