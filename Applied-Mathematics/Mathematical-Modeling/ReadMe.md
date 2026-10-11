@@ -1,6 +1,9 @@
 # 📘 Mathematical Modeling
 
 Welcome to the Mathematical Modeling textbooks collection.
+
+![Mathematical-Modeling Image](/Books/Mathematical-Modeling.jpg)
+
 * 📖 *Visit our* **[Mathematical Modeling Library](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Modeling&utm_source=github&utm_medium=readme&utm_campaign=Mathematical-Modeling)** *online*
 * 📖 *Visit our* **[Applied Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics&utm_source=github&utm_medium=readme&utm_campaign=Applied-Mathematics)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)** *online*
