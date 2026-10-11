@@ -1,6 +1,9 @@
 # 📉 Probability & Statistics Collection
 
 Welcome to the Probability & Statistics resources folder. Here you can find general textbooks as well as specialized sub-categories. 
+
+![Probability-Statistics Image](/Books/Probability-Statistics.jpg)
+
 * 📖 *Visit our* **[Probability & Statistics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Probability-Statistics&utm_source=github&utm_medium=readme&utm_campaign=Probability-Statistics)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)** *online*
 
