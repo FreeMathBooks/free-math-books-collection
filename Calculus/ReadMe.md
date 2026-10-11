@@ -2,7 +2,7 @@
 
 Welcome to the Calculus resources folder. Here you can find general textbooks as well as specialized sub-categories. 
 
-![Books/Algebra-Precalculus](/Books/Calculus.jpg)
+![Calculus Image](Books/Calculus.jpg)
 * 📖 *Visit our* **[Calculus Main Library](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=readme&utm_campaign=Calculus)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)** *online*
 
