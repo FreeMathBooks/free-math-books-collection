@@ -2,6 +2,8 @@
 
 Welcome to the Algebra and Trigonometry resources folder. 
 
+![Algebra-Trigonometry Image](/Books/Algebra-Trigonometry.jpg)
+
 Here you can find general textbooks as well as specialized sub-categories. 
 * 📖 *Visit our* **[Algebra & Trigonometry Main Library](https://freemathematicsbooks.com/A.aspx?Id=Algebra-Trigonometry&utm_source=github&utm_medium=readme&utm_campaign=Algebra-Trigonometry)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)** *online*
