@@ -1,6 +1,9 @@
 # 📉 History of Mathematics Collection
 
 Welcome to the History of Mathematics resources folder. Here you can find general textbooks as well as specialized sub-categories. 
+
+![Math-History Image](/Books/Math-History.jpg)
+
 * 📖 *Visit our* **[History of Mathematics Main Library](https://freemathematicsbooks.com/A.aspx?Id=Math-History&utm_source=github&utm_medium=readme&utm_campaign=Math-History)** *online*
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)** *online*
 
