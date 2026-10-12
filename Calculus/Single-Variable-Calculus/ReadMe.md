@@ -38,6 +38,7 @@ Welcome to the Single Variable Calculus textbooks collection.
 
 ---
 [!NOTE]
+
 🔍 **Looking for a specific book or topic?**
 This GitHub repository contains a **curated preview list**. For our complete database of **1,000+ free PDF textbooks**, Advanced Search Filters, Chapter Indexing, and Exercises, visit our primary library:
 🌐 **[Search 1,000+ Mathematics Textbooks on FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=readme_header_banner&utm_campaign=search_notice)**
