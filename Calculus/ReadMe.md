@@ -1,9 +1,24 @@
-# 📉 Calculus Collection
+# 📚 Free Calculus Books & Textbook Repository
 
-Welcome to the Calculus resources folder. Here you can find general textbooks as well as specialized sub-categories. 
+Welcome to the Free Calculus Books Repository!
 
-![Calculus Image](/Books/Calculus.jpg)
-* 📖 *Visit our* **[Calculus Main Library](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=readme&utm_campaign=Calculus)** *online*
+This repository maintains a curated catalogue of
+freely accessible Calculus textbooks, lecture notes,
+and supplementary mathematical resources.
+
+Resources are organized by subject, allowing students,
+educators, and independent learners to explore
+Calculus materials ranging from introductory concepts
+to advanced mathematical topics.
+
+Each entry identifies the available book, its author,
+and a link to its corresponding resource page.
+
+This repository also welcomes suggestions, corrections,
+and contributions that help improve the accuracy and
+usefulness of the collection.
+
+📖 **[Explore the Complete Free Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=referral&utm_campaign=Calculus&utm_content=introduction)**
 * 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)** *online*
 
 ---
