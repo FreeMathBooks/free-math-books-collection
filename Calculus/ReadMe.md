@@ -49,7 +49,6 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 * 📖 **[Calculus Made Easy](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Made-Easy--Silvanus-Thompson)** — *by Silvanus P. Thompson*
 * 📖 **[Difference Equations to Differential Equations](https://freemathematicsbooks.com/B.aspx?FileName=Difference-Eqs-Diff-Eqs--Dan-Sloughter)** — *by Dan Sloughter*
 * 📖 **[Elementary Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Elementary-Calculus--Frederick-Woods--Frederick-Bailey)** — *by Frederick S Woods, Frederick H Bailey*
-* 📖 **[Formal Logic, or, The Calculus of Inference, Necessary and Probable](https://freemathematicsbooks.com/B.aspx?FileName=Formal-Logic-The-Calculus-Inference--De-Morgan)** — *by De Morgan*
 * 📖 **[Higher Math for Students of Chemistry & Physics](https://freemathematicsbooks.com/B.aspx?FileName=Higher-Math-Students-Chemistry-Physics--Joseph-Mellor)** — *by Joseph Mellor*
 * 📖 **[Informal Calculus: Bio & Environmental Sciences](https://freemathematicsbooks.com/B.aspx?FileName=Informal-Calculus-Bio-Eco-Sciences--Tyler-Seacrest)** — *by Tyler Seacrest*
 * 📖 **[Integral Calculus Course Materials](https://freemathematicsbooks.com/B.aspx?FileName=Integral-Calculus--Miguel-Lerma)** — *by Miguel A. Lerma*
