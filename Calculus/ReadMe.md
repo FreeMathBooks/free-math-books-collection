@@ -14,7 +14,7 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 
 | Sub Category | 📥 Online Library | 📁 GitHub Resources |
 | :--- | :--- | :--- |
-| **Advanced Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Advanced-Calculus&utm_source=github&utm_medium=readme&utm_campaign=Advanced-Calculu) | [Explore Folders](./Advanced-Calculus) |
+| **Advanced Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Advanced-Calculus&utm_source=github&utm_medium=readme&utm_campaign=Advanced-Calculus) | [Explore Folders](./Advanced-Calculus) |
 | **Calculus & Analytical Geometry** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Analytical-Geometry&utm_source=github&utm_medium=readme&utm_campaign=Calculus-Analytical-Geometry) | [Explore Folders](./Calculus-Analytical-Geometry) |
 | **Calculus of Variation** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Variation&utm_source=github&utm_medium=readme&utm_campaign=Calculus-Variation) | [Explore Folders](./Calculus-Variation) |
 | **Differential Calculus** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Differential-Calculus&utm_source=github&utm_medium=readme&utm_campaign=Differential-Calculus) | [Explore Folders](./Differential-Calculus) |
@@ -42,7 +42,7 @@ Welcome to the Calculus resources folder. Here you can find general textbooks as
 * 📖 **[Calculus Based on Graphical Methods](https://freemathematicsbooks.com/B.aspx?FileName=An-Intro-Calculus-Graphical-Methods--George-Gibson)** — *by George Gibson*
 * 📖 **[Calculus for the Life Sciences 1](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Life-Sciences-1--Cornette--Ackerman)** — *by James Cornette, Ralph Ackerman*
 * 📖 **[Calculus for the Life Sciences 2](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Life-Sciences-2--Cornette--Ackerman)** — *by James Cornette, Ralph Ackerman*
-* 📖 **[Calculus for Engineering Students](https://freemathematicsbooks.com/B.aspx?FileName=An-Elementary-Treatise-Calculus-Eng-Students--John-Graham)** — *by John Graham*
+* 📖 **[Calculus for Engineering Students](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Eng-Students--John-Graham)** — *by John Graham*
 * 📖 **[Calculus and Linear Algebra Vol. 1](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Linear-Algebra-1--Kaplan)** — *by Wilfred Kaplan, Donald J. Lewis*
 * 📖 **[Calculus and Linear Algebra Vol. 2](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Linear-Algebra-2--Wilfred-Kaplan)** — *by Wilfred Kaplan, Donald J. Lewis*
 * 📖 **[Calculus Of Finite Differences Fourth Edition](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Finite-Differences--George-Boole)** — *by George Boole*
