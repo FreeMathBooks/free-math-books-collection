@@ -1,5 +1,7 @@
 # 📚 Free Probability & Statistics Books Repository
 
+![Probability-Statistics Image](/Books/Probability-Statistics.jpg)
+
 Welcome to the Free Probability & Statistics Books Repository!
 
 This repository maintains a curated catalogue of freely accessible textbooks, lecture notes, and supplementary learning resources covering probability theory, statistics, stochastic processes, statistical inference, and related computational methods.
