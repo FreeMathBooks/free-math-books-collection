@@ -1,48 +1,163 @@
-# 📉 Mathematical Analysis Collection
+# 📚 Free Mathematical Analysis Books & Textbook Repository
 
-Welcome to the Mathematical Analysis resources folder. Here you can find general textbooks as well as specialized sub-categories. 
+Welcome to the Free Mathematical Analysis Books Repository!
 
-![Mathematical-Analysis Image](/Books/Mathematical-Analysis.jpg)
+This repository maintains a curated catalogue of freely accessible mathematical analysis textbooks, classical treatises, lecture materials, and supplementary academic resources.
 
-* 📖 *Visit our* **[Mathematical Analysis Main Library](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Analysis&utm_source=github&utm_medium=readme&utm_campaign=Mathematical-Analysis)** *online*
-* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)** *online*
+The collection covers foundational real analysis, classical mathematical analysis, complex functions, special functions, Fourier analysis, functional analysis, measure theory, and other advanced mathematical topics.
+
+Resources are organized into subject-based categories to help students, educators, researchers, and independent learners discover relevant mathematical references.
+
+Each book entry includes its title, author information, and a link to its corresponding resource page.
+
+This repository also welcomes suggestions, corrections, and contributions that help improve the accuracy and usefulness of the collection.
+
+📖 **[Explore the Complete Free Mathematical Analysis Collection](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Analysis&utm_source=github&utm_medium=referral&utm_campaign=Mathematical-Analysis&utm_content=introduction)**
 
 ---
 
-### 📂 Specialized Sub-Categories
-*If you are looking for specific topics, explore our sub-folders below:*
-### 📂 Explore by Sub Category
+## 📂 Browse Mathematical Analysis Collections
 
-| Sub Category | 📥 Online Library | 📁 GitHub Resources |
+The following directories organize resources by their primary mathematical subject.
+
+| Subcategory | 📚 Online Collection | 📁 GitHub Folder |
 | :--- | :--- | :--- |
-| **Real Analysis** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Real-Analysis&utm_source=github&utm_medium=readme&utm_campaign=Real-Analysis) | [Explore Folders](./Real-Analysis) |
-| **Complex Analysis** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Real-Analysis&utm_source=github&utm_medium=readme&utm_campaign=Real-Analysis) | [Explore Folders](./Complex-Analysis) |
-| **Fourier Analysis** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Fourier-Analysis&utm_source=github&utm_medium=readme&utm_campaign=Fourier-Analysis) | [Explore Folders](./Fourier-Analysis) |
-| **Functional-Analysis** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Functional-Analysis&utm_source=github&utm_medium=readme&utm_campaign=Functional-Analysis) | [Explore Folders](./Functional-Analysis) |
+| **Real Analysis** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Real-Analysis&utm_source=github&utm_medium=referral&utm_campaign=Real-Analysis) | [Explore Folder](./Real-Analysis) |
+| **Complex Analysis** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Complex-Analysis&utm_source=github&utm_medium=referral&utm_campaign=Complex-Analysis) | [Explore Folder](./Complex-Analysis) |
+| **Fourier Analysis** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Fourier-Analysis&utm_source=github&utm_medium=referral&utm_campaign=Fourier-Analysis) | [Explore Folder](./Fourier-Analysis) |
+| **Functional Analysis** | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Functional-Analysis&utm_source=github&utm_medium=referral&utm_campaign=Functional-Analysis) | [Explore Folder](./Functional-Analysis) |
 
 ---
 
-### 📚 Recommended General Textbooks
-*Direct links to curated Mathematical Analysis books:*
+## 📚 Curated Mathematical Analysis Book Catalogue
 
-* 📖 **[A Course of Modern Analysis](https://freemathematicsbooks.com/B.aspx?FileName=A-Course-Modern-Analysis--Edmund-Whittaker)** — *by E. T.  Whittaker, G. N. Watson*
-* 📖 **[A Treatise On The Theory Of Bessel Functions](https://freemathematicsbooks.com/B.aspx?FileName=Theory-Bessel-Functions--GN-Watson)** — *by G. N. Watson*
-* 📖 **[Analytical Institutions in Four Books](https://freemathematicsbooks.com/B.aspx?FileName=Analytical-Institutions-Four-Books--Maria-Agnesi)** — *by Maria Agnesi*
-* 📖 **[Cours d'Analyse de l'École Polytechnique 1 Différentiel](https://freemathematicsbooks.com/B.aspx?FileName=Cours-Analyse-Polytechnique-1-Differentiel--Camille-Jordan)** — *by Camille Jordan*
-* 📖 **[Cours d'Analyse de l'École Polytechnique 2 Intégral](https://freemathematicsbooks.com/B.aspx?FileName=Cours-Analyse-Polytechnique-2-Integral--Camille-Jordan)** — *by Camille Jordan*
-* 📖 **[Cours d'Analyse de l'École Polytechnique 3 Équations](https://freemathematicsbooks.com/B.aspx?FileName=Cours-Analyse-Polytechnique-3-Equations--Camille-Jordan)** — *by Camille Jordan*
-* 📖 **[Inequalities 1st Edition](https://freemathematicsbooks.com/B.aspx?FileName=Inequalities-Mathematical-Analysis--George-Polya)** — *by George Polya*
-* 📖 **[Mathematical Analysis I](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Analysis-I--Elias-Zakon)** — *by Elias Zakon*
-* 📖 **[Mathematical Analysis II](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Analysis-II--Elias-Zakon)** — *by Elias Zakon*
-* 📖 **[The Functional Analysis of Quantum Information Theory](https://freemathematicsbooks.com/B.aspx?FileName=Quantum-Info-Theory--Gupta--Mandayam--Sunder)** — *by Ved Prakash Gupta*
-* 📖 **[Traité D'Analyse I](https://freemathematicsbooks.com/B.aspx?FileName=Traite-Analyse-I--Emile-Picard)** — *by Emile Picard*
-* 📖 **[Traité D' Analyse II](https://freemathematicsbooks.com/B.aspx?FileName=Traite-Analyse-II--Emile-Picard)** — *by Emile Picard*
-* 📖 **[Traité D' Analyse III](https://freemathematicsbooks.com/B.aspx?FileName=Traite-Analyse-III--Emile-Picard)** — *by Emile Picard*
+The following textbooks and classical mathematical works are organized into four groups according to their primary mathematical subject, theoretical focus, and educational purpose.
+
+### 1. 📘 Foundations & Classical Real Analysis
+
+*Foundational resources covering classical analysis, real variables, mathematical inequalities, differential calculus, and fundamental analytical concepts.*
+
+- 📖 **[Analytical Institutions in Four Books](https://freemathematicsbooks.com/B.aspx?FileName=Analytical-Institutions-Four-Books--Maria-Agnesi&utm_source=github&utm_medium=referral&utm_campaign=Mathematical-Analysis&utm_content=book-catalogue)** — *by Maria Gaetana Agnesi*
+
+  A historical mathematical treatise covering algebra, analytic geometry, infinitesimal analysis, differential calculus, and integral calculus.
+
+- 📖 **[Cours d'Analyse de l'École Polytechnique 1: Différentiel](https://freemathematicsbooks.com/B.aspx?FileName=Cours-Analyse-Polytechnique-1-Differentiel--Camille-Jordan&utm_source=github&utm_medium=referral&utm_campaign=Mathematical-Analysis&utm_content=book-catalogue)** — *by Camille Jordan*
+
+  Covers real and complex variables, infinite series, Taylor series, and their geometrical applications.
+
+- 📖 **[Inequalities (1st Edition)](https://freemathematicsbooks.com/B.aspx?FileName=Inequalities-Mathematical-Analysis--George-Polya&utm_source=github&utm_medium=referral&utm_campaign=Mathematical-Analysis&utm_content=book-catalogue)** — *by G. H. Hardy, J. E. Littlewood & G. Pólya*
+
+  A classical reference covering mean values, convex functions, inequalities involving infinite series and integrals, and related analytical methods.
+
+- 📖 **[Mathematical Analysis I](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Analysis-I--Elias-Zakon&utm_source=github&utm_medium=referral&utm_campaign=Mathematical-Analysis&utm_content=book-catalogue)** — *by Elias Zakon*
+
+  Introduces set theory, real numbers, vector spaces, metric spaces, function limits, continuity, differentiation, and foundational analysis.
+
+### 2. 📐 Integral, Differential & Classical Analysis
+
+*Resources exploring integration, differential equations, infinite series, mathematical physics, and classical analytical methods.*
+
+- 📖 **[Cours d'Analyse de l'École Polytechnique 2: Intégral](https://freemathematicsbooks.com/B.aspx?FileName=Cours-Analyse-Polytechnique-2-Integral--Camille-Jordan&utm_source=github&utm_medium=referral&utm_campaign=Mathematical-Analysis&utm_content=book-catalogue)** — *by Camille Jordan*
+
+  Covers indefinite and definite integrals, Fourier series, complex integrals, elliptic functions, and Abelian integrals.
+
+- 📖 **[Cours d'Analyse de l'École Polytechnique 3: Équations](https://freemathematicsbooks.com/B.aspx?FileName=Cours-Analyse-Polytechnique-3-Equations--Camille-Jordan&utm_source=github&utm_medium=referral&utm_campaign=Mathematical-Analysis&utm_content=book-catalogue)** — *by Camille Jordan*
+
+  Explores ordinary and partial differential equations, linear equations, and calculus of variations.
+
+- 📖 **[Traité d'Analyse I](https://freemathematicsbooks.com/B.aspx?FileName=Traite-Analyse-I--Emile-Picard&utm_source=github&utm_medium=referral&utm_campaign=Mathematical-Analysis&utm_content=book-catalogue)** — *by Émile Picard*
+
+  Covers definite and indefinite integrals, multiple integrals, Laplace's equation, trigonometric series, curvature, and surfaces.
+
+- 📖 **[Traité d'Analyse III](https://freemathematicsbooks.com/B.aspx?FileName=Traite-Analyse-III--Emile-Picard&utm_source=github&utm_medium=referral&utm_campaign=Mathematical-Analysis&utm_content=book-catalogue)** — *by Émile Picard*
+
+  Focuses on ordinary differential equations, singularities, linear and nonlinear equations, hypergeometric functions, and analytical solution methods.
+
+### 3. 📖 Complex Analysis & Special Functions
+
+*Advanced resources covering complex variables, analytic functions, infinite series, special functions, and their mathematical applications.*
+
+- 📖 **[A Course of Modern Analysis](https://freemathematicsbooks.com/B.aspx?FileName=A-Course-Modern-Analysis--Edmund-Whittaker&utm_source=github&utm_medium=referral&utm_campaign=Mathematical-Analysis&utm_content=book-catalogue)** — *by E. T. Whittaker & G. N. Watson*
+
+  A classical reference covering convergence, complex numbers, analytic functions, residue theory, Fourier series, and special functions.
+
+- 📖 **[A Treatise on the Theory of Bessel Functions](https://freemathematicsbooks.com/B.aspx?FileName=Theory-Bessel-Functions--GN-Watson&utm_source=github&utm_medium=referral&utm_campaign=Mathematical-Analysis&utm_content=book-catalogue)** — *by G. N. Watson*
+
+  A specialized mathematical treatise covering Bessel functions, Bessel differential equations, integral representations, asymptotic expansions, and related special functions.
+
+- 📖 **[Traité d'Analyse II](https://freemathematicsbooks.com/B.aspx?FileName=Traite-Analyse-II--Emile-Picard&utm_source=github&utm_medium=referral&utm_campaign=Mathematical-Analysis&utm_content=book-catalogue)** — *by Émile Picard*
+
+  Explores complex functions, analytic continuation, harmonic functions, conformal representation, Riemann surfaces, and Abelian integrals.
+
+### 4. 🧠 Measure, Functional & Advanced Analysis
+
+*Specialized resources covering measure theory, measurable functions, infinite-dimensional spaces, operator theory, and mathematical foundations of quantum information.*
+
+- 📖 **[Mathematical Analysis II](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Analysis-II--Elias-Zakon&utm_source=github&utm_medium=referral&utm_campaign=Mathematical-Analysis&utm_content=book-catalogue)** — *by Elias Zakon*
+
+  Covers differentiation in higher-dimensional and normed linear spaces, measure theory, measurable functions, integration, and advanced calculus using Lebesgue theory.
+
+- 📖 **[The Functional Analysis of Quantum Information Theory](https://freemathematicsbooks.com/B.aspx?FileName=Quantum-Info-Theory--Gupta--Mandayam--Sunder&utm_source=github&utm_medium=referral&utm_campaign=Mathematical-Analysis&utm_content=book-catalogue)** — *by Ved Prakash Gupta, Prabha Mandayam & V. S. Sunder*
+
+  Explores operator spaces, operator systems, entanglement, functional analysis, and mathematical foundations of quantum information theory.
 
 ---
 
-### 🔙 Navigation
-* [🏠 Back to Home Repository](../../../../)
+## 📋 Book Selection & Verification
+
+Resources in this repository are organized according to their primary mathematical subject and educational purpose.
+
+The following considerations guide the organization of this collection:
+
+- **Subject Relevance:** Books are included according to their coverage of real analysis, complex analysis, functional analysis, classical analysis, or closely related mathematical fields.
+- **Bibliographic Information:** Book titles and author details are provided to help readers identify the resources.
+- **Resource Accessibility:** Links lead to the corresponding book information pages, where availability and access details can be checked.
+- **Subject Classification:** Books are grouped by their primary mathematical focus to make browsing easier.
+- **Link Maintenance:** Broken or outdated links and bibliographic corrections can be reported through GitHub Issues.
 
 ---
-🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)**
+
+## 📁 Repository Organization
+
+The repository contains subject-specific directories for further exploration:
+
+- Real Analysis
+- Complex Analysis
+- Fourier Analysis
+- Functional Analysis
+
+Each directory contains additional book listings and related resources for its respective subject.
+
+---
+
+## 🤝 Contributing to This Repository
+
+Suggestions and contributions are welcome!
+
+You can help improve this collection by:
+
+1. Suggesting freely accessible Mathematical Analysis textbooks and academic resources.
+2. Reporting broken or outdated book links.
+3. Correcting book titles, author names, or bibliographic information.
+4. Recommending resources covering real analysis, complex analysis, Fourier analysis, and functional analysis.
+5. Improving the organization and documentation of the repository.
+
+**How to contribute:**
+
+- Open a GitHub Issue to report a problem or suggest a resource.
+- Submit a Pull Request with proposed additions or corrections.
+- Include the book title, author, and source link when recommending a resource.
+
+Please ensure that suggested materials are freely accessible and that any shared files comply with applicable copyright and licensing terms.
+
+---
+
+## 🔙 Repository Navigation
+
+- [🏠 Back to Repository Root](../)
+
+---
+
+## 🌐 Explore More Mathematics Resources
+
+Discover additional free textbooks and educational materials through **[Free Mathematics Books](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=repository-footer)**.
