@@ -1,6 +1,8 @@
 
 # 📚 Free Calculus Books & Textbook Repository
 
+![Calculus Image](/Books/Calculus.jpg)
+
 Welcome to the Free Calculus Books Repository!
 
 This repository maintains a curated catalogue of freely accessible Calculus textbooks, lecture notes, and supplementary mathematical resources.
