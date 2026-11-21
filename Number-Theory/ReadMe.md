@@ -1,5 +1,7 @@
 # 📘 Free Number Theory Books & Textbook Repository
 
+![Number-Theory Image](/Books/Number-Theory.jpg)
+
 Welcome to the **Number Theory Collection** by Free Mathematics Books.
 
 This repository provides a curated selection of free number theory textbooks and educational resources for students, independent learners, instructors, and researchers.
