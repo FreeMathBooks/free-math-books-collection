@@ -1,129 +1,141 @@
-# Free Integral Calculus Books
 
-![Integral-Calculus Image](/Books/Integral-Calculus.jpg)
+# 📚 Free Integral Calculus Books & Textbook Repository
 
-A curated collection of free Integral Calculus textbooks, lecture notes, and educational resources. Explore antiderivatives, definite and indefinite integrals, integration techniques, applications of integration, and numerical methods.
+![Integral Calculus Image](/Books/Integral-Calculus.jpg)
 
-This collection is designed for undergraduate students, instructors, engineering students, and independent learners.
+Welcome to the Free Integral Calculus Books Repository!
 
-## Table of Contents
+This repository maintains a curated catalogue of freely accessible Integral Calculus textbooks, lecture notes, tutorials, and supplementary mathematical resources.
 
-- [Introductory & Core Resources](#1-introductory--core-resources)
-- [Integration Techniques & Applications](#2-integration-techniques--applications)
-- [Advanced & Specialized Resources](#3-advanced--specialized-resources)
-- [Online Courses & Supplementary Resources](#4-online-courses--supplementary-resources)
-- [How to Choose a Resource](#how-to-choose-a-resource)
-- [Topics Covered](#topics-covered)
-- [Other Calculus Collections](#other-calculus-collections)
-- [Contributing](#contributing)
+Explore resources covering integration techniques, definite and indefinite integrals, integration by parts, applications of integration, and advanced integration theory.
 
----
+This collection is designed for undergraduate students, educators, and independent learners.
 
-## 1. Introductory & Core Resources
+Each entry identifies the available book, its author, and a link to its corresponding resource page.
 
-Start learning integral calculus with introductory textbooks covering antiderivatives, definite and indefinite integrals, Riemann sums, and the Fundamental Theorem of Calculus.
+📖 **[Explore the Complete Free Integral Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Integral-Calculus&utm_source=github&utm_medium=referral&utm_campaign=Integral-Calculus&utm_content=introduction)**
 
-| Resource | Author | Level |
-|---|---|---|
-| [CLP-2: Integral Calculus](https://personal.math.ubc.ca/~CLP/CLP2/) | Joel Feldman, Andrew Rechnitzer, Elyse Yeager | Introductory |
-| [Calculus Volume 2](https://openstax.org/details/books/calculus-volume-2) | Gilbert Strang, Edwin Herman | Introductory |
-| [Contemporary Calculus – Integral Calculus](https://www.contemporarycalculus.com/) | Dale Hoffman | Introductory |
-| [MIT Calculus Open Textbook](https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/open-textbook/) | Gilbert Strang | Introductory |
-| [Calculus Made Easy](https://www.gutenberg.org/ebooks/33283) | Silvanus P. Thompson | Beginner |
-
-## 2. Integration Techniques & Applications
-
-Explore different integration methods and their applications in geometry, physics, engineering, and mathematical problem-solving.
-
-| Resource | Author / Institution | Level |
-|---|---|---|
-| [Paul's Online Math Notes – Calculus II](https://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx) | Paul Dawkins | Intermediate |
-| [MIT OpenCourseWare – Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) | MIT OpenCourseWare | Intermediate |
-| [CLP-2 Integral Calculus Problem Book](https://personal.math.ubc.ca/~CLP/CLP2/) | Joel Feldman, Andrew Rechnitzer, Elyse Yeager | Intermediate |
-| [APEX Calculus](https://www.apexcalculus.com/) | Gregory Hartman and collaborators | Intermediate |
-| [Active Calculus](https://activecalculus.org/) | Matthew Boelkins | Intermediate |
-
-## 3. Advanced & Specialized Resources
-
-Additional materials for students interested in advanced integration methods, theoretical foundations, and specialized topics.
-
-| Resource | Author / Institution | Level |
-|---|---|---|
-| [MIT Calculus – Techniques of Integration](https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/open-textbook/) | Gilbert Strang | Advanced |
-| [CLP-2 Integral Calculus](https://personal.math.ubc.ca/~CLP/CLP2/) | University of British Columbia | Advanced |
-| [Calculus Volume 2](https://openstax.org/details/books/calculus-volume-2) | OpenStax | Advanced |
-
-## 4. Online Courses & Supplementary Resources
-
-Additional online courses, problem books, and learning materials to strengthen your understanding of integral calculus.
-
-| Resource | Institution / Author | Type |
-|---|---|---|
-| [MIT OpenCourseWare – Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) | MIT | Online Course |
-| [CLP-2 Integral Calculus](https://personal.math.ubc.ca/~CLP/CLP2/) | University of British Columbia | Textbook & Exercises |
-| [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) | Paul Dawkins | Study Notes |
-| [OpenStax Calculus Volume 2](https://openstax.org/details/books/calculus-volume-2) | OpenStax | Textbook |
-| [Contemporary Calculus](https://www.contemporarycalculus.com/) | Dale Hoffman | Online Textbook |
+📖 **[Explore the Complete Free Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=referral&utm_campaign=Calculus&utm_content=introduction)**
 
 ---
 
-## How to Choose a Resource
+## 📚 Curated Integral Calculus Book Catalogue
 
-- **Beginners:** Start with CLP-2 or OpenStax Calculus Volume 2 to understand integration fundamentals.
-- **Undergraduate Students:** Study integration techniques, definite integrals, and applications using MIT or APEX Calculus.
-- **Engineering Students:** Focus on applications involving areas, volumes, work, fluid pressure, and center of mass.
-- **Advanced Students:** Explore improper integrals, infinite series, numerical integration, and connections with mathematical analysis.
+The following books are organized into four groups according to their primary subject, educational focus, and intended use.
 
-## Topics Covered
+### 1. 📘 Introductory & Core Integral Calculus
+
+*Foundational textbooks and course materials covering the essential principles, methods, and applications of Integral Calculus.*
+
+- 📖 **[An Elementary Course in the Integral Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Elementary-Integral-Calculus--Daniel-Murray&utm_source=github&utm_medium=referral&utm_campaign=Integral-Calculus&utm_content=book-catalogue)** — *by Daniel A. Murray*
+- 📖 **[A Treatise on the Integral Calculus Method of Rates](https://freemathematicsbooks.com/B.aspx?FileName=Treatise-Integral-Calculus-Method-Rates-William-Johnson&utm_source=github&utm_medium=referral&utm_campaign=Integral-Calculus&utm_content=book-catalogue)** — *by William Johnson*
+- 📖 **[Integral Calculus Course Materials](https://freemathematicsbooks.com/B.aspx?FileName=Integral-Calculus--Miguel-Lerma&utm_source=github&utm_medium=referral&utm_campaign=Integral-Calculus&utm_content=book-catalogue)** — *by Miguel A. Lerma*
+- 📖 **[Differential and Integral Calculus for Beginners](https://freemathematicsbooks.com/B.aspx?FileName=Diff-Int-Calculus-Beginners--Edwin-Edser&utm_source=github&utm_medium=referral&utm_campaign=Integral-Calculus&utm_content=book-catalogue)** — *by Edwin Edser*
+
+### 2. 📚 Differential & Integral Calculus Resources
+
+*Combined calculus textbooks covering differentiation, integration, and their related mathematical principles and applications.*
+
+- 📖 **[Differential and Integral Calculus](https://freemathematicsbooks.com/B.aspx?FileName=A-Treatise-Diff-Int-Calculus--Theodore-Strong&utm_source=github&utm_medium=referral&utm_campaign=Integral-Calculus&utm_content=book-catalogue)** — *by Theodore Strong*
+- 📖 **[Differential and Integral Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Diff-Int-Calculus--George-Osborne&utm_source=github&utm_medium=referral&utm_campaign=Integral-Calculus&utm_content=book-catalogue)** — *by George Osborne*
+- 📖 **[Differential & Integral Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Differential-Integral-Calculus--Daniel-Murray&utm_source=github&utm_medium=referral&utm_campaign=Integral-Calculus&utm_content=book-catalogue)** — *by Daniel Murray*
+- 📖 **[Differential and Integral Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Differential-Integral-Calculus--Snyder-Virgil&utm_source=github&utm_medium=referral&utm_campaign=Integral-Calculus&utm_content=book-catalogue)** — *by Snyder Virgil*
+- 📖 **[Differential and Integral Calculus with Examples & Applications](https://freemathematicsbooks.com/B.aspx?FileName=Differential-Integral-Calculus-Exp-App--James-Taylor&utm_source=github&utm_medium=referral&utm_campaign=Integral-Calculus&utm_content=book-catalogue)** — *by James Tayor*
+
+### 3. ⚙️ Integration Techniques & Applications
+
+*Practical resources covering integration methods, definite integrals, and problem-solving techniques.*
+
+- 📖 **[Definite Integrals: Theory & Practice](https://freemathematicsbooks.com/B.aspx?FileName=Definite-Integration--Horan--Lavelle&utm_source=github&utm_medium=referral&utm_campaign=Integral-Calculus&utm_content=book-catalogue)** — *by R. Horan & M. Lavelle*
+- 📖 **[Integration by Parts: Tutorial and Examples](https://freemathematicsbooks.com/B.aspx?FileName=Integration-by-Parts--Graham-McDonald&utm_source=github&utm_medium=referral&utm_campaign=Integral-Calculus&utm_content=book-catalogue)** — *by Graham S. McDonald*
+- 📖 **[Techniques of Integration](https://freemathematicsbooks.com/B.aspx?FileName=Techniques-Integration--Whitman-College&utm_source=github&utm_medium=referral&utm_campaign=Integral-Calculus&utm_content=book-catalogue)** — *by David Guichard*
+
+### 4. 📖 Advanced & Theoretical Integration Resources
+
+*Lecture notes and advanced materials exploring the theoretical foundations and mathematical theory of integration.*
+
+- 📖 **[Integration Theory: Lecture Notes](https://freemathematicsbooks.com/B.aspx?FileName=Integration-Theory--Johan-Jonasson&utm_source=github&utm_medium=referral&utm_campaign=Integral-Calculus&utm_content=book-catalogue)** — *by Johan Jonasson*
+- 📖 **[Lectures on Integration](https://freemathematicsbooks.com/B.aspx?FileName=Lectures-Integration-William-Faris&utm_source=github&utm_medium=referral&utm_campaign=Integral-Calculus&utm_content=book-catalogue)** — *by William G. Faris*
+
+---
+
+## 📋 Book Selection & Verification
+
+Resources in this catalogue are organized according to their main subject and educational purpose.
+
+The following considerations guide the organization of this collection:
+
+- **Subject Relevance:** Books are included according to their coverage of Integral Calculus or closely related calculus subjects.
+- **Bibliographic Information:** Book titles and author details are provided to help readers identify the resources.
+- **Resource Accessibility:** Links lead to the corresponding book information pages, where availability and access details can be checked.
+- **Subject Classification:** Resources are grouped by their primary educational focus to make browsing easier.
+- **Link Maintenance:** Broken links and bibliographic corrections can be reported through GitHub Issues.
+
+---
+
+## 📖 How to Choose a Resource
+
+- **Beginners:** Start with elementary Integral Calculus textbooks to understand the fundamental concepts of integration.
+- **Undergraduate Students:** Study core textbooks and course materials covering definite and indefinite integrals.
+- **Problem-Solving Practice:** Explore integration techniques, worked examples, and tutorials to strengthen mathematical skills.
+- **Broader Calculus Study:** Use combined Differential and Integral Calculus textbooks for a wider understanding of calculus.
+- **Advanced Students:** Explore integration theory and advanced lecture notes for a deeper mathematical understanding.
+
+---
+
+## 📚 Topics Covered
 
 This collection includes resources covering the following topics:
 
 - Introduction to Integral Calculus
-- Antiderivatives and Indefinite Integrals
+- Indefinite Integrals
 - Definite Integrals
-- Riemann Sums
 - Fundamental Theorem of Calculus
-- Properties of Integrals
-- Substitution Method
+- Methods of Integration
+- Integration by Substitution
 - Integration by Parts
 - Trigonometric Integrals
 - Trigonometric Substitution
-- Partial Fraction Decomposition
+- Partial Fractions
 - Improper Integrals
+- Applications of Definite Integrals
+- Areas and Volumes
 - Numerical Integration
-- Areas Between Curves
-- Volumes of Solids
-- Arc Length
-- Surface Area
-- Work and Fluid Pressure
-- Center of Mass and Moments
-- Average Value of a Function
-- Applications in Physics and Engineering
-
-## Other Calculus Collections
-
-Explore more free mathematics textbooks and educational resources:
-
-- [Complete Calculus Collection](../)
-- [Free Differential Calculus Books](../Differential-Calculus/)
-- [Free Single Variable Calculus Books](../Single-Variable-Calculus/)
-- [Free Multivariable Calculus Books](../Multivariable-Calculus/)
-- [Free Advanced Calculus Books](../Advanced-Calculus/)
-- [Free Calculus of Variations Books](../Calculus-Variation/)
-- [Free Differential Equations Books](../../Differential-Equations/)
-- [Free Mathematical Analysis Books](../../Mathematical-Analysis/)
-
-## Contributing
-
-Contributions are welcome! If you know of a freely accessible integral calculus textbook, lecture note, problem book, or educational resource, feel free to suggest it.
-
-Please ensure that submitted resources are:
-
-- Freely and legally accessible.
-- Relevant to integral calculus and its applications.
-- Academically useful and educationally valuable.
-- Linked to their original source whenever possible.
+- Integration Techniques and Applications
+- Integration Theory
+- Differential and Integral Calculus
 
 ---
 
-**Explore more free mathematics textbooks and educational resources at [Free Mathematics Books](https://freemathematicsbooks.com/).**
+## 🤝 Contributing to This Repository
+
+Suggestions and contributions are welcome!
+
+You can help improve this collection by:
+
+1. Suggesting freely accessible Integral Calculus textbooks and learning materials.
+2. Reporting broken or outdated book links.
+3. Correcting book titles, author names, or bibliographic details.
+4. Recommending relevant supplementary mathematical resources.
+5. Improving the organization and documentation of the repository.
+
+**How to contribute:**
+
+- Open a GitHub Issue to report a problem or suggest a resource.
+- Submit a Pull Request with proposed additions or corrections.
+- Include the book title, author, and source link when suggesting a resource.
+
+Please ensure that submitted materials are freely accessible and that any shared files comply with applicable copyright and licensing terms.
+
+---
+
+## 🔙 Repository Navigation
+
+- [📂 Back to Main Calculus Collection](../)
+- [🏠 Back to Repository Root](../../)
+
+---
+
+## 🌐 Explore More Mathematics Resources
+
+Discover additional free textbooks and educational materials through **[Free Mathematics Books](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=repository-footer)**.
