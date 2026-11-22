@@ -1,3 +1,4 @@
+
 # Free Calculus of Variations Books
 
 ![Calculus-Variation Image](/Books/Calculus-Variation.jpg)
@@ -21,39 +22,35 @@ This collection is designed for undergraduate students, graduate students, resea
 
 ## 1. Introductory & Core Resources
 
-Resources introducing the fundamental concepts of calculus of variations, functionals, variations, stationary paths, and the Euler–Lagrange equation.
+Explore the fundamental concepts of calculus of variations, including functionals, variations, stationary paths, Euler–Lagrange equations, and classical variational problems.
 
-| Resource | Author | Level |
+| Book / Resource | Author | Level |
 |---|---|---|
-| [Introduction to the Calculus of Variations](https://www.open.edu/openlearn/science-maths-technology/introduction-the-calculus-variations/content-section-0) | The Open University | Introductory |
-| [An Introduction to the Calculus of Variations](https://damonfalck.me/wp-content/uploads/2024/08/Calculus_of_variations.pdf) | Damon Falck | Introductory |
-| [Calculus of Variations](https://www-users.cse.umn.edu/~olver/ln_/cv.pdf) | Peter J. Olver | Intermediate |
-| [Calculus of Variations](https://www.math.cmu.edu/~rcristof/pdf/Teaching/Spring2016/Cristoferi-Calculus_of_Variations-Lecture%20notes.pdf) | Riccardo Cristoferi | Intermediate |
-| [Lecture Notes on Calculus of Variations](https://www.dpmms.cam.ac.uk/~adblg2/CalcVar.pdf) | André Guerra | Intermediate |
+| [Lectures on the Calculus of Variations](https://freemathematicsbooks.com/B.aspx?FileName=Lectures-Calculus-Variations--Oskar-Bolza&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation) | Oskar Bolza | Intermediate |
+| [Calculus of Variation](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Variation--Gilbert-Bliss&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation) | Gilbert Ames Bliss | Intermediate |
+| [A History of the Progress of the Calculus of Variations](https://freemathematicsbooks.com/B.aspx?FileName=Hisotry-Calculus-Variations--Todhunter&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation) | Isaac Todhunter | Historical |
 
 ## 2. Applied & Interdisciplinary Resources
 
-Resources exploring applications of variational methods in physics, mechanics, engineering, optimal control, and mathematical modeling.
+Explore applications of calculus of variations in engineering, differential equations, mathematical modeling, mechanics, and applied mathematics.
 
-| Resource | Author / Institution | Level |
+| Book / Resource | Author | Level |
 |---|---|---|
-| [Calculus of Variations – MIT OpenCourseWare](https://ocw.mit.edu/courses/16-323-principles-of-optimal-control-spring-2008/resources/lec5/) | MIT OpenCourseWare | Advanced |
-| [Introduction to the Calculus of Variations](https://www.open.edu/openlearn/mod/oucontent/view.php?id=72746) | The Open University | Intermediate |
-| [Lecture Notes on Calculus of Variations](https://doi.org/10.1142/10157) | Weijiu Liu | Advanced |
+| [Applied Calculus: Principles and Applications](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Calculus-Principles-App--Robert-Thomas&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation) | Robert Thomas | Introductory |
+| [Introductory Mathematics for Engineers](https://freemathematicsbooks.com/B.aspx?FileName=Intro-Math-Eng-Lectures--Anatoliy-Myskis&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation) | A. D. Myskis | Intermediate |
+| [Differential Equations and the Calculus of Variations](https://freemathematicsbooks.com/B.aspx?FileName=DE-Calculus-Variations--Lev-Elsgolts&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation) | L. Elsgolts | Advanced |
 
 ## 3. Advanced & Specialized Resources
 
-Advanced lecture notes and materials covering the theoretical foundations and specialized techniques of variational analysis.
+Advanced materials covering theoretical foundations, variational methods, optimization, and specialized mathematical techniques.
 
-| Resource | Author | Level |
+| Book / Resource | Author | Level |
 |---|---|---|
-| [Calculus of Variations I – Lecture Notes](https://www.mathematik.uni-kassel.de/~kdisser/pdfs/scripts/VR_lecture_notes.pdf) | Karoline Disser | Graduate |
-| [Lecture Notes on Calculus of Variations](https://n.ethz.ch/~adinis/CalcVar.pdf) | André Guerra | Graduate |
-| [Calculus of Variations – Lecture Notes](https://www.math.cmu.edu/~rcristof/teaching/spring16.html) | Riccardo Cristoferi | Graduate |
+| [Selected Chapters: Calculus of Variations](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Variations--Jurgen-Moser&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation) | Jürgen Moser | Graduate |
 
 ## 4. Related & Supplementary Resources
 
-Additional mathematical resources that provide useful background for studying calculus of variations.
+Additional mathematical resources that provide useful background for studying calculus of variations and its applications.
 
 | Subject | Recommended Resource |
 |---|---|
@@ -70,7 +67,8 @@ Additional mathematical resources that provide useful background for studying ca
 - **Beginners:** Start with introductory materials covering functionals, variations, and the Euler–Lagrange equation.
 - **Undergraduate Students:** Study classical variational problems, stationary paths, and boundary conditions.
 - **Graduate Students:** Explore advanced variational methods, direct methods, and functional analysis.
-- **Applied Mathematics Students:** Focus on applications in mechanics, physics, engineering, and optimal control.
+- **Engineering Students:** Focus on applications in differential equations, mechanics, and mathematical modeling.
+- **Historical Mathematics Enthusiasts:** Explore the historical development of calculus of variations through Isaac Todhunter's work.
 
 ## Topics Covered
 
@@ -86,11 +84,13 @@ This collection includes resources covering the following topics:
 - Isoperimetric Problems
 - Brachistochrone Problem
 - Hamilton–Jacobi Theory
+- Differential Equations and Variational Methods
 - Direct Methods in the Calculus of Variations
 - Sobolev Spaces
 - Constrained Variational Problems
-- Optimal Control Theory
+- Optimization of Functionals
 - Applications in Physics and Engineering
+- Mathematical Modeling and Applied Variational Methods
 
 ## Other Mathematics Collections
 
