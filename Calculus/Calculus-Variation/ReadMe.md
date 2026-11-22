@@ -20,45 +20,28 @@ This collection is designed for undergraduate students, graduate students, resea
 
 ---
 
+
 ## 1. Introductory & Core Resources
 
 Explore the fundamental concepts of calculus of variations, including functionals, variations, stationary paths, Euler–Lagrange equations, and classical variational problems.
 
-| Book / Resource | Author | Level |
-|---|---|---|
-| [Lectures on the Calculus of Variations](https://freemathematicsbooks.com/B.aspx?FileName=Lectures-Calculus-Variations--Oskar-Bolza&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation) | Oskar Bolza | Intermediate |
-| [Calculus of Variation](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Variation--Gilbert-Bliss&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation) | Gilbert Ames Bliss | Intermediate |
-| [A History of the Progress of the Calculus of Variations](https://freemathematicsbooks.com/B.aspx?FileName=Hisotry-Calculus-Variations--Todhunter&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation) | Isaac Todhunter | Historical |
+- 📖 **[Lectures on the Calculus of Variations](https://freemathematicsbooks.com/B.aspx?FileName=Lectures-Calculus-Variations--Oskar-Bolza&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)** — *by Oskar Bolza*
+- 📖 **[Calculus of Variation](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Variation--Gilbert-Bliss&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)** — *by Gilbert Ames Bliss*
+- 📖 **[A History of the Progress of the Calculus of Variations](https://freemathematicsbooks.com/B.aspx?FileName=Hisotry-Calculus-Variations--Todhunter&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)** — *by Isaac Todhunter*
 
 ## 2. Applied & Interdisciplinary Resources
 
 Explore applications of calculus of variations in engineering, differential equations, mathematical modeling, mechanics, and applied mathematics.
 
-| Book / Resource | Author | Level |
-|---|---|---|
-| [Applied Calculus: Principles and Applications](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Calculus-Principles-App--Robert-Thomas&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation) | Robert Thomas | Introductory |
-| [Introductory Mathematics for Engineers](https://freemathematicsbooks.com/B.aspx?FileName=Intro-Math-Eng-Lectures--Anatoliy-Myskis&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation) | A. D. Myskis | Intermediate |
-| [Differential Equations and the Calculus of Variations](https://freemathematicsbooks.com/B.aspx?FileName=DE-Calculus-Variations--Lev-Elsgolts&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation) | L. Elsgolts | Advanced |
+- 📖 **[Applied Calculus: Principles and Applications](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Calculus-Principles-App--Robert-Thomas&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)** — *by Robert Thomas*
+- 📖 **[Introductory Mathematics for Engineers](https://freemathematicsbooks.com/B.aspx?FileName=Intro-Math-Eng-Lectures--Anatoliy-Myskis&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)** — *by A. D. Myskis*
+- 📖 **[Differential Equations and the Calculus of Variations](https://freemathematicsbooks.com/B.aspx?FileName=DE-Calculus-Variations--Lev-Elsgolts&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)** — *by L. Elsgolts*
 
 ## 3. Advanced & Specialized Resources
 
 Advanced materials covering theoretical foundations, variational methods, optimization, and specialized mathematical techniques.
 
-| Book / Resource | Author | Level |
-|---|---|---|
-| [Selected Chapters: Calculus of Variations](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Variations--Jurgen-Moser&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation) | Jürgen Moser | Graduate |
-
-## 4. Related & Supplementary Resources
-
-Additional mathematical resources that provide useful background for studying calculus of variations and its applications.
-
-| Subject | Recommended Resource |
-|---|---|
-| Differential Equations | [Free Differential Equations Books](../../Differential-Equations/) |
-| Multivariable Calculus | [Free Multivariable Calculus Books](../Multivariable-Calculus/) |
-| Advanced Calculus | [Free Advanced Calculus Books](../Advanced-Calculus/) |
-| Mathematical Analysis | [Free Mathematical Analysis Books](../../Mathematical-Analysis/) |
-| Applied Mathematics | [Free Applied Mathematics Books](../../Applied-Mathematics/) |
+- 📖 **[Selected Chapters: Calculus of Variations](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Variations--Jurgen-Moser&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)** — *by Jürgen Moser*
 
 ---
 
