@@ -1,9 +1,8 @@
-
 # 📚 Free Multivariable Calculus Books & Textbook Repository
 
 ![Multivariable Calculus Image](/Books/Multivariable-Calculus.jpg)
 
-Welcome to the **Free Multivariable Calculus Books Repository!**
+Welcome to the **Multivariable Calculus Collection** by Free Mathematics Books.
 
 This repository maintains a curated catalogue of freely accessible Multivariable Calculus textbooks, lecture notes, and supplementary mathematical resources.
 
@@ -11,40 +10,87 @@ Resources cover the mathematics of functions of several variables, including lim
 
 Each entry identifies the available book, its author, and a link to its corresponding resource page.
 
-This repository also welcomes suggestions, corrections, and contributions that help improve the accuracy and usefulness of the collection.
-
 📖 **[Explore the Complete Free Multivariable Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Multivariable-Calculus&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=introduction)**
 
 📚 **[Explore the Complete Free Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=referral&utm_campaign=Calculus&utm_content=introduction)**
 
 ---
 
-## 📚 Curated Multivariable Calculus Book Catalogue
+## 📖 Curated Multivariable Calculus Book Catalogue
 
 The following books are organized into three groups according to their primary subject, educational focus, and mathematical content.
 
 ### 1. 📘 Introductory & Core Multivariable Calculus
 
-*Textbooks and learning materials covering the fundamental concepts and techniques of multivariable calculus.*
+Textbooks and learning materials covering the fundamental concepts and techniques of multivariable calculus.
 
-- 📖 **[Active Calculus Multivariable](https://freemathematicsbooks.com/B.aspx?FileName=Active-Calculus-Multivariable--Steve-Schlicker&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)** — *by Steve Schlicker*
-- 📖 **[Multivariable Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Multivariable-Calculus--Don-Shimamoto&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)** — *by Don Shimamoto*
-- 📖 **[Multivariable Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Multivariable-Calculus--Joel-Feldman&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)** — *by Joel Feldman*
-- 📖 **[Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Calculus--WikiBooks&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)** — *by WikiBooks*
+- 📖 **[Active Calculus Multivariable — Steve Schlicker](https://freemathematicsbooks.com/B.aspx?FileName=Active-Calculus-Multivariable--Steve-Schlicker&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)**
+
+A student-centered textbook using active learning to explore functions of several variables, vectors, partial derivatives, gradients, multiple integrals, and vector fields.
+
+- 📖 **[Multivariable Calculus — Don Shimamoto](https://freemathematicsbooks.com/B.aspx?FileName=Multivariable-Calculus--Don-Shimamoto&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)**
+
+A structured introduction to multivariable calculus covering three-dimensional geometry, partial differentiation, optimization, multiple integration, and vector calculus.
+
+- 📖 **[Multivariable Calculus — Joel Feldman](https://freemathematicsbooks.com/B.aspx?FileName=Multivariable-Calculus--Joel-Feldman&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)**
+
+A clear, comprehensive guide to higher-dimensional calculus covering vectors, quadric surfaces, partial derivatives, multiple integrals, divergence, and curl.
+
+- 📖 **[Calculus — WikiBooks](https://freemathematicsbooks.com/B.aspx?FileName=Calculus--WikiBooks&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)**
+
+An open-content textbook covering single and multivariable calculus concepts, differentiation, integration, and analytical applications for independent learners.
+
+---
 
 ### 2. 📚 Advanced Calculus & Mathematical Foundations
 
-*Advanced mathematical treatments and foundational resources related to calculus and its theoretical development.*
+Advanced mathematical treatments and foundational resources related to calculus and its theoretical development.
 
-- 📖 **[A Course of Pure Mathematics](https://freemathematicsbooks.com/B.aspx?FileName=Course-Pure-Mathematics--GH-Hardy&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)** — *by G. H. Hardy*
-- 📖 **[Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Edwin-Wilson&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)** — *by Edwin Bidwell Wilson*
+- 📖 **[A Course of Pure Mathematics — G. H. Hardy](https://freemathematicsbooks.com/B.aspx?FileName=Course-Pure-Mathematics--GH-Hardy&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)**
+
+A classic introduction to rigorous pure mathematics covering real and complex variables, functions, limits, continuity, differentiation, integration, and infinite series.
+
+- 📖 **[Advanced Calculus — Edwin Bidwell Wilson](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Edwin-Wilson&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)**
+
+A thorough advanced text covering partial differentiation, vectors, multiple and infinite integrals, infinite series, differential equations, and variational methods.
+
+---
 
 ### 3. 📐 Vector Calculus & Analysis
 
-*Resources focused on vector methods, vector fields, and mathematical techniques used in higher-dimensional calculus.*
+Resources focused on vector methods, vector fields, and mathematical techniques used in higher-dimensional calculus.
 
-- 📖 **[Vector Analysis](https://freemathematicsbooks.com/B.aspx?FileName=Vector-Analysis--Josiah-Gibbs--Edwin-Wilson&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)** — *by Josiah Gibbs and Edwin Wilson*
-- 📖 **[Vector Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Vector-Calculus--Michael-Corral&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)** — *by Michael Corral*
+- 📖 **[Vector Analysis — Josiah Gibbs & Edwin Wilson](https://freemathematicsbooks.com/B.aspx?FileName=Vector-Analysis--Josiah-Gibbs--Edwin-Wilson&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)**
+
+A landmark text developing vector algebra, differential and integral vector calculus, linear vector functions, and applications to geometry and physics.
+
+- 📖 **[Vector Calculus — Michael Corral](https://freemathematicsbooks.com/B.aspx?FileName=Vector-Calculus--Michael-Corral&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)**
+
+An accessible, open-source textbook covering vectors in Euclidean space, functions of several variables, multiple integrals, line and surface integrals, and vector theorems.
+
+---
+
+## 📖 How to Choose a Resource
+
+- **Beginners & Core Multivariable Learners:** Start with *Active Calculus Multivariable* by Steve Schlicker, *Multivariable Calculus* by Don Shimamoto or Joel Feldman, or *WikiBooks Calculus* to build strong multivariable foundations.
+- **Vector Calculus & Physics/Engineering Applications:** Explore *Vector Calculus* by Michael Corral and *Vector Analysis* by Josiah Gibbs & Edwin Wilson for vector fields, multiple integrals, and spatial applications.
+- **Rigorous & Theoretical Foundations:** Turn to *A Course of Pure Mathematics* by G. H. Hardy and *Advanced Calculus* by Edwin Bidwell Wilson for deeper analytical rigor.
+
+---
+
+## 📚 Topics Covered
+
+This collection includes resources covering the following topics:
+
+- Functions of Several Variables, Limits, and Continuity
+- Vectors, Dot and Cross Products, and Three-Dimensional Geometry
+- Partial Derivatives, Gradients, and Directional Derivatives
+- Multivariable Optimization and Tangent Planes
+- Double, Triple, and Iterated Integrals
+- Cylindrical and Spherical Coordinates
+- Vector Fields, Line Integrals, and Surface Integrals
+- Divergence, Curl, Green's Theorem, Stokes' Theorem, and Divergence Theorem
+- Advanced Calculus and Analytical Foundations
 
 ---
 
@@ -59,24 +105,6 @@ The following considerations guide the organization of this collection:
 - **Resource Accessibility:** Links lead to the corresponding book information pages, where availability and access details can be checked.
 - **Subject Classification:** Resources are grouped by their primary educational focus to make browsing easier.
 - **Link Maintenance:** Broken links and bibliographic corrections can be reported through GitHub Issues.
-
----
-
-## 📁 Repository Organization
-
-This directory focuses on Multivariable Calculus and provides a dedicated collection of textbooks and supplementary learning materials.
-
-The collection complements the broader Calculus repository, which includes additional subject-specific directories:
-
-- Advanced Calculus
-- Calculus & Analytical Geometry
-- Calculus of Variations
-- Differential Calculus
-- Integral Calculus
-- Multivariable Calculus
-- Single-Variable Calculus
-
-Each subject directory contains additional book listings and related resources for further exploration.
 
 ---
 
@@ -102,10 +130,16 @@ Please ensure that submitted materials are freely accessible and that any shared
 
 ---
 
-## 🔙 Repository Navigation
+## 🧭 Repository Navigation
 
-- [⬅️ Back to Main Calculus Collection](../)
-- [🏠 Back to Repository Root](../../)
+- [🏠 Main Repository](../../)
+- [📉 Main Calculus Collection](../)
+- [📐 Calculus & Analytical Geometry](../Calculus-Analytical-Geometry/)
+- [📘 Calculus of Variations](../Calculus-Variation/)
+- [∂ Differential Calculus](../Differential-Calculus/)
+- [∫ Integral Calculus](../Integral-Calculus/)
+- [🔷 Multivariable Calculus](../Multivariable-Calculus/)
+- [📊 Single Variable Calculus](../Single-Variable-Calculus/)
 
 ---
 
