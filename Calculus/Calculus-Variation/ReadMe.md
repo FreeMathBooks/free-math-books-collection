@@ -1,17 +1,12 @@
-
 # 📚 Free Calculus of Variations Books & Textbook Repository
 
 ![Calculus of Variations Image](/Books/Calculus-Variation.jpg)
 
-Welcome to the Free Calculus of Variations Books Repository!
+Welcome to the **Calculus of Variations Collection** by Free Mathematics Books.
 
-This repository maintains a curated catalogue of freely accessible textbooks, lecture notes, and supplementary mathematical resources on **Calculus of Variations**.
+This repository provides a curated selection of freely accessible textbooks, lecture notes, and supplementary mathematical resources for undergraduate students, graduate students, independent learners, instructors, and researchers.
 
 Explore resources covering classical variational principles, functionals, Euler–Lagrange equations, optimization of functionals, and applications in mathematics, physics, and engineering.
-
-This collection is designed for undergraduate students, graduate students, researchers, educators, and independent learners.
-
-Each entry identifies the available book, its author, and a link to its corresponding resource page.
 
 📖 **[Explore the Complete Free Calculus of Variations Collection](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Variation&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Variation&utm_content=introduction)**
 
@@ -19,45 +14,51 @@ Each entry identifies the available book, its author, and a link to its correspo
 
 ---
 
-## 📚 Curated Calculus of Variations Book Catalogue
-
-The following books are organized into three groups according to their primary subject, educational focus, and intended use.
+## 📖 Curated Calculus of Variations Book Catalogue
 
 ### 1. 📘 Introductory & Core Resources
 
-*Classical textbooks and foundational materials covering the fundamental principles and methods of Calculus of Variations.*
+Classical textbooks and foundational materials covering the fundamental principles, methods, and historical development of the calculus of variations.
 
-- 📖 **[Lectures on the Calculus of Variations](https://freemathematicsbooks.com/B.aspx?FileName=Lectures-Calculus-Variations--Oskar-Bolza&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)** — *by Oskar Bolza*
-- 📖 **[Calculus of Variation](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Variation--Gilbert-Bliss&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)** — *by Gilbert Ames Bliss*
-- 📖 **[A History of the Progress of the Calculus of Variations](https://freemathematicsbooks.com/B.aspx?FileName=Hisotry-Calculus-Variations--Todhunter&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)** — *by Isaac Todhunter*
+- 📖 **[Lectures on the Calculus of Variations — Oskar Bolza](https://freemathematicsbooks.com/B.aspx?FileName=Lectures-Calculus-Variations--Oskar-Bolza&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)**
 
-### 2. ⚙️ Applied & Interdisciplinary Resources
+A classic foundational treatment covering fundamental variational principles, first and second variations, Weierstrass theory, and sufficient conditions for extrema.
 
-*Resources exploring applications of variational methods in engineering, differential equations, mechanics, mathematical modeling, and applied mathematics.*
+- 📖 **[Calculus of Variation — Gilbert Ames Bliss](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Variation--Gilbert-Bliss&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)**
 
-- 📖 **[Applied Calculus: Principles and Applications](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Calculus-Principles-App--Robert-Thomas&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)** — *by Robert Thomas*
-- 📖 **[Introductory Mathematics for Engineers](https://freemathematicsbooks.com/B.aspx?FileName=Intro-Math-Eng-Lectures--Anatoliy-Myskis&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)** — *by A. D. Myskis*
-- 📖 **[Differential Equations and the Calculus of Variations](https://freemathematicsbooks.com/B.aspx?FileName=DE-Calculus-Variations--Lev-Elsgolts&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)** — *by L. Elsgolts*
+A well-structured standard text exploring variational problems with fixed and variable endpoints, isoperimetric conditions, and applications in geometry and mechanics.
 
-### 3. 📚 Advanced & Specialized Resources
+- 📖 **[A History of the Progress of the Calculus of Variations — Isaac Todhunter](https://freemathematicsbooks.com/B.aspx?FileName=Hisotry-Calculus-Variations--Todhunter&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)**
 
-*Advanced materials covering theoretical foundations, variational methods, optimization, and specialized mathematical techniques.*
-
-- 📖 **[Selected Chapters: Calculus of Variations](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Variations--Jurgen-Moser&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)** — *by Jürgen Moser*
+An authoritative historical study tracing the origins and evolution of variational methods from early problem formulations through nineteenth-century developments.
 
 ---
 
-## 📋 Book Selection & Verification
+### 2. ⚙️ Applied & Interdisciplinary Resources
 
-Resources in this catalogue are organized according to their main subject and educational purpose.
+Resources exploring practical applications of variational methods and differential equations in engineering, mechanics, mathematical modeling, and applied mathematics.
 
-The following considerations guide the organization of this collection:
+- 📖 **[Applied Calculus: Principles and Applications — Robert Thomas](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Calculus-Principles-App--Robert-Thomas&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)**
 
-- **Subject Relevance:** Books are included according to their coverage of Calculus of Variations or closely related mathematical subjects.
-- **Bibliographic Information:** Book titles and author details are provided to help readers identify the resources.
-- **Resource Accessibility:** Links lead to the corresponding book information pages, where availability and access details can be checked.
-- **Subject Classification:** Resources are grouped by their primary educational focus to make browsing easier.
-- **Link Maintenance:** Broken links and bibliographic corrections can be reported through GitHub Issues.
+A practical calculus resource emphasizing real-world modeling, optimization, rates of change, and quantitative problem-solving across science and engineering.
+
+- 📖 **[Introductory Mathematics for Engineers — A. D. Myskis](https://freemathematicsbooks.com/B.aspx?FileName=Intro-Math-Eng-Lectures--Anatoliy-Myskis&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)**
+
+An engineering-focused mathematical text covering analytical tools, differential methods, and problem-solving frameworks tailored for technical applications.
+
+- 📖 **[Differential Equations and the Calculus of Variations — L. Elsgolts](https://freemathematicsbooks.com/B.aspx?FileName=DE-Calculus-Variations--Lev-Elsgolts&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)**
+
+A comprehensive guide connecting ordinary and partial differential equations with variational methods, optimal control, and physical modeling.
+
+---
+
+### 3. 📚 Advanced & Specialized Resources
+
+Advanced materials covering rigorous theoretical foundations, specialized variational techniques, and higher-level optimization.
+
+- 📖 **[Selected Chapters: Calculus of Variations — Jürgen Moser](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Variations--Jurgen-Moser&utm_source=github&utm_medium=referral&utm_campaign=calculus-variation&utm_content=book-catalogue)**
+
+Focused mathematical chapters examining advanced variational theory, nonlinear problems, and modern analytical techniques for graduate-level study.
 
 ---
 
@@ -67,7 +68,7 @@ The following considerations guide the organization of this collection:
 - **Undergraduate Students:** Study classical variational problems, stationary paths, and boundary conditions.
 - **Graduate Students:** Explore advanced variational methods, direct methods, and functional analysis.
 - **Engineering Students:** Focus on applications in differential equations, mechanics, and mathematical modeling.
-- **Historical Mathematics Enthusiasts:** Explore the historical development of Calculus of Variations through Isaac Todhunter's work.
+- **Historical Mathematics Enthusiasts:** Explore the historical development of the calculus of variations through Isaac Todhunter's work.
 
 ---
 
@@ -95,6 +96,12 @@ This collection includes resources covering the following topics:
 
 ---
 
+## 📋 Book Selection & Verification
+
+Resources in this catalogue are organized by subject relevance, educational level, and clear bibliographic details. Links direct readers to the corresponding resource pages on Free Mathematics Books, where access details and available formats can be reviewed.
+
+---
+
 ## 🤝 Contributing to This Repository
 
 Suggestions and contributions are welcome!
@@ -117,10 +124,16 @@ Please ensure that submitted materials are freely accessible and that any shared
 
 ---
 
-## 🔙 Repository Navigation
+## 🧭 Repository Navigation
 
-- [📂 Back to Calculus Collection](../)
-- [🏠 Back to Repository Root](../../)
+- [🏠 Main Repository](../../)
+- [📉 Main Calculus Collection](../)
+- [📐 Calculus & Analytical Geometry](../Calculus-Analytical-Geometry/)
+- [📘 Calculus of Variations](../Calculus-Variation/)
+- [∂ Differential Calculus](../Differential-Calculus/)
+- [∫ Integral Calculus](../Integral-Calculus/)
+- [🔷 Multivariable Calculus](../Multivariable-Calculus/)
+- [📊 Single Variable Calculus](../Single-Variable-Calculus/)
 
 ---
 
