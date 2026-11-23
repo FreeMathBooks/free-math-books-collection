@@ -1,5 +1,6 @@
-
 # 📘 Single Variable Calculus
+
+![Single-Variable-Calculus Image](/Books/Single-Variable-Calculus.jpg)
 
 Welcome to the **Single Variable Calculus** collection, featuring free textbooks and learning resources for students, instructors, and independent learners. Explore resources covering limits, continuity, differentiation, integration, applications of calculus, and introductory mathematical analysis.
 
