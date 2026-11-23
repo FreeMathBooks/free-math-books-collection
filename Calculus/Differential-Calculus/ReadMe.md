@@ -1,9 +1,8 @@
-
 # 📚 Free Differential Calculus Books & Textbook Repository
 
 ![Differential Calculus Image](/Books/Differential-Calculus.jpg)
 
-Welcome to the Free Differential Calculus Books Repository!
+Welcome to the **Differential Calculus Collection** by Free Mathematics Books.
 
 This repository maintains a curated catalogue of freely accessible Differential Calculus textbooks, lecture notes, problem books, and supplementary mathematical resources.
 
@@ -19,55 +18,66 @@ Each entry identifies the available book, its author, and a link to its correspo
 
 ---
 
-## 📚 Curated Differential Calculus Book Catalogue
+## 📖 Curated Differential Calculus Book Catalogue
 
 The following books are organized into three groups according to their primary subject, educational focus, and intended use.
 
 ### 1. 📘 Introductory & Core Differential Calculus
 
-*Foundational textbooks covering the essential concepts, principles, and techniques of Differential Calculus.*
+Foundational textbooks covering the essential concepts, principles, and techniques of differential calculus.
 
-- 📖 **[Differential Calculus for Beginners](https://freemathematicsbooks.com/B.aspx?FileName=Diff-Calculus-Beginners--Joseph-Edwards&utm_source=github&utm_medium=referral&utm_campaign=Differential-Calculus&utm_content=book-catalogue)** — *by Joseph Edwards*
-- 📖 **[Differential Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Diff-Calculus--Henry-Phillips&utm_source=github&utm_medium=referral&utm_campaign=Differential-Calculus&utm_content=book-catalogue)** — *by Henry Bayard Phillips*
-- 📖 **[Differential Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Diff-Calculus--John-Spare&utm_source=github&utm_medium=referral&utm_campaign=Differential-Calculus&utm_content=book-catalogue)** — *by John Spare*
-- 📖 **[Differential Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Diff-Calculus--Joel-Feldman&utm_source=github&utm_medium=referral&utm_campaign=Differential-Calculus&utm_content=book-catalogue)** — *by Joel Feldman*
+- 📖 **[Differential Calculus for Beginners — Joseph Edwards](https://freemathematicsbooks.com/B.aspx?FileName=Diff-Calculus-Beginners--Joseph-Edwards&utm_source=github&utm_medium=referral&utm_campaign=Differential-Calculus&utm_content=book-catalogue)**
 
-### 2. ⚙️ Differential & Integral Calculus Resources
+An introductory text presenting foundational differentiation concepts, standard formulas, and elementary geometric and algebraic applications for beginners.
 
-*Combined calculus textbooks and lecture notes covering differentiation, integration, and related mathematical techniques.*
+- 📖 **[Differential Calculus — Henry Bayard Phillips](https://freemathematicsbooks.com/B.aspx?FileName=Diff-Calculus--Henry-Phillips&utm_source=github&utm_medium=referral&utm_campaign=Differential-Calculus&utm_content=book-catalogue)**
 
-- 📖 **[Differential and Integral Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Diff-Int-Calculus--CE-Love--ED-Rainville&utm_source=github&utm_medium=referral&utm_campaign=Differential-Calculus&utm_content=book-catalogue)** — *by Clyde E. Love & E. D. Rainville*
-- 📖 **[Differential & Integral Calculus Notes in Brief](https://freemathematicsbooks.com/B.aspx?FileName=Diff-Int-Calculus-Notes--Matthew-Scroggs&utm_source=github&utm_medium=referral&utm_campaign=Differential-Calculus&utm_content=book-catalogue)** — *by Matthew Scroggs*
+A clear, structured textbook covering limits, derivatives, differentiation rules, partial derivatives, curve tracing, and applications in geometry and mechanics.
 
-### 3. 📚 Advanced & Specialized Resources
+- 📖 **[Differential Calculus — John Spare](https://freemathematicsbooks.com/B.aspx?FileName=Diff-Calculus--John-Spare&utm_source=github&utm_medium=referral&utm_campaign=Differential-Calculus&utm_content=book-catalogue)**
 
-*Problem-solving materials and advanced resources for developing a deeper understanding of calculus concepts and techniques.*
+A classical exposition of differential methods exploring functions, rates of change, tangents, maxima and minima, and analytical problem-solving.
 
-- 📖 **[A Problem Text in Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Problem-Text-Advanced-Calculus--John-Erdman&utm_source=github&utm_medium=referral&utm_campaign=Differential-Calculus&utm_content=book-catalogue)** — *by John M. Erdman*
-- 📖 **[Examples and Solutions of the Differential Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Examples-Solutions-Diff-Calculus--James-Haddon&utm_source=github&utm_medium=referral&utm_campaign=Differential-Calculus&utm_content=book-catalogue)** — *by James Haddon*
+- 📖 **[Differential Calculus — Joel Feldman](https://freemathematicsbooks.com/B.aspx?FileName=Diff-Calculus--Joel-Feldman&utm_source=github&utm_medium=referral&utm_campaign=Differential-Calculus&utm_content=book-catalogue)**
+
+A modern, well-organized guide to differential calculus covering limits, continuity, differentiation techniques, optimization, and curve analysis.
 
 ---
 
-## 📋 Book Selection & Verification
+### 2. ⚙️ Differential & Integral Calculus Resources
 
-Resources in this catalogue are organized according to their main subject and educational purpose.
+Combined calculus textbooks and lecture notes covering differentiation, integration, and related mathematical techniques.
 
-The following considerations guide the organization of this collection:
+- 📖 **[Differential and Integral Calculus — Clyde E. Love & E. D. Rainville](https://freemathematicsbooks.com/B.aspx?FileName=Diff-Int-Calculus--CE-Love--ED-Rainville&utm_source=github&utm_medium=referral&utm_campaign=Differential-Calculus&utm_content=book-catalogue)**
 
-- **Subject Relevance:** Books are included according to their coverage of Differential Calculus or closely related calculus subjects.
-- **Bibliographic Information:** Book titles and author details are provided to help readers identify the resources.
-- **Resource Accessibility:** Links lead to the corresponding book information pages, where availability and access details can be checked.
-- **Subject Classification:** Resources are grouped by their primary educational focus to make browsing easier.
-- **Link Maintenance:** Broken links and bibliographic corrections can be reported through GitHub Issues.
+A comprehensive calculus textbook uniting differential and integral methods with clear explanations, worked examples, and broad applications.
+
+- 📖 **[Differential & Integral Calculus Notes in Brief — Matthew Scroggs](https://freemathematicsbooks.com/B.aspx?FileName=Diff-Int-Calculus-Notes--Matthew-Scroggs&utm_source=github&utm_medium=referral&utm_campaign=Differential-Calculus&utm_content=book-catalogue)**
+
+Concise study notes summarizing core rules, definitions, and theorems of differential and integral calculus for quick review and exam preparation.
+
+---
+
+### 3. 📚 Advanced & Specialized Resources
+
+Problem-solving materials and advanced resources for developing a deeper understanding of calculus concepts and techniques.
+
+- 📖 **[A Problem Text in Advanced Calculus — John M. Erdman](https://freemathematicsbooks.com/B.aspx?FileName=Problem-Text-Advanced-Calculus--John-Erdman&utm_source=github&utm_medium=referral&utm_campaign=Differential-Calculus&utm_content=book-catalogue)**
+
+A rigorous, problem-driven resource covering real sequences, limits, continuity, differentiation, vector spaces, and multivariable analytical foundations.
+
+- 📖 **[Examples and Solutions of the Differential Calculus — James Haddon](https://freemathematicsbooks.com/B.aspx?FileName=Examples-Solutions-Diff-Calculus--James-Haddon&utm_source=github&utm_medium=referral&utm_campaign=Differential-Calculus&utm_content=book-catalogue)**
+
+A practical collection of worked examples and solutions illustrating differentiation techniques, maxima and minima, and classical calculus problems.
 
 ---
 
 ## 📖 How to Choose a Resource
 
 - **Beginners:** Start with *Differential Calculus for Beginners* by Joseph Edwards to explore foundational concepts.
-- **Undergraduate Students:** Study the core Differential Calculus textbooks to develop a strong understanding of differentiation and its applications.
-- **Problem-Solving Practice:** Explore problem books and worked examples to strengthen mathematical skills.
-- **Broader Calculus Study:** Use combined Differential and Integral Calculus textbooks for a wider understanding of calculus.
+- **Undergraduate Students:** Study the core Differential Calculus textbooks (such as Henry Bayard Phillips, John Spare, or Joel Feldman) to develop a strong understanding of differentiation and its applications.
+- **Problem-Solving Practice:** Explore problem books and worked examples (such as James Haddon and John M. Erdman) to strengthen analytical and mathematical skills.
+- **Broader Calculus Study:** Use combined Differential and Integral Calculus textbooks (Clyde E. Love & E. D. Rainville and Matthew Scroggs) for a wider understanding of calculus.
 
 ---
 
@@ -95,6 +105,12 @@ This collection includes resources covering the following topics:
 
 ---
 
+## 📋 Book Selection & Verification
+
+Resources in this catalogue are organized by subject relevance, educational level, and clear bibliographic details. Links direct readers to the corresponding resource pages on Free Mathematics Books, where access details and available formats can be reviewed.
+
+---
+
 ## 🤝 Contributing to This Repository
 
 Suggestions and contributions are welcome!
@@ -117,10 +133,16 @@ Please ensure that submitted materials are freely accessible and that any shared
 
 ---
 
-## 🔙 Repository Navigation
+## 🧭 Repository Navigation
 
-- [📂 Back to Main Calculus Collection](../)
-- [🏠 Back to Repository Root](../../)
+- [🏠 Main Repository](../../)
+- [📉 Main Calculus Collection](../)
+- [📐 Calculus & Analytical Geometry](../Calculus-Analytical-Geometry/)
+- [📘 Calculus of Variations](../Calculus-Variation/)
+- [∂ Differential Calculus](../Differential-Calculus/)
+- [∫ Integral Calculus](../Integral-Calculus/)
+- [🔷 Multivariable Calculus](../Multivariable-Calculus/)
+- [📊 Single Variable Calculus](../Single-Variable-Calculus/)
 
 ---
 
