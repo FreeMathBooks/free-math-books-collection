@@ -49,19 +49,19 @@ Advanced Calculus is connected with several other branches of calculus. Explore 
 
 These textbooks develop the theoretical foundations of advanced calculus, including limits, continuity, real and complex variables, differentiation, integration, and rigorous mathematical proofs.
 
-**1. [A Course of Pure Mathematics — G. H. Hardy](https://freemathematicsbooks.com/B.aspx?FileName=Course-Pure-Mathematics--GH-Hardy&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
+- 📖 **[A Course of Pure Mathematics — G. H. Hardy](https://freemathematicsbooks.com/B.aspx?FileName=Course-Pure-Mathematics--GH-Hardy&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
 
 A classic introduction to rigorous pure mathematics covering real and complex variables, functions, limits, continuity, differentiation, integration, infinite series, and logarithmic, exponential, and trigonometric functions.
 
-**2. [Advanced Calculus — Edwin Bidwell Wilson](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Edwin-Wilson&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
+- 📖 **[Advanced Calculus — Edwin Bidwell Wilson](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Edwin-Wilson&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
 
 A comprehensive textbook covering Taylor's formulas, partial differentiation, vectors, ordinary differential equations, multiple and infinite integrals, infinite series, complex variables, and the calculus of variations.
 
-**3. [Advanced Calculus — Lynn H. Loomis & Shlomo Sternberg](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Lynn-Loomis&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
+- 📖 **[Advanced Calculus — Lynn H. Loomis & Shlomo Sternberg](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Lynn-Loomis&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
 
 A rigorous honors-level textbook exploring vector spaces, linear maps, differential calculus, integration theory, differentiable manifolds, exterior calculus, potential theory, and classical mechanics.
 
-**4. [Introduction to Mathematical Analysis — Beatriz Lafferriere](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Analysis--Lafferriere&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
+- 📖 **[Introduction to Mathematical Analysis — Beatriz Lafferriere](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Analysis--Lafferriere&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
 
 An introductory bridge from computational calculus to rigorous mathematical analysis. Topics include mathematical tools, real sequences, limits, continuity, differentiation, and foundational analytical proofs.
 
@@ -71,19 +71,19 @@ An introductory bridge from computational calculus to rigorous mathematical anal
 
 This group focuses on calculus of several variables, vector-valued functions, partial derivatives, multiple integrals, and connections with linear algebra and scientific applications.
 
-**5. [Active Calculus Multivariable — Steve Schlicker](https://freemathematicsbooks.com/B.aspx?FileName=Active-Calculus-Multivariable--Steve-Schlicker&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
+- 📖 **[Active Calculus Multivariable — Steve Schlicker](https://freemathematicsbooks.com/B.aspx?FileName=Active-Calculus-Multivariable--Steve-Schlicker&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
 
 A student-focused textbook using active-learning techniques to explore multivariable and vector functions, vectors, dot and cross products, partial derivatives, gradients, optimization, and related topics.
 
-**6. [Calculus and Linear Algebra Vol. 2 — Wilfred Kaplan & Donald J. Lewis](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Linear-Algebra-2--Wilfred-Kaplan&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
+- 📖 **[Calculus and Linear Algebra Vol. 2 — Wilfred Kaplan & Donald J. Lewis](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Linear-Algebra-2--Wilfred-Kaplan&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
 
 An advanced textbook connecting linear algebra with multivariable calculus. It covers vector spaces, matrices, determinants, differential and integral calculus of functions of several variables, and ordinary differential equations.
 
-**7. [Multivariable Calculus — Joel Feldman](https://freemathematicsbooks.com/B.aspx?FileName=Multivariable-Calculus--Joel-Feldman&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
+- 📖 **[Multivariable Calculus — Joel Feldman](https://freemathematicsbooks.com/B.aspx?FileName=Multivariable-Calculus--Joel-Feldman&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
 
 A structured introduction to multivariable calculus covering vectors and three-dimensional geometry, partial derivatives, multiple integrals, gradients, divergence, curl, and applications.
 
-**8. [Vector Analysis — Josiah Willard Gibbs & Edwin Bidwell Wilson](https://freemathematicsbooks.com/B.aspx?FileName=Vector-Analysis--Josiah-Gibbs--Edwin-Wilson&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
+- 📖 **[Vector Analysis — Josiah Willard Gibbs & Edwin Bidwell Wilson](https://freemathematicsbooks.com/B.aspx?FileName=Vector-Analysis--Josiah-Gibbs--Edwin-Wilson&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
 
 A classic mathematical text covering vector addition, scalar multiplication, direct and skew products, differential and integral calculus of vectors, linear vector functions, and applications to geometry and physics.
 
@@ -93,11 +93,11 @@ A classic mathematical text covering vector addition, scalar multiplication, dir
 
 These specialized textbooks explore extensions of ordinary calculus, including optimization of functions and functionals and differentiation and integration of non-integer orders.
 
-**9. [Lectures on the Calculus of Variations — Harris Hancock](https://freemathematicsbooks.com/B.aspx?FileName=Lectures-Calculus-Variations--Harris-Hancock&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
+- 📖 **[Lectures on the Calculus of Variations — Harris Hancock](https://freemathematicsbooks.com/B.aspx?FileName=Lectures-Calculus-Variations--Harris-Hancock&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
 
 A classical treatment of variational problems covering variations of curves, the catenary, first and second variations, Jacobi conjugate points, extremal curves, isoperimetric problems, and sufficient conditions for extrema.
 
-**10. [The Fractional Calculus: Theory and Applications — Keith B. Oldham & Jerome Spanier](https://freemathematicsbooks.com/B.aspx?FileName=Fractional-Calculus--Keith-Oldham&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
+- 📖 **[The Fractional Calculus: Theory and Applications — Keith B. Oldham & Jerome Spanier](https://freemathematicsbooks.com/B.aspx?FileName=Fractional-Calculus--Keith-Oldham&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
 
 A specialized textbook introducing differentiation and integration of arbitrary, non-integer orders. Topics include fractional derivatives, semi-derivatives, semi-integrals, differintegration techniques, transcendental functions, and applications to diffusion problems.
 
@@ -107,7 +107,7 @@ A specialized textbook introducing differentiation and integration of arbitrary,
 
 This resource explores how calculus is taught and learned, with attention to conceptual understanding, curriculum design, and instructional practice.
 
-**11. [Teaching and Learning of Calculus — David Bressoud](https://freemathematicsbooks.com/B.aspx?FileName=Teaching-Learning-Calculus--David-Bressoud&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
+- 📖 **[Teaching and Learning of Calculus — David Bressoud](https://freemathematicsbooks.com/B.aspx?FileName=Teaching-Learning-Calculus--David-Bressoud&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=book-catalogue)**
 
 A resource focused on calculus education and conceptual understanding. It addresses teaching and learning of derivatives, integrals, limits, analytic geometry, infinite sequences, and series, as well as instructional approaches and curriculum challenges.
 
