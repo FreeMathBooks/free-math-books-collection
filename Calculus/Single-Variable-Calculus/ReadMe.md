@@ -1,22 +1,31 @@
-# 📘 Single Variable Calculus
 
-![Single-Variable-Calculus Image](/Books/Single-Variable-Calculus.jpg)
+# 📚 Free Single Variable Calculus Books & Textbook Repository
 
-Welcome to the **Single Variable Calculus** collection, featuring free textbooks and learning resources for students, instructors, and independent learners. Explore resources covering limits, continuity, differentiation, integration, applications of calculus, and introductory mathematical analysis.
+![Single Variable Calculus Image](/Books/Single-Variable-Calculus.jpg)
 
-📖 **Explore the [Single Variable Calculus Library](https://freemathematicsbooks.com/A.aspx?Id=Single-Variable-Calculus&utm_source=github&utm_medium=referral&utm_campaign=Single-Variable-Calculus&utm_content=introduction)** online.
+Welcome to the **Free Single Variable Calculus Books Repository!**
 
-📚 **Browse the [Main Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=referral&utm_campaign=Calculus&utm_content=introduction)** for additional textbooks and resources.
+This repository maintains a curated catalogue of freely accessible Single Variable Calculus textbooks, lecture notes, and supplementary mathematical resources.
 
-🌐 Visit **[Free Mathematics Books](https://freemathematicsbooks.com/)** for more free mathematics textbooks and educational resources.
+Resources cover the fundamental concepts and applications of calculus, including limits, continuity, differentiation, integration, sequences, and series. The collection is intended for students, educators, and independent learners exploring single-variable mathematical methods.
+
+Each entry identifies the available book, its author, and a link to its corresponding resource page.
+
+This repository also welcomes suggestions, corrections, and contributions that help improve the accuracy and usefulness of the collection.
+
+📖 **[Explore the Complete Single Variable Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Single-Variable-Calculus&utm_source=github&utm_medium=referral&utm_campaign=Single-Variable-Calculus&utm_content=introduction)**
+
+📚 **[Browse the Main Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=referral&utm_campaign=Calculus&utm_content=introduction)** for additional subject-specific resources.
 
 ---
 
-## 📚 Recommended Textbooks
+## 📚 Curated Single Variable Calculus Book Catalogue
 
-Explore the following textbooks and learning materials. Click on a title to visit its book page.
+The following books are organized into four groups according to their primary subject, educational focus, and intended use.
 
-### 1. Introductory & Elementary Calculus
+### 1. 📘 Introductory & Elementary Calculus
+
+*Foundational calculus textbooks for beginners and students developing their understanding of core calculus concepts.*
 
 - 📖 **[APEX Calculus](https://freemathematicsbooks.com/B.aspx?FileName=APEX-Calculus--Gregory-Hartman&utm_source=github&utm_medium=referral&utm_campaign=Single-Variable-Calculus&utm_content=book-catalogue)** — *by Gregory Hartman*
 - 📖 **[Calculus One](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-One--Roman-Holowinsky&utm_source=github&utm_medium=referral&utm_campaign=Single-Variable-Calculus&utm_content=book-catalogue)** — *by Roman Holowinsky, Johann Thiel, David Lindberg*
@@ -24,48 +33,83 @@ Explore the following textbooks and learning materials. Click on a title to visi
 - 📖 **[Understanding Basic Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Understanding-Basic-Calculus--SK-Chung&utm_source=github&utm_medium=referral&utm_campaign=Single-Variable-Calculus&utm_content=book-catalogue)** — *by S. K. Chung*
 - 📖 **[First Year Calculus](https://freemathematicsbooks.com/B.aspx?FileName=First-Year-Calculus--Willam-Chen&utm_source=github&utm_medium=referral&utm_campaign=Single-Variable-Calculus&utm_content=book-catalogue)** — *by William L. Chen*
 
-### 2. Core Single Variable Calculus Textbooks
+### 2. 📚 Core Single Variable Calculus Textbooks
+
+*General calculus textbooks covering the fundamental principles and standard techniques of single-variable calculus.*
 
 - 📖 **[Community Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Community-Calculus--David-Guichard&utm_source=github&utm_medium=referral&utm_campaign=Single-Variable-Calculus&utm_content=book-catalogue)** — *by David Guichard, Neal Koblitz*
 - 📖 **[Single Variable Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Single-Variable-Calculus--David-Guichard&utm_source=github&utm_medium=referral&utm_campaign=Single-Variable-Calculus&utm_content=book-catalogue)** — *by David Guichard*
 - 📖 **[Differential & Integral Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Differential-Integral-Calculus--Daniel-Murray&utm_source=github&utm_medium=referral&utm_campaign=Single-Variable-Calculus&utm_content=book-catalogue)** — *by Daniel Murray*
 - 📖 **[Elementary Textbook on the Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Elementary-Textbook-Calculus--Virgil-Snyder&utm_source=github&utm_medium=referral&utm_campaign=Single-Variable-Calculus&utm_content=book-catalogue)** — *by Virgil Snyder*
 
-### 3. Applications, Engineering & Problem-Solving
+### 3. ⚙️ Applications, Engineering & Problem-Solving
+
+*Calculus resources emphasizing practical applications, engineering contexts, and exercises for developing problem-solving skills.*
 
 - 📖 **[Exercises and Problems in Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Exercises-Problems-Calculus--John-Erdman&utm_source=github&utm_medium=referral&utm_campaign=Single-Variable-Calculus&utm_content=book-catalogue)** — *by John M. Erdman*
 - 📖 **[The Calculus for Engineers](https://freemathematicsbooks.com/B.aspx?FileName=The-Calculus-Engineers--John-Perry&utm_source=github&utm_medium=referral&utm_campaign=Single-Variable-Calculus&utm_content=book-catalogue)** — *by John Perry*
 
-### 4. Alternative Approaches & Specialized Resources
+### 4. 📖 Alternative Approaches & Specialized Resources
+
+*An alternative approach to calculus using infinitesimals and related mathematical foundations.*
 
 - 📖 **[Yet Another Calculus Text: A Short Introduction with Infinitesimals](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Text-Intro-Infinitesimals--Dan-Sloughter&utm_source=github&utm_medium=referral&utm_campaign=Single-Variable-Calculus&utm_content=book-catalogue)** — *by Dan Sloughter*
 
 ---
 
-## 📖 Book Selection & Verification
+## 📋 Book Selection & Verification
 
-This collection brings together textbooks and educational resources selected for their relevance to single variable calculus. The listed materials offer different approaches to learning calculus, from introductory concepts and standard techniques to problem-solving and alternative mathematical foundations.
+Resources in this catalogue are organized according to their main subject and educational purpose.
 
-## 🎯 Topics Covered
+The following considerations guide the organization of this collection:
 
-Resources in this collection relate to topics such as:
+- **Subject Relevance:** Books are included according to their coverage of Single Variable Calculus and closely related topics.
+- **Bibliographic Information:** Book titles and author details are provided to help readers identify the resources.
+- **Resource Accessibility:** Links lead to the corresponding book information pages, where availability and access details can be checked.
+- **Subject Classification:** Resources are grouped by their primary educational focus to make browsing easier.
+- **Link Maintenance:** Broken links and bibliographic corrections can be reported through GitHub Issues.
 
-- Limits and Continuity
-- Differentiation
-- Applications of Derivatives
-- Integration
-- Techniques of Integration
-- Applications of Integrals
-- Sequences and Series
-- Functions of One Variable
-- Calculus for Engineering
-- Infinitesimal Approaches to Calculus
+---
 
-## 🤝 Contributing
+## 📁 Repository Organization
 
-Contributions are welcome! If you know of a free single variable calculus textbook, lecture note, or educational resource that could improve this collection, feel free to suggest it.
+This directory focuses on Single Variable Calculus and provides a dedicated collection of textbooks and supplementary learning materials.
 
-Please ensure that shared resources are freely accessible and legally available.
+The collection complements the broader Calculus repository, which includes additional subject-specific directories:
+
+- Advanced Calculus
+- Calculus & Analytical Geometry
+- Calculus of Variations
+- Differential Calculus
+- Integral Calculus
+- Multivariable Calculus
+- Single-Variable Calculus
+
+Each subject directory contains additional book listings and related resources for further exploration.
+
+---
+
+## 🤝 Contributing to This Repository
+
+Suggestions and contributions are welcome!
+
+You can help improve this collection by:
+
+1. Suggesting freely accessible Single Variable Calculus textbooks and learning materials.
+2. Reporting broken or outdated book links.
+3. Correcting book titles, author names, or bibliographic details.
+4. Recommending relevant supplementary mathematical resources.
+5. Improving the organization and documentation of the repository.
+
+**How to contribute:**
+
+- Open a GitHub Issue to report a problem or suggest a resource.
+- Submit a Pull Request with proposed additions or corrections.
+- Include the book title, author, and source link when suggesting a resource.
+
+Please ensure that submitted materials are freely accessible and that any shared files comply with applicable copyright and licensing terms.
+
+---
 
 ## 🔙 Repository Navigation
 
@@ -74,4 +118,6 @@ Please ensure that shared resources are freely accessible and legally available.
 
 ---
 
-🌐 **Explore more free mathematics textbooks and educational resources at [Free Mathematics Books](https://freemathematicsbooks.com/).**
+## 🌐 Explore More Mathematics Resources
+
+Discover additional free textbooks and educational materials through **[Free Mathematics Books](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=repository-footer)**.
