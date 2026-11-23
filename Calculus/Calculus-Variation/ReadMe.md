@@ -16,6 +16,7 @@ Each entry identifies the available book, its author, and a link to its correspo
 📖 **[Explore the Complete Free Calculus of Variations Collection](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Variation&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Variation&utm_content=introduction)**
 
 📚 **[Explore the Complete Free Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=referral&utm_campaign=Calculus&utm_content=introduction)**
+
 ---
 
 ## 📚 Curated Calculus of Variations Book Catalogue
