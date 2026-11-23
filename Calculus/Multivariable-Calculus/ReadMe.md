@@ -15,7 +15,7 @@ This repository also welcomes suggestions, corrections, and contributions that h
 
 📖 **[Explore the Complete Free Multivariable Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Multivariable-Calculus&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=introduction)**
 
-📚 **[Browse the Main Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=referral&utm_campaign=Calculus&utm_content=introduction)** for additional subject-specific resources.
+📚 **[Explore the Complete Free Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=referral&utm_campaign=Calculus&utm_content=introduction)**
 
 ---
 
