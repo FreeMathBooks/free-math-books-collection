@@ -14,36 +14,7 @@ The collection covers rigorous mathematical analysis, multivariable calculus, ve
 
 ---
 
-## 📚 Collection Overview
-
-The selected books are organized into four groups to help readers find resources according to their academic background and interests.
-
-| Group | Subject Area | Books |
-|---|---|---:|
-| 1 | Rigorous Foundations & Advanced Analysis | 4 |
-| 2 | Multivariable, Vector & Applied Calculus | 4 |
-| 3 | Specialized Calculus: Variational & Fractional Methods | 2 |
-| 4 | Calculus Education & Teaching | 1 |
-| **Total** | | **11** |
-
----
-
-## 📂 Explore Other Calculus Collections
-
-Advanced Calculus is connected with several other branches of calculus. Explore the related collections below for additional textbooks and learning resources.
-
-| Calculus Collection | GitHub Repository | Online Library |
-|---|---|---|
-| **Calculus & Analytical Geometry** | [Browse Books](../Calculus-Analytical-Geometry/) | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Analytical-Geometry&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=related-collections) |
-| **Calculus of Variations** | [Browse Books](../Calculus-Variation/) | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Variation&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=related-collections) |
-| **Differential Calculus** | [Browse Books](../Differential-Calculus/) | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Differential-Calculus&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=related-collections) |
-| **Integral Calculus** | [Browse Books](../Integral-Calculus/) | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Integral-Calculus&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=related-collections) |
-| **Multivariable Calculus** | [Browse Books](../Multivariable-Calculus/) | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Multivariable-Calculus&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=related-collections) |
-| **Single Variable Calculus** | [Browse Books](../Single-Variable-Calculus/) | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Single-Variable-Calculus&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=related-collections) |
-
----
-
-## 📖 Curated Advanced Calculus Books
+## 📖 Curated Advanced Calculus Book Catalogue
 
 ### 1. Rigorous Foundations & Advanced Analysis
 
