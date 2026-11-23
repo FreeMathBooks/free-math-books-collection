@@ -1,5 +1,6 @@
-
 # 📘 Multivariable Calculus
+
+![Multivariable-Calculus Image](/Books/Multivariable-Calculus.jpg)
 
 Welcome to the **Multivariable Calculus** collection, featuring free textbooks and learning resources for students, instructors, and independent learners. Explore resources covering functions of several variables, partial derivatives, multiple integrals, vector calculus, and advanced calculus.
 
