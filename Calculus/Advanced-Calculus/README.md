@@ -84,54 +84,61 @@ A resource focused on calculus education and conceptual understanding. It addres
 
 ---
 
-## 🎯 Suggested Reading Paths
+## 📖 How to Choose a Resource
 
-Choose a reading path according to your mathematical background and learning goals.
-
-| Learning Goal | Recommended Starting Point |
-|---|---|
-| **Rigorous Mathematical Foundations** | Hardy, Wilson, and Loomis & Sternberg |
-| **Transition to Mathematical Analysis** | Beatriz Lafferriere |
-| **Multivariable Calculus** | Active Calculus Multivariable and Joel Feldman |
-| **Vector Calculus & Applications** | Gibbs & Wilson |
-| **Calculus and Linear Algebra** | Kaplan & Lewis |
-| **Calculus of Variations** | Harris Hancock |
-| **Fractional Calculus** | Oldham & Spanier |
-| **Teaching & Learning of Calculus** | David Bressoud |
+- **Rigorous Mathematical Foundations:** Start with G. H. Hardy, Edwin Bidwell Wilson, and Lynn H. Loomis & Shlomo Sternberg.
+- **Transition to Mathematical Analysis:** Begin with Beatriz Lafferriere to bridge computational calculus and formal proofs.
+- **Multivariable & Vector Calculus:** Use Steve Schlicker, Joel Feldman, and Gibbs & Wilson for several variables, vector fields, and applications.
+- **Calculus with Linear Algebra:** Explore Wilfred Kaplan & Donald J. Lewis for integrated linear and multivariable methods.
+- **Variational & Fractional Calculus:** Turn to Harris Hancock for variational problems and Oldham & Spanier for non-integer differentiation and integration.
+- **Calculus Instruction & Pedagogy:** Read David Bressoud for insights into teaching, learning, and curriculum design.
 
 ---
 
-## ✅ Collection Organization
+## 📚 Topics Covered
 
-This repository brings together selected resources covering the major theoretical and specialized areas of advanced calculus.
+This collection includes resources covering the following topics:
 
-The collection includes:
-
-- Rigorous treatments of real and complex variables.
-- Mathematical analysis and advanced differential calculus.
-- Multivariable and vector calculus.
-- Multiple integration and mathematical applications.
-- Calculus of variations and optimization.
-- Fractional differentiation and integration.
-- Calculus education and teaching methods.
-
-Book descriptions are provided to help readers identify relevant resources. Visit each book's detail page for available reading or download options and applicable access or licensing information.
+- Real and Complex Variables
+- Limits, Continuity, and Sequences
+- Infinite Series and Taylor Expansions
+- Mathematical Analysis and Rigorous Proofs
+- Partial Derivatives, Gradients, and Directional Derivatives
+- Multiple Integrals, Vector Fields, and Vector Analysis
+- Differentiable Manifolds and Exterior Calculus
+- Calculus of Variations and Extremal Curves
+- Fractional Calculus, Semi-Derivatives, and Semi-Integrals
+- Ordinary Differential Equations and Potential Theory
+- Linear Algebra and Multivariable Connections
+- Calculus Education and Instructional Methods
 
 ---
 
-## 🤝 Contributions
+## 📋 Book Selection & Verification
 
-Contributions that improve this collection are welcome.
+Resources in this catalogue are organized by subject relevance, educational level, and clear bibliographic details. Links direct readers to the corresponding resource pages on Free Mathematics Books, where access details and available formats can be reviewed.
 
-You can help by:
+---
 
-- Suggesting additional free advanced calculus textbooks.
-- Reporting broken or outdated links.
-- Correcting book titles, author details, or descriptions.
-- Improving the organization and documentation.
-- Submitting a pull request with relevant updates.
+## 🤝 Contributing to This Repository
 
-Please ensure that suggested resources are freely accessible or clearly identify their access and licensing conditions.
+Suggestions and contributions are welcome!
+
+You can help improve this collection by:
+
+1. Suggesting freely accessible advanced calculus textbooks and learning materials.
+2. Reporting broken or outdated book links.
+3. Correcting book titles, author names, or bibliographic details.
+4. Recommending relevant supplementary mathematical resources.
+5. Improving the organization and documentation of the repository.
+
+**How to contribute:**
+
+- Open a GitHub Issue to report a problem or suggest a resource.
+- Submit a Pull Request with proposed additions or corrections.
+- Include the book title, author, and source link when suggesting a resource.
+
+Please ensure that submitted materials are freely accessible and that any shared files comply with applicable copyright and licensing terms.
 
 ---
 
@@ -145,13 +152,6 @@ Please ensure that suggested resources are freely accessible or clearly identify
 - [∫ Integral Calculus](../Integral-Calculus/)
 - [🔷 Multivariable Calculus](../Multivariable-Calculus/)
 - [📊 Single Variable Calculus](../Single-Variable-Calculus/)
-
----
-
-## 🔙 Repository Navigation
-
-- [⬅️ Back to Main Calculus Collection](../)
-- [🏠 Back to Repository Root](../../)
 
 ---
 
