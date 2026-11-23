@@ -1,4 +1,3 @@
-
 # 📚 Free Calculus with Analytical Geometry Books & Textbook Repository
 
 ![Calculus-Analytical-Geometry Image](/Books/Calculus-Analytical-Geometry.jpg)
@@ -69,67 +68,68 @@ This group contains historical textbooks that connect coordinate geometry, conic
 
 ---
 
-## 🎯 Suggested Reading Paths
+## 📖 How to Choose a Resource
 
-Choose a reading path according to your mathematical background and learning goals.
+- **Beginners & Coordinate Foundations:** Start with Horatio Carslaw or Richard H. Crowell & William E. Slesnick to build intuition connecting geometry with limits, derivatives, and integrals.
+- **Problem-Solvers & Analysis Learners:** Choose John M. Erdman for rigorous, proof- and problem-driven foundations in advanced calculus and metric spaces.
+- **Classical & Reference Learners:** Explore Edwin P. Seaver for classical calculus paired with mathematical tables and historical context.
+- **Historical Geometry Enthusiasts:** Study Horatio N. Robinson and Charles Davies to trace plane and spatial analytical geometry alongside classical calculus.
 
-| Learning Goal | Recommended Starting Point |
-|---|---|
-| **Rigorous Advanced Calculus** | John M. Erdman |
-| **Classical Calculus Foundations** | Horatio Carslaw |
-| **Calculus with Analytic Geometry** | Crowell & Slesnick |
-| **Classical Calculus & Mathematical Tables** | Edwin P. Seaver |
-| **Historical Analytical Geometry** | Horatio N. Robinson and Charles Davies |
+---
+
+## 📚 Topics Covered
+
+This collection includes resources covering the following topics:
+
+- Coordinate Systems and Analytical Geometry
+- Conic Sections, Circles, Ellipses, Parabolas, and Hyperbolas
+- Curves, Tangents, Normals, and Curve Tracing
+- Plane and Spatial Geometry
+- Limits, Continuity, and Sequences
+- Differentiation, Maxima and Minima, and Partial Derivatives
+- Integration, Areas, Volumes, and Iterated Integrals
+- Infinite Series and Multivariable Calculus
+- Metric Spaces, Compactness, Connectedness, and Implicit Function Theorem
 
 ---
 
 ## 📋 Book Selection & Verification
 
-This collection brings together selected textbooks and educational resources related to calculus and analytical geometry.
-
-- Book titles and author information are provided with their corresponding resource links.
-- Descriptions help readers identify the mathematical subjects covered by each resource.
-- Readers should consult individual book pages for available reading or download options and applicable access or licensing information.
-
----
-
-## 📁 Repository Organization
-
-The main Calculus repository contains specialized collections covering different areas of calculus.
-
-| Calculus Collection | Description |
-|---|---|
-| [Advanced Calculus](../Advanced-Calculus/) | Advanced topics and theoretical foundations |
-| [Calculus with Analytical Geometry](../Calculus-Analytical-Geometry/) | Calculus combined with coordinate and analytical geometry |
-| [Calculus of Variations](../Calculus-Variation/) | Variational methods and optimization |
-| [Differential Calculus](../Differential-Calculus/) | Derivatives, differentiation, and applications |
-| [Integral Calculus](../Integral-Calculus/) | Integration methods, techniques, and applications |
-| [Multivariable Calculus](../Multivariable-Calculus/) | Functions of several variables and multiple integration |
-| [Single Variable Calculus](../Single-Variable-Calculus/) | Foundations of one-variable calculus |
+Resources in this catalogue are organized by subject relevance, educational level, and clear bibliographic details. Links direct readers to the corresponding resource pages on Free Mathematics Books, where access details and available formats can be reviewed.
 
 ---
 
 ## 🤝 Contributing to This Repository
 
-Contributions that improve this collection are welcome.
+Suggestions and contributions are welcome!
 
-You can help by:
+You can help improve this collection by:
 
-- Suggesting additional free calculus and analytical geometry textbooks.
-- Reporting broken or outdated links.
-- Correcting book titles, author details, or descriptions.
-- Improving the organization and documentation.
-- Submitting a pull request with relevant updates.
+1. Suggesting freely accessible calculus and analytical geometry textbooks and learning materials.
+2. Reporting broken or outdated links.
+3. Correcting book titles, author details, or bibliographic details.
+4. Recommending relevant supplementary mathematical resources.
+5. Improving the organization and documentation of the repository.
 
-Please ensure that suggested resources are freely accessible or clearly identify their access and licensing conditions.
+**How to contribute:**
+
+- Open a GitHub Issue to report a problem or suggest a resource.
+- Submit a Pull Request with proposed additions or corrections.
+- Include the book title, author, and source link when suggesting a resource.
+
+Please ensure that submitted materials are freely accessible and that any shared files comply with applicable copyright and licensing terms.
 
 ---
 
-## 🔙 Repository Navigation
+## 🧭 Repository Navigation
 
-- [⬅️ Back to Main Calculus Collection](../)
-- [🏠 Back to Repository Root](../../)
-
+- [📉 Main Calculus Collection](../)
+- [📐 Calculus & Analytical Geometry](../Calculus-Analytical-Geometry/)
+- [📘 Calculus of Variations](../Calculus-Variation/)
+- [∂ Differential Calculus](../Differential-Calculus/)
+- [∫ Integral Calculus](../Integral-Calculus/)
+- [🔷 Multivariable Calculus](../Multivariable-Calculus/)
+- [📊 Single Variable Calculus](../Single-Variable-Calculus/)
 
 ---
 
@@ -140,4 +140,3 @@ Please ensure that suggested resources are freely accessible or clearly identify
 **Substack Publication:** [Free Mathematics Books](https://freemathematicsbooks.substack.com/)
 
 Discover additional free textbooks and educational materials through **[Free Mathematics Books](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=repository-footer)**.
-
