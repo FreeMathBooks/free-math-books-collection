@@ -130,18 +130,14 @@ Please ensure that suggested resources are freely accessible or clearly identify
 - [⬅️ Back to Main Calculus Collection](../)
 - [🏠 Back to Repository Root](../../)
 
+
 ---
 
 ## 🌐 Explore More Mathematics Resources
-
-Discover additional freely accessible mathematics textbooks, lecture notes, and educational resources.
-
-**[Free Mathematics Books](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=repository-footer)**
 
 **GitHub Collection:** [Free Math Books Repository](https://github.com/FreeMathBooks/free-math-books-collection)
 
 **Substack Publication:** [Free Mathematics Books](https://freemathematicsbooks.substack.com/)
 
----
+Discover additional free textbooks and educational materials through **[Free Mathematics Books](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=repository-footer)**.
 
-*Free Mathematics Books — Making mathematics textbooks and educational resources easier to discover.*
