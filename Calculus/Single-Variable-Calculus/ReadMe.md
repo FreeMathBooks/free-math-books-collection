@@ -15,7 +15,7 @@ This repository also welcomes suggestions, corrections, and contributions that h
 
 📖 **[Explore the Complete Single Variable Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Single-Variable-Calculus&utm_source=github&utm_medium=referral&utm_campaign=Single-Variable-Calculus&utm_content=introduction)**
 
-📚 **[Browse the Main Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=referral&utm_campaign=Calculus&utm_content=introduction)** for additional subject-specific resources.
+📚 **[Explore the Complete Free Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=referral&utm_campaign=Calculus&utm_content=introduction)**
 
 ---
 
