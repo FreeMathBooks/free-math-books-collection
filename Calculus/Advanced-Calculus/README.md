@@ -10,9 +10,10 @@ The collection covers rigorous mathematical analysis, multivariable calculus, ve
 
 🌐 **Explore the complete online collection:**
 
-📚 **[Explore the Complete Free Advanced Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Advanced-Calculus&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=introduction)
+📚 **[Explore the Complete Free Advanced Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Advanced-Calculus&utm_source=github&utm_medium=referral&utm_campaign=Advanced-Calculus&utm_content=introduction)**
 
 📚 **[Explore the Complete Free Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=referral&utm_campaign=Calculus&utm_content=introduction)**
+
 ---
 
 ## 📚 Collection Overview
