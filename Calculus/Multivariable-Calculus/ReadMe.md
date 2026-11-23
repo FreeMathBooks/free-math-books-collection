@@ -1,64 +1,106 @@
-# 📘 Multivariable Calculus
 
-![Multivariable-Calculus Image](/Books/Multivariable-Calculus.jpg)
+# 📚 Free Multivariable Calculus Books & Textbook Repository
 
-Welcome to the **Multivariable Calculus** collection, featuring free textbooks and learning resources for students, instructors, and independent learners. Explore resources covering functions of several variables, partial derivatives, multiple integrals, vector calculus, and advanced calculus.
+![Multivariable Calculus Image](/Books/Multivariable-Calculus.jpg)
 
-📖 **Explore the [Multivariable Calculus Library](https://freemathematicsbooks.com/A.aspx?Id=Multivariable-Calculus&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=introduction)** online.
+Welcome to the **Free Multivariable Calculus Books Repository!**
 
-📚 **Browse the [Main Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=referral&utm_campaign=Calculus&utm_content=introduction)** for additional textbooks and resources.
+This repository maintains a curated catalogue of freely accessible Multivariable Calculus textbooks, lecture notes, and supplementary mathematical resources.
 
-🌐 Visit **[Free Mathematics Books](https://freemathematicsbooks.com/)** for more free mathematics textbooks and educational resources.
+Resources cover the mathematics of functions of several variables, including limits, continuity, partial derivatives, multiple integrals, vector-valued functions, and vector calculus. The collection is intended for students, educators, and independent learners exploring multivariable mathematical methods.
+
+Each entry identifies the available book, its author, and a link to its corresponding resource page.
+
+This repository also welcomes suggestions, corrections, and contributions that help improve the accuracy and usefulness of the collection.
+
+📖 **[Explore the Complete Free Multivariable Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Multivariable-Calculus&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=introduction)**
+
+📚 **[Browse the Main Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=referral&utm_campaign=Calculus&utm_content=introduction)** for additional subject-specific resources.
 
 ---
 
-## 📚 Recommended Textbooks
+## 📚 Curated Multivariable Calculus Book Catalogue
 
-Explore the following textbooks and learning materials. Click on a title to visit its book page.
+The following books are organized into three groups according to their primary subject, educational focus, and mathematical content.
 
-### 1. Introductory & Core Multivariable Calculus
+### 1. 📘 Introductory & Core Multivariable Calculus
+
+*Textbooks and learning materials covering the fundamental concepts and techniques of multivariable calculus.*
 
 - 📖 **[Active Calculus Multivariable](https://freemathematicsbooks.com/B.aspx?FileName=Active-Calculus-Multivariable--Steve-Schlicker&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)** — *by Steve Schlicker*
 - 📖 **[Multivariable Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Multivariable-Calculus--Don-Shimamoto&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)** — *by Don Shimamoto*
 - 📖 **[Multivariable Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Multivariable-Calculus--Joel-Feldman&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)** — *by Joel Feldman*
 - 📖 **[Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Calculus--WikiBooks&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)** — *by WikiBooks*
 
-### 2. Advanced Calculus & Mathematical Foundations
+### 2. 📚 Advanced Calculus & Mathematical Foundations
+
+*Advanced mathematical treatments and foundational resources related to calculus and its theoretical development.*
 
 - 📖 **[A Course of Pure Mathematics](https://freemathematicsbooks.com/B.aspx?FileName=Course-Pure-Mathematics--GH-Hardy&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)** — *by G. H. Hardy*
 - 📖 **[Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Calculus--Edwin-Wilson&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)** — *by Edwin Bidwell Wilson*
 
-### 3. Vector Calculus & Analysis
+### 3. 📐 Vector Calculus & Analysis
+
+*Resources focused on vector methods, vector fields, and mathematical techniques used in higher-dimensional calculus.*
 
 - 📖 **[Vector Analysis](https://freemathematicsbooks.com/B.aspx?FileName=Vector-Analysis--Josiah-Gibbs--Edwin-Wilson&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)** — *by Josiah Gibbs and Edwin Wilson*
 - 📖 **[Vector Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Vector-Calculus--Michael-Corral&utm_source=github&utm_medium=referral&utm_campaign=Multivariable-Calculus&utm_content=book-catalogue)** — *by Michael Corral*
 
 ---
 
-## 📖 Book Selection & Verification
+## 📋 Book Selection & Verification
 
-The collection brings together textbooks and educational resources selected for their relevance to multivariable calculus and related mathematical subjects. Book titles and authors are listed to help readers identify suitable study materials.
+Resources in this catalogue are organized according to their main subject and educational purpose.
 
-## 🎯 Topics Covered
+The following considerations guide the organization of this collection:
 
-Resources in this collection relate to topics such as:
+- **Subject Relevance:** Books are included according to their coverage of Multivariable Calculus and closely related mathematical subjects.
+- **Bibliographic Information:** Book titles and author details are provided to help readers identify the resources.
+- **Resource Accessibility:** Links lead to the corresponding book information pages, where availability and access details can be checked.
+- **Subject Classification:** Resources are grouped by their primary educational focus to make browsing easier.
+- **Link Maintenance:** Broken links and bibliographic corrections can be reported through GitHub Issues.
 
-- Functions of Several Variables
-- Limits and Continuity
-- Partial Derivatives
-- Multiple Integrals
-- Applications of Multiple Integration
-- Vector-Valued Functions
-- Vector Fields
-- Line and Surface Integrals
-- Vector Analysis
+---
+
+## 📁 Repository Organization
+
+This directory focuses on Multivariable Calculus and provides a dedicated collection of textbooks and supplementary learning materials.
+
+The collection complements the broader Calculus repository, which includes additional subject-specific directories:
+
 - Advanced Calculus
+- Calculus & Analytical Geometry
+- Calculus of Variations
+- Differential Calculus
+- Integral Calculus
+- Multivariable Calculus
+- Single-Variable Calculus
 
-## 🤝 Contributing
+Each subject directory contains additional book listings and related resources for further exploration.
 
-Contributions are welcome! If you know of a free multivariable calculus textbook, lecture note, or educational resource that could improve this collection, feel free to suggest it.
+---
 
-Please ensure that shared resources are freely accessible and legally available.
+## 🤝 Contributing to This Repository
+
+Suggestions and contributions are welcome!
+
+You can help improve this collection by:
+
+1. Suggesting freely accessible Multivariable Calculus textbooks and learning materials.
+2. Reporting broken or outdated book links.
+3. Correcting book titles, author names, or bibliographic details.
+4. Recommending relevant supplementary mathematical resources.
+5. Improving the organization and documentation of the repository.
+
+**How to contribute:**
+
+- Open a GitHub Issue to report a problem or suggest a resource.
+- Submit a Pull Request with proposed additions or corrections.
+- Include the book title, author, and source link when suggesting a resource.
+
+Please ensure that submitted materials are freely accessible and that any shared files comply with applicable copyright and licensing terms.
+
+---
 
 ## 🔙 Repository Navigation
 
@@ -67,4 +109,6 @@ Please ensure that shared resources are freely accessible and legally available.
 
 ---
 
-🌐 **Explore more free mathematics textbooks and educational resources at [Free Mathematics Books](https://freemathematicsbooks.com/).**
+## 🌐 Explore More Mathematics Resources
+
+Discover additional free textbooks and educational materials through **[Free Mathematics Books](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=repository-footer)**.
