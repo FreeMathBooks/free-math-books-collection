@@ -126,7 +126,6 @@ Please ensure that submitted materials are freely accessible and that any shared
 
 ## 🧭 Repository Navigation
 
-- [🏠 Main Repository](../../)
 - [📉 Main Calculus Collection](../)
 - [📐 Calculus & Analytical Geometry](../Calculus-Analytical-Geometry/)
 - [📘 Calculus of Variations](../Calculus-Variation/)
