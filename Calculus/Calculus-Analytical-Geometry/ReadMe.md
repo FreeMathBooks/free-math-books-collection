@@ -1,61 +1,33 @@
-# 📘 Free Calculus with Analytical Geometry Books & Textbook Repository
+
+# 📚 Free Calculus with Analytical Geometry Books & Textbook Repository
 
 ![Calculus-Analytical-Geometry Image](/Books/Calculus-Analytical-Geometry.jpg)
 
-Welcome to the **Calculus with Analytical Geometry Collection** by Free Mathematics Books.
+Welcome to the **Free Calculus with Analytical Geometry Books Repository**!
 
-This repository provides a curated selection of free textbooks and educational resources combining calculus with analytical and coordinate geometry.
+This repository maintains a curated catalogue of freely accessible textbooks and educational resources combining calculus with analytical and coordinate geometry.
 
-The collection includes classical and modern approaches to limits, differentiation, integration, coordinate systems, conic sections, curves, multivariable calculus, and geometric applications.
+The collection brings together classical and modern mathematical approaches, covering topics such as limits, differentiation, integration, coordinate systems, conic sections, curves, multivariable calculus, and geometric applications.
 
-These resources are intended for undergraduate students, independent learners, instructors, and anyone interested in the mathematical relationship between calculus and analytical geometry.
+These resources are intended for undergraduate students, educators, independent learners, and anyone interested in the mathematical relationship between calculus and analytical geometry.
 
-🌐 **Explore the complete online collection:**
+📖 **[Explore the Complete Free Calculus with Analytical Geometry Collection](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Analytical-Geometry&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=introduction)**
 
-[Free Calculus with Analytical Geometry Books](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Analytical-Geometry&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=introduction)
-
----
-
-## 📚 Collection Overview
-
-The selected books are organized into four groups to make it easier to explore different approaches to calculus and analytical geometry.
-
-| Group | Subject Area | Books |
-|---|---|---:|
-| 1 | Rigorous & Problem-Based Advanced Calculus | 1 |
-| 2 | Classical & Infinitesimal Calculus | 1 |
-| 3 | Calculus & Analytical Geometry Textbooks | 2 |
-| 4 | Classical Geometry & Differential and Integral Calculus | 2 |
-| **Total** | | **6** |
+📚 **[Explore the Complete Free Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=referral&utm_campaign=Calculus&utm_content=introduction)**
 
 ---
 
-## 📂 Explore Other Calculus Collections
+## 📚 Curated Calculus with Analytical Geometry Book Catalogue
 
-Explore the other specialized Calculus collections for additional textbooks and learning resources.
-
-| Calculus Collection | GitHub Repository | Online Library |
-|---|---|---|
-| **Advanced Calculus** | [Browse Books](../Advanced-Calculus/) | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Advanced-Calculus&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=related-collections) |
-| **Calculus of Variation** | [Browse Books](../Calculus-Variation/) | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Calculus-Variation&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=related-collections) |
-| **Differential Calculus** | [Browse Books](../Differential-Calculus/) | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Differential-Calculus&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=related-collections) |
-| **Integral Calculus** | [Browse Books](../Integral-Calculus/) | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Integral-Calculus&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=related-collections) |
-| **Multivariable Calculus** | [Browse Books](../Multivariable-Calculus/) | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Multivariable-Calculus&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=related-collections) |
-| **Single Variable Calculus** | [Browse Books](../Single-Variable-Calculus/) | [View Books](https://freemathematicsbooks.com/A.aspx?Id=Single-Variable-Calculus&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=related-collections) |
-
-[📘 Browse the Complete Calculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Calculus&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=main-calculus)
-
----
-
-## 📖 Curated Calculus with Analytical Geometry Books
+The following books are organized into four groups to help readers explore different approaches to calculus and analytical geometry.
 
 ### 1. Rigorous & Problem-Based Advanced Calculus
 
 This group introduces a rigorous, proof-oriented approach to advanced calculus through mathematical problems and theoretical foundations.
 
-**1. [A Problem Text in Advanced Calculus — John M. Erdman](https://freemathematicsbooks.com/B.aspx?FileName=Problem-Text-Advanced-Calculus--John-Erdman&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=book-catalogue)**
+- 📖 **[A Problem Text in Advanced Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Problem-Text-Advanced-Calculus--John-Erdman&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=book-catalogue)** — *by John M. Erdman*
 
-A rigorous, problem-based textbook covering real numbers, sequences, limits, continuity, differentiation, metric spaces, compactness, connectedness, vector spaces, partial derivatives, iterated integrals, infinite series, and the implicit function theorem.
+  A rigorous, problem-based textbook covering real numbers, sequences, limits, continuity, differentiation, metric spaces, compactness, connectedness, vector spaces, partial derivatives, iterated integrals, infinite series, and the implicit function theorem.
 
 ---
 
@@ -63,9 +35,9 @@ A rigorous, problem-based textbook covering real numbers, sequences, limits, con
 
 This group explores the foundations of classical calculus, including infinitesimals, coordinate geometry, differentiation, integration, and applications to curves.
 
-**2. [An Introduction to the Infinitesimal Calculus — Horatio Carslaw](https://freemathematicsbooks.com/B.aspx?FileName=Infinitesimal-Calculus--Horatio-Carslaw&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=book-catalogue)**
+- 📖 **[An Introduction to the Infinitesimal Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Infinitesimal-Calculus--Horatio-Carslaw&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=book-catalogue)** — *by Horatio Carslaw*
 
-A classical textbook covering coordinate geometry, the meaning of differentiation, algebraic and trigonometric functions, exponential and logarithmic functions, maxima and minima, partial differentiation, conic sections, and integral calculus.
+  A classical textbook covering coordinate geometry, the meaning of differentiation, algebraic and trigonometric functions, exponential and logarithmic functions, maxima and minima, partial differentiation, conic sections, and integral calculus.
 
 ---
 
@@ -73,13 +45,13 @@ A classical textbook covering coordinate geometry, the meaning of differentiatio
 
 These textbooks combine differential and integral calculus with coordinate geometry, curves, conic sections, and mathematical applications.
 
-**3. [Calculus with Analytic Geometry — Richard H. Crowell & William E. Slesnick](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Analytic-Geometry--Richard-Crowell&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=book-catalogue)**
+- 📖 **[Calculus with Analytic Geometry](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Analytic-Geometry--Richard-Crowell&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=book-catalogue)** — *by Richard H. Crowell & William E. Slesnick*
 
-A comprehensive textbook integrating calculus with analytic geometry. Topics include limits, derivatives, integrals, infinite series, multivariable calculus, curves, tangents, normals, areas, and volumes.
+  A comprehensive textbook integrating calculus with analytic geometry. Topics include limits, derivatives, integrals, infinite series, multivariable calculus, curves, tangents, normals, areas, and volumes.
 
-**4. [Calculus and Analytical Geometry, with Mathematical Tables — Edwin P. Seaver](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Analytical-Geometry--Edwin-Seaver&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=book-catalogue)**
+- 📖 **[Calculus and Analytical Geometry, with Mathematical Tables](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Analytical-Geometry--Edwin-Seaver&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=book-catalogue)** — *by Edwin P. Seaver*
 
-A classical mathematics textbook covering algebraic formulas, circular and hyperbolic functions, trigonometry, differential and integral calculus, and analytical geometry. It provides a historical perspective on the development and teaching of classical calculus.
+  A classical mathematics textbook covering algebraic formulas, circular and hyperbolic functions, trigonometry, differential and integral calculus, and analytical geometry. It provides a historical perspective on the development and teaching of classical calculus.
 
 ---
 
@@ -87,13 +59,13 @@ A classical mathematics textbook covering algebraic formulas, circular and hyper
 
 This group contains historical textbooks that connect coordinate geometry, conic sections, spatial geometry, and the principles of differential and integral calculus.
 
-**5. [Elements of Analytical Geometry & Differential and Integral Calculus — Horatio N. Robinson](https://freemathematicsbooks.com/B.aspx?FileName=Analytical-Geometry-Diff-Int-Calculus--Horatio-Robinson&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=book-catalogue)**
+- 📖 **[Elements of Analytical Geometry & Differential and Integral Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Analytical-Geometry-Diff-Int-Calculus--Horatio-Robinson&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=book-catalogue)** — *by Horatio N. Robinson*
 
-A nineteenth-century textbook combining analytical geometry with differential and integral calculus. It covers points, lines, conic sections, surfaces, derivatives, maxima and minima, curve tracing, integration, areas, and volumes.
+  A nineteenth-century textbook combining analytical geometry with differential and integral calculus. It covers points, lines, conic sections, surfaces, derivatives, maxima and minima, curve tracing, integration, areas, and volumes.
 
-**6. [Elements of Analytical Geometry & Differential and Integral Calculus — Charles Davies](https://freemathematicsbooks.com/B.aspx?FileName=Elements-Analytical-Geometry-Calculus--Charles-Davies&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=book-catalogue)**
+- 📖 **[Elements of Analytical Geometry & Differential and Integral Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Elements-Analytical-Geometry-Calculus--Charles-Davies&utm_source=github&utm_medium=referral&utm_campaign=Calculus-Analytical-Geometry&utm_content=book-catalogue)** — *by Charles Davies*
 
-A classical textbook exploring plane and spatial analytical geometry alongside differential and integral calculus. Topics include points, lines, circles, ellipses, parabolas, hyperbolas, algebraic curves, surfaces, derivatives, and integration.
+  A classical textbook exploring plane and spatial analytical geometry alongside differential and integral calculus. Topics include points, lines, circles, ellipses, parabolas, hyperbolas, algebraic curves, surfaces, derivatives, and integration.
 
 ---
 
@@ -111,24 +83,33 @@ Choose a reading path according to your mathematical background and learning goa
 
 ---
 
-## ✅ Collection Organization
+## 📋 Book Selection & Verification
 
-This repository brings together selected resources covering the relationship between calculus and analytical geometry.
+This collection brings together selected textbooks and educational resources related to calculus and analytical geometry.
 
-The collection includes:
-
-- Rigorous and problem-based advanced calculus.
-- Classical and infinitesimal calculus.
-- Coordinate geometry and conic sections.
-- Differential and integral calculus.
-- Curves, surfaces, and geometric applications.
-- Historical approaches to mathematical education.
-
-Book descriptions are provided to help readers identify relevant resources. Visit each book's detail page for available reading or download options and applicable access or licensing information.
+- Book titles and author information are provided with their corresponding resource links.
+- Descriptions help readers identify the mathematical subjects covered by each resource.
+- Readers should consult individual book pages for available reading or download options and applicable access or licensing information.
 
 ---
 
-## 🤝 Contributions
+## 📁 Repository Organization
+
+The main Calculus repository contains specialized collections covering different areas of calculus.
+
+| Calculus Collection | Description |
+|---|---|
+| [Advanced Calculus](../Advanced-Calculus/) | Advanced topics and theoretical foundations |
+| [Calculus with Analytical Geometry](../Calculus-Analytical-Geometry/) | Calculus combined with coordinate and analytical geometry |
+| [Calculus of Variations](../Calculus-Variation/) | Variational methods and optimization |
+| [Differential Calculus](../Differential-Calculus/) | Derivatives, differentiation, and applications |
+| [Integral Calculus](../Integral-Calculus/) | Integration methods, techniques, and applications |
+| [Multivariable Calculus](../Multivariable-Calculus/) | Functions of several variables and multiple integration |
+| [Single Variable Calculus](../Single-Variable-Calculus/) | Foundations of one-variable calculus |
+
+---
+
+## 🤝 Contributing to This Repository
 
 Contributions that improve this collection are welcome.
 
@@ -144,20 +125,14 @@ Please ensure that suggested resources are freely accessible or clearly identify
 
 ---
 
-## 🧭 Repository Navigation
+## 🔙 Repository Navigation
 
-- [🏠 Main Repository](../../)
-- [📚 Main Calculus Collection](../)
-- [📘 Advanced Calculus](../Advanced-Calculus/)
-- [📐 Calculus of Variation](../Calculus-Variation/)
-- [∂ Differential Calculus](../Differential-Calculus/)
-- [∫ Integral Calculus](../Integral-Calculus/)
-- [🔷 Multivariable Calculus](../Multivariable-Calculus/)
-- [📊 Single Variable Calculus](../Single-Variable-Calculus/)
+- [⬅️ Back to Main Calculus Collection](../)
+- [🏠 Back to Repository Root](../../)
 
 ---
 
-## 🌐 Explore More Free Mathematics Resources
+## 🌐 Explore More Mathematics Resources
 
 Discover additional freely accessible mathematics textbooks, lecture notes, and educational resources.
 
