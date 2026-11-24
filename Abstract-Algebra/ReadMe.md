@@ -1,9 +1,8 @@
-
 # 📚 Free Abstract Algebra Books & Textbook Repository
 
 ![Abstract-Algebra Image](/Books/Abstract-Algebra.jpg)
 
-Welcome to the Free Abstract Algebra Books Repository!
+Welcome to the **Abstract Algebra Collection** by Free Mathematics Books.
 
 This repository maintains a curated catalogue of freely accessible Abstract Algebra textbooks, lecture notes, and supplementary mathematical resources.
 
@@ -33,83 +32,114 @@ The following collections provide additional resources in closely related mathem
 
 ---
 
-## 📚 Curated Abstract Algebra Book Catalogue
+## 📖 Curated Abstract Algebra Book Catalogue
 
 The following books and supplementary mathematical resources are organized into four groups according to their primary mathematical subject, theoretical focus, and educational purpose.
 
 ### 1. 📘 Foundations & Core Abstract Algebra
 
-*Foundational textbooks introducing algebraic structures, groups, rings, fields, group actions, and fundamental concepts of abstract algebra.*
+Foundational textbooks introducing algebraic structures, groups, rings, fields, group actions, and fundamental concepts of abstract algebra.
 
-- 📖 **[Abstract Algebra: Theory and Applications](https://freemathematicsbooks.com/B.aspx?FileName=Abstract-Algebra-Theory-App--Thomas-Judson&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)** — *by Thomas W. Judson*
+- 📖 **[Abstract Algebra: Theory and Applications — Thomas W. Judson](https://freemathematicsbooks.com/B.aspx?FileName=Abstract-Algebra-Theory-App--Thomas-Judson&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)**
 
-  Introduces groups, cyclic groups, permutation groups, group actions, rings, fields, Galois theory, and algebraic coding theory.
+Introduces groups, cyclic groups, permutation groups, group actions, rings, fields, Galois theory, and algebraic coding theory.
 
-- 📖 **[Algebra: Abstract and Concrete](https://freemathematicsbooks.com/B.aspx?FileName=Algebra-Abstract--Frederick-Goodman&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)** — *by Frederick M. Goodman*
+- 📖 **[Algebra: Abstract and Concrete — Frederick M. Goodman](https://freemathematicsbooks.com/B.aspx?FileName=Algebra-Abstract--Frederick-Goodman&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)**
 
-  Explores groups, homomorphisms, group actions, geometric symmetries, rings, ideals, and algebraic structures.
+Explores groups, homomorphisms, group actions, geometric symmetries, rings, ideals, and algebraic structures.
 
-- 📖 **[Algebra: A Computational Introduction](https://freemathematicsbooks.com/B.aspx?FileName=Algebra-A-Computational-Intro--John-Scherk&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)** — *by John Scherk*
+- 📖 **[Algebra: A Computational Introduction — John Scherk](https://freemathematicsbooks.com/B.aspx?FileName=Algebra-A-Computational-Intro--John-Scherk&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)**
 
-  Introduces computational approaches to group theory, permutation groups, congruences, polynomial rings, Galois groups, and algebraic problem-solving.
+Introduces computational approaches to group theory, permutation groups, congruences, polynomial rings, Galois groups, and algebraic problem-solving.
+
+---
 
 ### 2. 📚 Advanced & Graduate Algebra
 
-*Advanced resources covering graduate-level algebra, field extensions, Galois theory, noncommutative structures, and specialized algebraic systems.*
+Advanced resources covering graduate-level algebra, field extensions, Galois theory, noncommutative structures, and specialized algebraic systems.
 
-- 📖 **[Abstract Algebra: The Basic Graduate Year](https://freemathematicsbooks.com/B.aspx?FileName=Abstract-Algebra-Basic-Graduate--Robert-Ash&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)** — *by Robert B. Ash*
+- 📖 **[Abstract Algebra: The Basic Graduate Year — Robert B. Ash](https://freemathematicsbooks.com/B.aspx?FileName=Abstract-Algebra-Basic-Graduate--Robert-Ash&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)**
 
-  Covers group theory, ring theory, field theory, module theory, Galois theory, algebraic number theory, and homological algebra.
+Covers group theory, ring theory, field theory, module theory, Galois theory, algebraic number theory, and homological algebra.
 
-- 📖 **[Lecture on Galois Theory](https://freemathematicsbooks.com/B.aspx?FileName=Galois-Theory--Emil-Artin&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)** — *by Emil Artin & A. N. Milgram*
+- 📖 **[Lecture on Galois Theory — Emil Artin & A. N. Milgram](https://freemathematicsbooks.com/B.aspx?FileName=Galois-Theory--Emil-Artin&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)**
 
-  Explores field extensions, polynomial equations, splitting fields, Galois groups, and the relationship between algebraic equations and their symmetries.
+Explores field extensions, polynomial equations, splitting fields, Galois groups, and the relationship between algebraic equations and their symmetries.
 
-- 📖 **[Quaternion Algebras](https://freemathematicsbooks.com/B.aspx?FileName=Quaternion-Algebras--John-Voight&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)** — *by John Voight*
+- 📖 **[Quaternion Algebras — John Voight](https://freemathematicsbooks.com/B.aspx?FileName=Quaternion-Algebras--John-Voight&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)**
 
-  A specialized treatment of quaternion algebras, quadratic forms, involutions, arithmetic structures, and related algebraic methods.
+A specialized treatment of quaternion algebras, quadratic forms, involutions, arithmetic structures, and related algebraic methods.
+
+---
 
 ### 3. 🔷 Algebraic, Geometric & Topological Structures
 
-*Resources connecting abstract algebra with geometry, topology, number theory, mathematical logic, and advanced algebraic structures.*
+Resources connecting abstract algebra with geometry, topology, number theory, mathematical logic, and advanced algebraic structures.
 
-- 📖 **[Algebraic Topology](https://freemathematicsbooks.com/B.aspx?FileName=Algebraic-Topology--Allen-Hatcher&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)** — *by Allen Hatcher*
+- 📖 **[Algebraic Topology — Allen Hatcher](https://freemathematicsbooks.com/B.aspx?FileName=Algebraic-Topology--Allen-Hatcher&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)**
 
-  Covers fundamental groups, covering spaces, homology, cohomology, homotopy theory, and fiber bundles.
+Covers fundamental groups, covering spaces, homology, cohomology, homotopy theory, and fiber bundles.
 
-- 📖 **[Number Theory and Geometry](https://freemathematicsbooks.com/B.aspx?FileName=Number-Theory-Geometry--Alvaro-Lozano-robledo&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)** — *by Alvaro Lozano-Robledo*
+- 📖 **[Number Theory and Geometry — Alvaro Lozano-Robledo](https://freemathematicsbooks.com/B.aspx?FileName=Number-Theory-Geometry--Alvaro-Lozano-robledo&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)**
 
-  Explores connections between number theory and geometry through integers, polynomial equations, groups, rings, fields, congruences, and Diophantine problems.
+Explores connections between number theory and geometry through integers, polynomial equations, groups, rings, fields, congruences, and Diophantine problems.
 
-- 📖 **[Model Theory, Algebra, and Geometry](https://freemathematicsbooks.com/B.aspx?FileName=Model-Theory-Algebra-Geometry--Deirdre-Haskell&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)** — *by Deirdre Haskell*
+- 📖 **[Model Theory, Algebra, and Geometry — Deirdre Haskell](https://freemathematicsbooks.com/B.aspx?FileName=Model-Theory-Algebra-Geometry--Deirdre-Haskell&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)**
 
-  Explores model theory, algebraic structures, fields, real geometry, differential fields, and connections between mathematical logic and algebraic geometry.
+Explores model theory, algebraic structures, fields, real geometry, differential fields, and connections between mathematical logic and algebraic geometry.
 
-- 📖 **[Topological Groups: Yesterday, Today, Tomorrow](https://freemathematicsbooks.com/B.aspx?FileName=Topological-Groups--Sidney-Morris&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)** — *by Sidney Morris*
+- 📖 **[Topological Groups: Yesterday, Today, Tomorrow — Sidney Morris](https://freemathematicsbooks.com/B.aspx?FileName=Topological-Groups--Sidney-Morris&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)**
 
-  Surveys topological groups, Pro-Lie groups, non-Abelian structures, and important developments in algebra and topology.
+Surveys topological groups, Pro-Lie groups, non-Abelian structures, and important developments in algebra and topology.
+
+---
 
 ### 4. 💻 Computational, Categorical & Specialized Algebraic Resources
 
-*Additional resources covering computational algebra, category theory, abstract mathematical foundations, and specialized algebraic extensions.*
+Additional resources covering computational algebra, category theory, abstract mathematical foundations, and specialized algebraic extensions.
 
-- 📖 **[Basic Category Theory](https://freemathematicsbooks.com/B.aspx?FileName=Basic-Category-Theory--Tom-Leinster&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)** — *by Tom Leinster*
+- 📖 **[Basic Category Theory — Tom Leinster](https://freemathematicsbooks.com/B.aspx?FileName=Basic-Category-Theory--Tom-Leinster&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)**
 
-  Introduces categories, functors, natural transformations, adjoints, representable functors, and limits.
+Introduces categories, functors, natural transformations, adjoints, representable functors, and limits.
 
-- 📖 **[Linear Algebra: Introduction to Abstract Math](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Intro-Abstract-Math--Isaiah-Lankham&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)** — *by Isaiah Lankham*
+- 📖 **[Linear Algebra: Introduction to Abstract Math — Isaiah Lankham](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Intro-Abstract-Math--Isaiah-Lankham&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)**
 
-  Provides a proof-oriented introduction to vector spaces, linear transformations, eigenvalues, determinants, and abstract mathematical reasoning.
+Provides a proof-oriented introduction to vector spaces, linear transformations, eigenvalues, determinants, and abstract mathematical reasoning.
 
-- 📖 **[Super Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Super-Linear-Algebra--Vasantha-Kandasamy&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)** — *by Kandasamy & Smarandache*
+- 📖 **[Super Linear Algebra — Kandasamy & Smarandache](https://freemathematicsbooks.com/B.aspx?FileName=Super-Linear-Algebra--Vasantha-Kandasamy&utm_source=github&utm_medium=referral&utm_campaign=Abstract-Algebra&utm_content=book-catalogue)**
 
-  Explores super vector spaces, super inner product superspaces, super linear transformations, and specialized algebraic structures.
+Explores super vector spaces, super inner product superspaces, super linear transformations, and specialized algebraic structures.
+
+---
+
+## 📖 How to Choose a Resource
+
+- **Transition to Proofs & Beginners:** Start with *Linear Algebra: Introduction to Abstract Math* by Isaiah Lankham to build proof-writing fluency before diving into abstract structures.
+- **Undergraduate Abstract Algebra:** Use *Abstract Algebra: Theory and Applications* by Thomas W. Judson or *Algebra: Abstract and Concrete* by Frederick M. Goodman for groups, rings, fields, and symmetries.
+- **Computational & Algorithmic Algebra:** Explore *Algebra: A Computational Introduction* by John Scherk for concrete polynomial rings, congruences, and Galois computations.
+- **Graduate Algebra & Galois Theory:** Study *Abstract Algebra: The Basic Graduate Year* by Robert B. Ash, Emil Artin's *Lecture on Galois Theory*, or *Quaternion Algebras* by John Voight.
+- **Algebraic Topology, Category Theory & Interdisciplinary Study:** Turn to *Algebraic Topology* by Allen Hatcher, *Basic Category Theory* by Tom Leinster, or *Number Theory and Geometry* by Alvaro Lozano-Robledo.
+
+---
+
+## 📚 Topics Covered
+
+This collection includes resources covering the following topics:
+
+- Groups, Cyclic Groups, Permutation Groups, and Group Actions
+- Homomorphisms, Isomorphism Theorems, and Symmetry Groups
+- Rings, Ideals, Polynomial Rings, and Factorization
+- Fields, Field Extensions, Splitting Fields, and Galois Theory
+- Modules, Homological Algebra, and Noncommutative Quaternion Algebras
+- Algebraic Topology, Fundamental Groups, Homology, and Cohomology
+- Category Theory, Functors, Natural Transformations, and Adjoints
+- Topological Groups, Model Theory, and Algebraic Number Theory
 
 ---
 
 ## 📋 Book Selection & Verification
 
-Resources in this repository are organized according to their primary mathematical subject and educational purpose.
+Resources in this catalogue are organized according to their primary mathematical subject and educational purpose.
 
 The following considerations guide the organization of this collection:
 
@@ -118,23 +148,6 @@ The following considerations guide the organization of this collection:
 - **Resource Accessibility:** Links lead to the corresponding book information pages, where availability and access details can be checked.
 - **Subject Classification:** Resources are grouped by their primary mathematical focus to make browsing easier.
 - **Link Maintenance:** Broken or outdated links and bibliographic corrections can be reported through GitHub Issues.
-
----
-
-## 📁 Repository Organization
-
-This repository focuses on the following mathematical areas:
-
-- Abstract Algebra
-- Group Theory
-- Ring and Field Theory
-- Galois Theory
-- Algebraic Structures
-- Algebraic Topology
-- Category Theory
-- Related Mathematical Foundations
-
-These topics provide a guide to the subject coverage of the collection; they do not represent additional GitHub folders.
 
 ---
 
@@ -167,5 +180,9 @@ Please ensure that suggested materials are freely accessible and that any shared
 ---
 
 ## 🌐 Explore More Mathematics Resources
+
+**GitHub Collection:** [Free Math Books Repository](https://github.com/FreeMathBooks/free-math-books-collection)
+
+**Substack Publication:** [Free Mathematics Books](https://freemathematicsbooks.substack.com/)
 
 Discover additional free textbooks and educational materials through **[Free Mathematics Books](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=repository-footer)**.
