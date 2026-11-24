@@ -2,7 +2,7 @@
 
 ![Linear-Algebra Image](/Books/Linear-Algebra.jpg)
 
-Welcome to the Free Linear Algebra Books Repository!
+Welcome to the **Linear Algebra Collection** by Free Mathematics Books.
 
 This repository maintains a curated catalogue of freely accessible Linear Algebra textbooks, lecture notes, and supplementary mathematical resources.
 
@@ -29,53 +29,135 @@ The following directories organize resources by their primary mathematical subje
 
 ---
 
-## 📚 Curated Linear Algebra Book Catalogue
+## 📖 Curated Linear Algebra Book Catalogue
 
 The following textbooks and supplementary mathematical resources are organized into four groups according to their primary mathematical subject, theoretical focus, and practical applications.
 
 ### 1. 📘 Introductory & Core Linear Algebra
 
-*Foundational textbooks introducing vectors, matrices, linear equations, vector spaces, and fundamental concepts of linear algebra.*
+Foundational textbooks introducing vectors, matrices, linear equations, vector spaces, and fundamental concepts of linear algebra.
 
-- 📖 **[A Quick Steep Climb Up Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=A-Quick-Linear-Algebra--Stephen-Davies&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)** — *by Stephen Davies*
-- 📖 **[Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra--David-Cherney&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)** — *by David Cherney, Denton & Waldron*
-- 📖 **[Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra--Wikibooks&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)** — *by Wikibooks*
-- 📖 **[Tea Time Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Tea-Time-Linear-Algebra--Leon-Brin&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)** — *by Leon Q. Brin*
+- 📖 **[A Quick Steep Climb Up Linear Algebra — Stephen Davies](https://freemathematicsbooks.com/B.aspx?FileName=A-Quick-Linear-Algebra--Stephen-Davies&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)**
+
+A concise, fast-paced introduction covering vectors, matrices, linear transformations, determinants, eigenvalues, and core linear algebra concepts.
+
+- 📖 **[Linear Algebra — David Cherney, Denton & Waldron](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra--David-Cherney&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)**
+
+An accessible undergraduate textbook introducing vector spaces, linear maps, matrices, determinants, diagonalization, and inner products.
+
+- 📖 **[Linear Algebra — Wikibooks](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra--Wikibooks&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)**
+
+An open-content textbook covering linear systems, vector spaces, linear transformations, eigenvalues, and worked exercises for self-study.
+
+- 📖 **[Tea Time Linear Algebra — Leon Q. Brin](https://freemathematicsbooks.com/B.aspx?FileName=Tea-Time-Linear-Algebra--Leon-Brin&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)**
+
+A clear, student-friendly text developing Gaussian elimination, matrix algebra, vector spaces, orthogonality, and spectral concepts.
+
+---
 
 ### 2. 📚 Advanced & Theoretical Linear Algebra
 
-*Advanced resources covering abstract linear algebra, theoretical foundations, exterior products, and more sophisticated algebraic structures.*
+Advanced resources covering abstract linear algebra, theoretical foundations, exterior products, and more sophisticated algebraic structures.
 
-- 📖 **[Advanced Linear Algebra: Foundations to Frontiers](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Linear-Algebra--Robert-Geijn&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)** — *by Robert Geijn*
-- 📖 **[Linear Algebra Done Right](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Done-Right--Sheldon-Axler&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)** — *by Sheldon Axler*
-- 📖 **[Linear Algebra via Exterior Products](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-exterior--Sergei-Winitzki&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)** — *by Sergei Winitzki*
+- 📖 **[Advanced Linear Algebra: Foundations to Frontiers — Robert Geijn](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Linear-Algebra--Robert-Geijn&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)**
+
+Bridges theoretical linear algebra with high-performance matrix decompositions, singular value decomposition, and modern numerical foundations.
+
+- 📖 **[Linear Algebra Done Right — Sheldon Axler](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Done-Right--Sheldon-Axler&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)**
+
+A celebrated proof-oriented textbook focusing on abstract vector spaces, linear operators, eigenvalues, and inner product spaces without heavy reliance on determinants.
+
+- 📖 **[Linear Algebra via Exterior Products — Sergei Winitzki](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-exterior--Sergei-Winitzki&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)**
+
+Presents coordinate-free linear algebra using exterior algebra, multilinear maps, determinants, and canonical forms.
+
+---
 
 ### 3. 💻 Computational & Numerical Linear Algebra
 
-*Resources covering computational algorithms, numerical methods, matrix computations, and applications of linear algebra in computer science and machine learning.*
+Resources covering computational algorithms, numerical methods, matrix computations, and applications of linear algebra in computer science and machine learning.
 
-- 📖 **[Applied & Computational Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Computational-Linear-Algebra--Charles-Byrne&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)** — *by Charles Byrne*
-- 📖 **[Computational Methods of Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Computational-Methods-Linear-Algebra--V-Faddeeva&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)** — *by V. N. Faddeeva*
-- 📖 **[Linear Algebra for Computer Vision & ML](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Computer-Machine-Learning--Jean-Gallier&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)** — *by Jean Gallier*
-- 📖 **[Notes for Computational Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Notes-Computational-Linear-Algebra--Jessy-Grizzle&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)** — *by Jessy Grizzle*
-- 📖 **[Numerical Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Numerical-Linear-Algebra--Pavel-Cizek&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)** — *by Pavel Cížek & Lenka Cížková*
+- 📖 **[Applied & Computational Linear Algebra — Charles Byrne](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Computational-Linear-Algebra--Charles-Byrne&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)**
+
+Explores matrix factorizations, iterative methods, least-squares approximations, and applied computational linear algebra.
+
+- 📖 **[Computational Methods of Linear Algebra — V. N. Faddeeva](https://freemathematicsbooks.com/B.aspx?FileName=Computational-Methods-Linear-Algebra--V-Faddeeva&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)**
+
+A classic reference detailing numerical algorithms for solving linear systems, matrix inversion, and computing eigenvalues.
+
+- 📖 **[Linear Algebra for Computer Vision & ML — Jean Gallier](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Computer-Machine-Learning--Jean-Gallier&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)**
+
+Connects matrix decompositions, singular value decomposition, optimization, and geometric transformations to computer vision and machine learning.
+
+- 📖 **[Notes for Computational Linear Algebra — Jessy Grizzle](https://freemathematicsbooks.com/B.aspx?FileName=Notes-Computational-Linear-Algebra--Jessy-Grizzle&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)**
+
+Structured lecture notes covering numerical matrix computations, QR factorization, least squares, and algorithmic stability.
+
+- 📖 **[Numerical Linear Algebra — Pavel Cížek & Lenka Cížková](https://freemathematicsbooks.com/B.aspx?FileName=Numerical-Linear-Algebra--Pavel-Cizek&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)**
+
+Covers direct and iterative solvers, matrix conditioning, eigenvalue algorithms, and numerical matrix analysis.
+
+---
 
 ### 4. ⚙️ Applied & Specialized Linear Algebra
 
-*Resources exploring practical applications in engineering, physics, econometrics, specialized algebraic systems, and matrix-based mathematical methods.*
+Resources exploring practical applications in engineering, physics, econometrics, specialized algebraic systems, and matrix-based mathematical methods.
 
-- 📖 **[Linear Algebra for Physicists & Engineers](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Physicists-Engineers--Arak-Mathai&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)** — *by Arak Mathai*
-- 📖 **[Linear Algebra with Applications](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-App--Keith-Nicholson&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)** — *by Keith Nicholson*
-- 📖 **[Some Linear Algebra for Econometrics](https://freemathematicsbooks.com/B.aspx?FileName=Some-Linear-Algebra-Econometrics--Frank-Pinter&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)** — *by Frank Pinter*
-- 📖 **[Super Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Super-Linear-Algebra--Vasantha-Kandasamy&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)** — *by Kandasamy & Smarandache*
-- 📖 **[Special Set Linear Algebra and Special Set Fuzzy Linear](https://freemathematicsbooks.com/B.aspx?FileName=Special-Set-Linear-Algebra--Vasantha-Kandasamy&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)** — *by V. Kandasamy*
-- 📖 **[Super Special Codes Using Super Matrices](https://freemathematicsbooks.com/B.aspx?FileName=Super-Special-Matrices--Vasantha-Kandasamy&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)** — *by Kandasamy & Smarandache*
+- 📖 **[Linear Algebra for Physicists & Engineers — Arak Mathai](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Physicists-Engineers--Arak-Mathai&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)**
+
+Develops vector spaces, quadratic forms, spectral decompositions, and matrix tools tailored to physics and engineering.
+
+- 📖 **[Linear Algebra with Applications — Keith Nicholson](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-App--Keith-Nicholson&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)**
+
+A comprehensive textbook blending core linear algebra theory with real-world applications in networks, differential equations, and geometry.
+
+- 📖 **[Some Linear Algebra for Econometrics — Frank Pinter](https://freemathematicsbooks.com/B.aspx?FileName=Some-Linear-Algebra-Econometrics--Frank-Pinter&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)**
+
+Focuses on matrix differentiation, partitioned matrices, projections, and quadratic forms used in econometric modeling.
+
+- 📖 **[Super Linear Algebra — Kandasamy & Smarandache](https://freemathematicsbooks.com/B.aspx?FileName=Super-Linear-Algebra--Vasantha-Kandasamy&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)**
+
+Introduces generalized super vector spaces, super matrices, and algebraic extensions for specialized mathematical modeling.
+
+- 📖 **[Special Set Linear Algebra and Special Set Fuzzy Linear — V. Kandasamy](https://freemathematicsbooks.com/B.aspx?FileName=Special-Set-Linear-Algebra--Vasantha-Kandasamy&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)**
+
+Explores special set structures and fuzzy linear algebraic systems for uncertain and multi-valued environments.
+
+- 📖 **[Super Special Codes Using Super Matrices — Kandasamy & Smarandache](https://freemathematicsbooks.com/B.aspx?FileName=Super-Special-Matrices--Vasantha-Kandasamy&utm_source=github&utm_medium=referral&utm_campaign=Linear-Algebra&utm_content=book-catalogue)**
+
+Examines applications of super matrices in coding theory, error-correcting codes, and algebraic structures.
+
+---
+
+## 📖 How to Choose a Resource
+
+- **Beginners & Undergraduate Students:** Start with *Linear Algebra* by David Cherney et al., *Tea Time Linear Algebra* by Leon Q. Brin, or *Linear Algebra with Applications* by Keith Nicholson for clear foundational concepts and worked examples.
+- **Proof-Based & Theoretical Study:** Choose *Linear Algebra Done Right* by Sheldon Axler or *Linear Algebra via Exterior Products* by Sergei Winitzki for rigorous, abstract vector space theory.
+- **Computer Science, Data Science & Machine Learning:** Use *Linear Algebra for Computer Vision & ML* by Jean Gallier, *Advanced Linear Algebra: Foundations to Frontiers* by Robert Geijn, or *Notes for Computational Linear Algebra* by Jessy Grizzle.
+- **Physics, Engineering & Econometrics:** Explore *Linear Algebra for Physicists & Engineers* by Arak Mathai or *Some Linear Algebra for Econometrics* by Frank Pinter for domain-specific matrix tools.
+
+---
+
+## 📚 Topics Covered
+
+This collection includes resources covering the following topics:
+
+- Systems of Linear Equations and Gaussian Elimination
+- Matrices, Matrix Operations, and Determinants
+- Vector Spaces, Subspaces, Basis, and Dimension
+- Linear Transformations and Kernel/Range Spaces
+- Eigenvalues, Eigenvectors, and Diagonalization
+- Inner Product Spaces, Orthogonality, and Gram–Schmidt Process
+- Singular Value Decomposition (SVD) and QR Factorization
+- Exterior Algebra and Coordinate-Free Linear Maps
+- Numerical Matrix Computations and Iterative Solvers
+- Applications in Machine Learning, Physics, Engineering, Econometrics, and Coding Theory
 
 ---
 
 ## 📋 Book Selection & Verification
 
-Resources in this repository are organized according to their primary mathematical subject and educational purpose.
+Resources in this catalogue are organized according to their primary mathematical subject and educational purpose.
 
 The following considerations guide the organization of this collection:
 
@@ -91,8 +173,8 @@ The following considerations guide the organization of this collection:
 
 The repository contains subject-specific directories for further exploration:
 
-- Introductory Linear Algebra
-- Matrix Algebra
+- [Introductory Linear Algebra](./Linear-Algebra-Introduction)
+- [Matrix Algebra](./Matrix-Algebra)
 
 Each directory contains additional book listings and related resources for its respective subject.
 
@@ -127,5 +209,9 @@ Please ensure that suggested materials are freely accessible and that any shared
 ---
 
 ## 🌐 Explore More Mathematics Resources
+
+**GitHub Collection:** [Free Math Books Repository](https://github.com/FreeMathBooks/free-math-books-collection)
+
+**Substack Publication:** [Free Mathematics Books](https://freemathematicsbooks.substack.com/)
 
 Discover additional free textbooks and educational materials through **[Free Mathematics Books](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=repository-footer)**.
