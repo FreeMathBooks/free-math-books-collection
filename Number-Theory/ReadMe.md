@@ -1,167 +1,170 @@
-# 📘 Free Number Theory Books & Textbook Repository
+# 📚 Free Number Theory Books & Textbook Repository
 
 ![Number-Theory Image](/Books/Number-Theory.jpg)
 
 Welcome to the **Number Theory Collection** by Free Mathematics Books.
 
-This repository provides a curated selection of free number theory textbooks and educational resources for students, independent learners, instructors, and researchers.
+This repository maintains a curated catalogue of freely accessible number theory textbooks, lecture notes, and supplementary educational resources for students, independent learners, instructors, and researchers.
 
 The collection covers elementary number theory, divisibility, prime numbers, congruences, computational number theory, cryptology, elliptic curves, analytic number theory, and classical mathematical topics.
 
-🌐 **Explore the complete collection:**  
-[Free Number Theory Books](https://freemathematicsbooks.com/A.aspx?Id=Number-Theory&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=introduction)
+Resources are organized into subject-based groups to help readers find relevant mathematical and computer science references.
+
+Each book entry includes its title, author information, and a link to its corresponding resource page.
+
+This repository also welcomes suggestions, corrections, and contributions that help improve the accuracy and usefulness of the collection.
+
+📖 **[Explore the Complete Free Number Theory Collection](https://freemathematicsbooks.com/A.aspx?Id=Number-Theory&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=introduction)**
 
 ---
 
-## 📚 Collection Overview
-
-The books are organized into four groups to help readers find resources according to their mathematical background and interests.
-
-| Group | Topic | Books |
-|---|---|---:|
-| 1 | Foundations & Introductory Number Theory | 3 |
-| 2 | Computational Number Theory & Cryptography | 2 |
-| 3 | Elliptic Curves & Modular Arithmetic | 1 |
-| 4 | Classical, Analytic & Recreational Number Theory | 3 |
-| **Total** | | **9** |
-
----
-
-## 📂 Browse Related Mathematics Collections
+## 📂 Explore Related Mathematics Collections
 
 Number Theory connects naturally with several other areas of mathematics. Explore these related collections for additional textbooks and learning resources.
 
-| Related Collection | GitHub Repository | Online Library |
-|---|---|---|
-| Abstract Algebra | [Browse Abstract Algebra](../Abstract-Algebra/) | [Free Abstract Algebra Books](https://freemathematicsbooks.com/A.aspx?Id=Abstract-Algebra&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=related-collections) |
-| Discrete Mathematics | [Browse Discrete Mathematics](../Discrete-Mathematics/) | [Free Discrete Mathematics Books](https://freemathematicsbooks.com/A.aspx?Id=Discrete-Mathematics&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=related-collections) |
-| Mathematical Analysis | [Browse Mathematical Analysis](../Mathematical-Analysis/) | [Free Mathematical Analysis Books](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Analysis&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=related-collections) |
-| Geometry & Topology | [Browse Geometry & Topology](../Geometry-Topology/) | [Free Geometry Books](https://freemathematicsbooks.com/A.aspx?Id=Geometry&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=related-collections) |
-| Applied Mathematics | [Browse Applied Mathematics](../Applied-Mathematics/) | [Free Applied Mathematics Books](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=related-collections) |
+| Related Subject | 📚 Online Collection | 📁 GitHub Folder |
+| :--- | :--- | :--- |
+| **Abstract Algebra** | [Explore Books](https://freemathematicsbooks.com/A.aspx?Id=Abstract-Algebra&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=related-collections) | [Browse Folder](../Abstract-Algebra/) |
+| **Discrete Mathematics** | [Explore Books](https://freemathematicsbooks.com/A.aspx?Id=Discrete-Mathematics&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=related-collections) | [Browse Folder](../Discrete-Mathematics/) |
+| **Mathematical Analysis** | [Explore Books](https://freemathematicsbooks.com/A.aspx?Id=Mathematical-Analysis&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=related-collections) | [Browse Folder](../Mathematical-Analysis/) |
+| **Geometry & Topology** | [Explore Books](https://freemathematicsbooks.com/A.aspx?Id=Geometry&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=related-collections) | [Browse Folder](../Geometry-Topology/) |
+| **Applied Mathematics** | [Explore Books](https://freemathematicsbooks.com/A.aspx?Id=Applied-Mathematics&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=related-collections) | [Browse Folder](../Applied-Mathematics/) |
 
 ---
 
 ## 📖 Curated Number Theory Books
 
-### 1. Foundations & Introductory Number Theory
+The following textbooks and supplementary resources are organized into four groups according to their primary mathematical subject, theoretical focus, and educational purpose.
+
+### 1. 📘 Foundations & Introductory Number Theory
 
 Books introducing the fundamental concepts of number theory, including integers, prime numbers, divisibility, congruences, and elementary proofs.
 
-**1. [A Friendly Introduction to Number Theory — Joseph H. Silverman](https://freemathematicsbooks.com/B.aspx?FileName=A-Friendly-Intro-Number-Theory--Joseph-Silverman&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=book-catalogue)**
+- 📖 **[A Friendly Introduction to Number Theory — Joseph H. Silverman](https://freemathematicsbooks.com/B.aspx?FileName=A-Friendly-Intro-Number-Theory--Joseph-Silverman&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=book-catalogue)**
 
 An accessible introduction to number theory covering divisibility, modular arithmetic, quadratic reciprocity, Fermat's Little Theorem, elliptic curves, and public-key cryptography.
 
-**2. [Elementary Number Theory — William Stein](https://freemathematicsbooks.com/B.aspx?FileName=Elementary-Number-Theory--William-Stein&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=book-catalogue)**
+- 📖 **[Elementary Number Theory — William Stein](https://freemathematicsbooks.com/B.aspx?FileName=Elementary-Number-Theory--William-Stein&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=book-catalogue)**
 
 Introduces prime numbers, modular arithmetic, quadratic reciprocity, continued fractions, elliptic curves, and applications to public-key cryptography, with computational examples.
 
-**3. [Number Theory: In Context and Interactive — Karl-Dieter Crisman](https://freemathematicsbooks.com/B.aspx?FileName=Number-Theory-Context-Interactive--Karl-Crisman&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=book-catalogue)**
+- 📖 **[Number Theory: In Context and Interactive — Karl-Dieter Crisman](https://freemathematicsbooks.com/B.aspx?FileName=Number-Theory-Context-Interactive--Karl-Crisman&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=book-catalogue)**
 
 An interactive textbook connecting elementary number theory with historical context and computational methods. Topics include congruences, prime numbers, Euler's function, primitive roots, cryptography, and quadratic reciprocity.
 
 ---
 
-### 2. Computational Number Theory & Cryptography
+### 2. 💻 Computational Number Theory & Cryptography
 
 Resources exploring the algorithmic side of number theory, computational methods, modular arithmetic, and cryptographic applications.
 
-**4. [A Computational Number Theory & Algebra — Victor Shoup](https://freemathematicsbooks.com/B.aspx?FileName=Comp-Number-Theory-Algebra--Victor-Shoup&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=book-catalogue)**
+- 📖 **[A Computational Number Theory & Algebra — Victor Shoup](https://freemathematicsbooks.com/B.aspx?FileName=Comp-Number-Theory-Algebra--Victor-Shoup&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=book-catalogue)**
 
 A comprehensive computational introduction covering integer arithmetic, congruences, prime distribution, probabilistic algorithms, finite fields, discrete logarithms, and algebraic structures.
 
-**5. [Introductory Number Theory Textbook (Cryptology) — Jonathan Poritz](https://freemathematicsbooks.com/B.aspx?FileName=Intro-Number-Theory-Cryptology--Jonathan-Poritz&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=book-catalogue)**
+- 📖 **[Introductory Number Theory Textbook (Cryptology) — Jonathan Poritz](https://freemathematicsbooks.com/B.aspx?FileName=Intro-Number-Theory-Cryptology--Jonathan-Poritz&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=book-catalogue)**
 
 Introduces well-ordering, division, congruences, prime numbers, cryptology, and discrete logarithms, connecting fundamental number theory with modern digital security.
 
 ---
 
-### 3. Elliptic Curves & Modular Arithmetic
+### 3. 📈 Elliptic Curves & Modular Arithmetic
 
 A specialized resource for readers interested in computational techniques involving modular forms, modular symbols, and elliptic curves.
 
-**6. [Algorithms for Modular Elliptic Curves — John E. Cremona](https://freemathematicsbooks.com/B.aspx?FileName=Algorithms-Modular-Elliptic-Curves--JE-Cremona&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=book-catalogue)**
+- 📖 **[Algorithms for Modular Elliptic Curves — John E. Cremona](https://freemathematicsbooks.com/B.aspx?FileName=Algorithms-Modular-Elliptic-Curves--JE-Cremona&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=book-catalogue)**
 
 A computational reference covering modular forms, modular symbols, Hecke operators, L-series, and algorithms for constructing and studying elliptic curves.
 
 ---
 
-### 4. Classical, Analytic & Recreational Number Theory
+### 4. 📚 Classical, Analytic & Recreational Number Theory
 
 Classical works and specialized resources exploring number systems, analytic methods, infinite series, and mathematical patterns.
 
-**7. [Essays on the Theory of Numbers — Richard Dedekind](https://freemathematicsbooks.com/B.aspx?FileName=Essays-Theory-Numbers--Richard-Dedekind&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=book-catalogue)**
+- 📖 **[Essays on the Theory of Numbers — Richard Dedekind](https://freemathematicsbooks.com/B.aspx?FileName=Essays-Theory-Numbers--Richard-Dedekind&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=book-catalogue)**
 
 A foundational mathematical work discussing rational and irrational numbers, continuity, real numbers, infinite systems, and the foundations of number systems.
 
-**8. [The General Theory of Dirichlet's Series — G. H. Hardy & Marcel Riesz](https://freemathematicsbooks.com/B.aspx?FileName=General-Theory-Dirichlet-Series--GH-Hardy&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=book-catalogue)**
+- 📖 **[The General Theory of Dirichlet's Series — G. H. Hardy & Marcel Riesz](https://freemathematicsbooks.com/B.aspx?FileName=General-Theory-Dirichlet-Series--GH-Hardy&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=book-catalogue)**
 
 A classical reference in analytic number theory, covering Dirichlet series, convergence, summation methods, and Abelian and Tauberian theorems.
 
-**9. [Magic Squares and Cubes — William Symes Andrews](https://freemathematicsbooks.com/B.aspx?FileName=Magic-Squares-Cubes--Andrews-Symes&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=book-catalogue)**
+- 📖 **[Magic Squares and Cubes — William Symes Andrews](https://freemathematicsbooks.com/B.aspx?FileName=Magic-Squares-Cubes--Andrews-Symes&utm_source=github&utm_medium=referral&utm_campaign=Number-Theory&utm_content=book-catalogue)**
 
 A classic exploration of magic squares and magic cubes, including their mathematical properties, numerical patterns, construction methods, and recreational applications.
 
 ---
 
-## 🎯 How to Use This Collection
+## 📖 How to Choose a Resource
 
-You can use these resources in different ways depending on your mathematical background:
-
-- **Beginners:** Start with an introductory textbook to learn divisibility, prime numbers, and modular arithmetic.
-- **Undergraduate Students:** Explore elementary number theory, quadratic reciprocity, and computational examples.
-- **Computer Science Students:** Study computational number theory and cryptology to understand the mathematical foundations of encryption.
-- **Advanced Students:** Explore elliptic curves, modular forms, and analytic number theory.
-- **Independent Learners:** Use the classical and interactive resources to explore mathematical ideas beyond a standard course.
+- **Beginners & Undergraduate Foundations:** Start with *A Friendly Introduction to Number Theory* by Joseph H. Silverman, *Elementary Number Theory* by William Stein, or *Number Theory: In Context and Interactive* by Karl-Dieter Crisman.
+- **Computational Number Theory & Cryptography:** Choose *A Computational Number Theory & Algebra* by Victor Shoup or *Introductory Number Theory Textbook (Cryptology)* by Jonathan Poritz for algorithms, finite fields, and encryption foundations.
+- **Elliptic Curves & Modular Forms:** Use *Algorithms for Modular Elliptic Curves* by John E. Cremona for modular symbols, Hecke operators, and elliptic curve computations.
+- **Analytic Foundations & Recreational Number Theory:** Explore *Essays on the Theory of Numbers* by Richard Dedekind, *The General Theory of Dirichlet's Series* by Hardy & Riesz, or *Magic Squares and Cubes* by William Symes Andrews.
 
 ---
 
-## ✅ Book Selection & Organization
+## 📚 Topics Covered
 
-This collection is organized around books that provide useful introductions, explanations, mathematical theory, or specialized treatments of number theory.
+This collection includes resources covering the following topics:
 
-The repository groups resources by subject area to make it easier to identify books suited to different learning goals.
-
-Book descriptions are provided for navigation. Please visit each book's detail page to check its available reading or download options and any applicable access or licensing conditions.
-
----
-
-## 🤝 Contributions
-
-Contributions that improve this collection are welcome.
-
-You can help by:
-
-- Suggesting additional free number theory textbooks.
-- Reporting broken or outdated links.
-- Correcting book titles, author details, or descriptions.
-- Improving the organization and documentation.
-- Submitting a pull request with relevant updates.
-
-Please ensure that suggested resources are freely accessible or clearly identify their access and licensing conditions.
+- Divisibility, Prime Numbers, Congruences, and Quadratic Reciprocity
+- Euler's Function, Primitive Roots, and Continued Fractions
+- Modular Arithmetic, Finite Fields, and Discrete Logarithms
+- Computational Number Theory, Probabilistic Algorithms, and Cryptology
+- Elliptic Curves, Modular Forms, Modular Symbols, and Hecke Operators
+- Foundations of Real and Irrational Numbers and Dirichlet Series
+- Magic Squares, Magic Cubes, and Numerical Patterns
 
 ---
 
-## 🧭 Repository Navigation
+## 📋 Book Selection & Verification
 
-- [🏠 Main Repository](../)
-- [📘 Abstract Algebra](../Abstract-Algebra/)
-- [📐 Discrete Mathematics](../Discrete-Mathematics/)
-- [📊 Mathematical Analysis](../Mathematical-Analysis/)
-- [🔷 Geometry & Topology](../Geometry-Topology/)
-- [🧮 Applied Mathematics](../Applied-Mathematics/)
+Resources in this catalogue are organized according to their primary subject and educational purpose.
+
+The following considerations guide the organization of this collection:
+
+- **Subject Relevance:** Books are included according to their coverage of number theory, cryptography, elliptic curves, analytic number theory, or closely related mathematical topics.
+- **Bibliographic Information:** Book titles and author details are provided to help readers identify the resources.
+- **Resource Accessibility:** Links lead to the corresponding book information pages, where availability and access details can be checked.
+- **Subject Classification:** Resources are grouped by their primary educational focus to make browsing easier.
+- **Link Maintenance:** Broken or outdated links and bibliographic corrections can be reported through GitHub Issues.
 
 ---
 
-## 🌐 Explore More Free Mathematics Resources
+## 🤝 Contributing to This Repository
 
-Explore the complete collection of freely accessible mathematics textbooks and educational resources at:
+Suggestions and contributions are welcome!
 
-**[Free Mathematics Books](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=repository-footer)**
+You can help improve this collection by:
+
+1. Suggesting freely accessible Number Theory textbooks and learning materials.
+2. Reporting broken or outdated book links.
+3. Correcting book titles, author names, or bibliographic information.
+4. Recommending useful resources covering elementary, computational, elliptic, or analytic number theory.
+5. Improving the organization and documentation of the repository.
+
+**How to contribute:**
+
+- Open a GitHub Issue to report a problem or suggest a resource.
+- Submit a Pull Request with proposed additions or corrections.
+- Include the book title, author, and source link when recommending a resource.
+
+Please ensure that suggested materials are freely accessible and that any shared files comply with applicable copyright and licensing terms.
+
+---
+
+## 🔙 Repository Navigation
+
+- [🏠 Back to Repository Root](../)
+
+---
+
+## 🌐 Explore More Mathematics Resources
 
 **GitHub Collection:** [Free Math Books Repository](https://github.com/FreeMathBooks/free-math-books-collection)
 
 **Substack Publication:** [Free Mathematics Books](https://freemathematicsbooks.substack.com/)
 
----
-
-*Free Mathematics Books — Making mathematics textbooks and educational resources easier to discover.*
+Discover additional free textbooks and educational materials through **[Free Mathematics Books](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=repository-footer)**.
