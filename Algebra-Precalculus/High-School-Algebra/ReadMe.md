@@ -1,24 +1,24 @@
-# 📚 Free High-School Algebra Books & Textbook Repository
+# 📚 Free High School Algebra Books & Textbook Repository
 
 ![High-School-Algebra Image](/Books/High-School-Algebra.jpg)
 
-Welcome to the **High-School Algebra Collection** by Free Mathematics Books.
+Welcome to the **High School Algebra Collection** by Free Mathematics Books.
 
-This repository provides a curated selection of free High-School Algebra textbooks, problem guides, classic treatises, and supplementary resources covering beginning and intermediate algebra, functions and graphing, school and matriculation algebra, advanced high-school algebra, and worked algebraic solutions.
+This repository provides a curated selection of free High School Algebra textbooks, problem guides, classic treatises, and supplementary resources covering beginning and intermediate algebra, functions and graphing, school and matriculation algebra, advanced high school algebra, and worked algebraic solutions.
 
 Resources are organized into subject-based groups to help students, educators, researchers, and independent learners find relevant materials for coursework, problem-solving, and self-study.
 
 Each entry identifies the available book, its author, and a link to its corresponding resource page.
 
-📖 **[Explore the Complete High-School Algebra Collection](https://freemathematicsbooks.com/A.aspx?Id=High-School-Algebra&utm_source=github&utm_medium=referral&utm_campaign=High-School-Algebra&utm_content=introduction)**
+📖 **[Explore the Complete High School Algebra Collection](https://freemathematicsbooks.com/A.aspx?Id=High-School-Algebra&utm_source=github&utm_medium=referral&utm_campaign=High-School-Algebra&utm_content=introduction)**
 
 📚 **[Explore the Complete Algebra and Precalculus Collection](https://freemathematicsbooks.com/A.aspx?Id=Algebra-Precalculus&utm_source=github&utm_medium=referral&utm_campaign=Algebra-Precalculus&utm_content=introduction)**
 
 ---
 
-## 📖 Curated High-School Algebra Book Catalogue
+## 📖 Curated High School Algebra Book Catalogue
 
-The following textbooks and resources are organized into three groups according to their focus on intermediate algebra & functions/modeling, school & matriculation algebra, and advanced high-school algebra & worked solutions.
+The following textbooks and resources are organized into three groups according to their focus on intermediate algebra & functions/modeling, school & matriculation algebra, and advanced high school algebra & worked solutions.
 
 ### 1. 📘 Intermediate Algebra, Functions & Modeling
 
@@ -60,9 +60,9 @@ A comprehensive secondary algebra course covering algebraic expressions, equatio
 
 ---
 
-### 3. 📚 Advanced High-School Algebra & Worked Solutions
+### 3. 📚 Advanced High School Algebra & Worked Solutions
 
-Textbooks and exercise guides extending high-school algebra into series, combinatorics, determinants, equations, and worked problems.
+Textbooks and exercise guides extending high school algebra into series, combinatorics, determinants, equations, and worked problems.
 
 - 📖 **[Advanced Algebra — Arthur Schultze](https://freemathematicsbooks.com/B.aspx?FileName=Advanced-Algebra--Arthur-Schultze&utm_source=github&utm_medium=referral&utm_campaign=High-School-Algebra&utm_content=book-catalogue)**
 
@@ -82,7 +82,7 @@ Provides worked solutions and practice exercises across algebraic identities, eq
 
 - **Intermediate Algebra & Functions:** Start with *Beginning & Intermediate Algebra* by Tyler Wallace, *Intermediate Algebra* by Katherine Yoshiwara, *Intermediate Algebra: Keeping It Simple* by Donna Gaudet, or *Modeling, Functions, and Graphs* by Katherine Yoshiwara.
 - **School & Matriculation Courses:** Use *School Algebra* by Wentworth & Smith, *A New Algebra* by Barnard & Child, or *Matriculation Algebra* by Nibaran Gupta.
-- **Advanced High-School Algebra & Practice:** Read *Advanced Algebra* by Herbert E. Hawkes, *Advanced Algebra* by Arthur Schultze, and *Algebraic Analysis: Solutions and Exercises* by George Wentworth.
+- **Advanced High School Algebra & Practice:** Read *Advanced Algebra* by Herbert E. Hawkes, *Advanced Algebra* by Arthur Schultze, and *Algebraic Analysis: Solutions and Exercises* by George Wentworth.
 
 ---
 
@@ -110,10 +110,10 @@ Suggestions and contributions are welcome!
 
 You can help improve this collection by:
 
-1. Suggesting freely accessible High-School Algebra textbooks and learning materials.
+1. Suggesting freely accessible High School Algebra textbooks and learning materials.
 2. Reporting broken or outdated book links.
 3. Correcting book titles, author names, or bibliographic details.
-4. Recommending relevant supplementary high-school algebra resources.
+4. Recommending relevant supplementary high school algebra resources.
 5. Improving the organization and documentation of the repository.
 
 **How to contribute:**
