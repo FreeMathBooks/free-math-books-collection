@@ -133,22 +133,6 @@ The following considerations guide the organization of this collection:
 
 ---
 
-## 📁 Repository Organization
-
-The repository contains subject-specific directories for further exploration:
-
-- [Elementary Geometry](./Elementary-Geometry)
-- [Analytic Geometry](./Analytic-Geometry)
-- [Differential Geometry](./Differential-Geometry)
-- [Algebraic Geometry](./Algebraic-Geometry)
-- [Non-Euclidean Geometry](./Non-Euclidean-Geometry)
-- [Computational Geometry](./Computational-Geometry)
-- [Topology](./Topology)
-
-Each directory contains additional book listings and related resources for its respective subject.
-
----
-
 ## 🤝 Contributing to This Repository
 
 Suggestions and contributions are welcome!
