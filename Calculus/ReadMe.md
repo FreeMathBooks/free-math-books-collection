@@ -1,6 +1,6 @@
 # 📚 Free Calculus Books & Textbook Repository
 
-![Calculus Image](Books/Calculus.jpg)
+![Calculus Image](/Books/Calculus.jpg)
 
 Welcome to the **Calculus Collection** by Free Mathematics Books.
 
