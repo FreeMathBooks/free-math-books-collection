@@ -136,12 +136,6 @@ The following considerations guide the organization of this collection:
 
 ---
 
-## 📁 Repository Organization
-
-Each subject directory listed in the table above contains additional book listings and related resources for further exploration.
-
----
-
 ## 🤝 Contributing to This Repository
 
 Suggestions and contributions are welcome!
