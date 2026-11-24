@@ -75,3 +75,53 @@ Develops techniques for constructing quasi-projective moduli spaces of polarized
 This collection includes resources covering the following topics:
 
 - Affine and Projective Varieties, Ideals, Plane Curves, and Surfaces
+- Classical Algebraic Geometry, Transformations, and Modern Perspectives
+- Real Algebraic Geometry, Semialgebraic Sets, and Algorithmic Methods
+- Convex Polytopes, Fans, and Toric Varieties
+- Metric Algebraic Geometry and Euclidean Distance Degrees
+- Quasi-Projective Moduli Spaces for Polarized Manifolds
+
+---
+
+## 📋 Book Selection & Verification
+
+Resources in this catalogue are organized by subject relevance, educational level, and clear bibliographic details. Links direct readers to the corresponding resource pages on Free Mathematics Books, where access details and available formats can be reviewed.
+
+---
+
+## 🤝 Contributing to This Repository
+
+Suggestions and contributions are welcome!
+
+You can help improve this collection by:
+
+1. Suggesting freely accessible Algebraic Geometry textbooks and learning materials.
+2. Reporting broken or outdated book links.
+3. Correcting book titles, author names, or bibliographic details.
+4. Recommending relevant supplementary algebraic geometry resources.
+5. Improving the organization and documentation of the repository.
+
+**How to contribute:**
+
+- Open a GitHub Issue to report a problem or suggest a resource.
+- Submit a Pull Request with proposed additions or corrections.
+- Include the book title, author, and source link when suggesting a resource.
+
+Please ensure that submitted materials are freely accessible and that any shared files comply with applicable copyright and licensing terms.
+
+---
+
+## 🧭 Repository Navigation
+
+- [⬅️ Back to Main Geometry & Topology Category](../)
+- [🏠 Back to Home Repository](../../../../)
+
+---
+
+## 🌐 Explore More Mathematics Resources
+
+**GitHub Collection:** [Free Math Books Repository](https://github.com/FreeMathBooks/free-math-books-collection)
+
+**Substack Publication:** [Free Mathematics Books](https://freemathematicsbooks.substack.com/)
+
+Discover additional free textbooks and educational materials through **[Free Mathematics Books](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=repository-footer)**.
