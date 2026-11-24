@@ -1,11 +1,10 @@
-
-# 📚 Free Geometry & Topology Books Repository
+# 📚 Free Geometry & Topology Books & Textbook Repository
 
 ![Geometry Image](/Books/Geometry.jpg)
 
-Welcome to the Free Geometry & Topology Books Repository!
+Welcome to the **Geometry & Topology Collection** by Free Mathematics Books.
 
-This repository maintains a curated catalogue of freely accessible geometry textbooks, lecture notes, and supplementary mathematical resources covering classical geometry, geometric modeling, symplectic geometry, fractal geometry, and related mathematical subjects.
+This repository maintains a curated catalogue of freely accessible geometry and topology textbooks, lecture notes, and supplementary mathematical resources covering classical geometry, geometric modeling, symplectic geometry, fractal geometry, and related mathematical subjects.
 
 Resources are organized into subject-based categories to help students, educators, researchers, and independent learners discover relevant mathematical materials.
 
@@ -33,65 +32,96 @@ The following directories organize resources by their primary mathematical subje
 
 ---
 
-## 📚 Curated Geometry & Topology Book Catalogue
+## 📖 Curated Geometry & Topology Book Catalogue
 
 The following books and supplementary resources are organized into four groups according to their primary mathematical subject and educational focus.
 
 ### 1. 📘 Foundations & Classical Geometry
 
-*Resources covering geometric foundations, axiomatic systems, descriptive geometry, and higher-dimensional spaces.*
+Resources covering geometric foundations, axiomatic systems, descriptive geometry, and higher-dimensional spaces.
 
-- 📖 **[The Axioms of Descriptive Geometry](https://freemathematicsbooks.com/B.aspx?FileName=The-Axioms-Descriptive-Geometry--Alfred-Whitehead&utm_source=github&utm_medium=referral&utm_campaign=Geometry-Topology&utm_content=book-catalogue)** — *by Alfred North Whitehead*
+- 📖 **[The Axioms of Descriptive Geometry — Alfred North Whitehead](https://freemathematicsbooks.com/B.aspx?FileName=The-Axioms-Descriptive-Geometry--Alfred-Whitehead&utm_source=github&utm_medium=referral&utm_campaign=Geometry-Topology&utm_content=book-catalogue)**
 
-  A study of geometric axioms, projective spaces, harmonic homology, and the foundations of descriptive geometry.
+A study of geometric axioms, projective spaces, harmonic homology, and the foundations of descriptive geometry.
 
-- 📖 **[The Fourth Dimension](https://freemathematicsbooks.com/B.aspx?FileName=The-Fourth-Dimension--Charles-Hinton&utm_source=github&utm_medium=referral&utm_campaign=Geometry-Topology&utm_content=book-catalogue)** — *by Charles Howard Hinton*
+- 📖 **[The Fourth Dimension — Charles Howard Hinton](https://freemathematicsbooks.com/B.aspx?FileName=The-Fourth-Dimension--Charles-Hinton&utm_source=github&utm_medium=referral&utm_campaign=Geometry-Topology&utm_content=book-catalogue)**
 
-  Explores four-dimensional space, higher-dimensional figures, and geometric interpretations beyond three-dimensional space.
+Explores four-dimensional space, higher-dimensional figures, and geometric interpretations beyond three-dimensional space.
+
+---
 
 ### 2. 📐 Differential, Symplectic & Geometric Modeling
 
-*Specialized resources covering symplectic structures, geometric modeling, polynomial curves, and mathematical surfaces.*
+Specialized resources covering symplectic structures, geometric modeling, polynomial curves, and mathematical surfaces.
 
-- 📖 **[Lectures on Symplectic Geometry](https://freemathematicsbooks.com/B.aspx?FileName=Lectures-Symplectic-Geometry--Cannas-da-Silva&utm_source=github&utm_medium=referral&utm_campaign=Geometry-Topology&utm_content=book-catalogue)** — *by Ana Cannas da Silva*
+- 📖 **[Lectures on Symplectic Geometry — Ana Cannas da Silva](https://freemathematicsbooks.com/B.aspx?FileName=Lectures-Symplectic-Geometry--Cannas-da-Silva&utm_source=github&utm_medium=referral&utm_campaign=Geometry-Topology&utm_content=book-catalogue)**
 
-  Covers symplectic manifolds, symplectic forms, Lagrangian submanifolds, contact manifolds, and Kähler geometry.
+Covers symplectic manifolds, symplectic forms, Lagrangian submanifolds, contact manifolds, and Kähler geometry.
 
-- 📖 **[Curves and Surfaces in Geometric Modeling](https://freemathematicsbooks.com/B.aspx?FileName=Curves-Surfaces-Geometric-Modeling--Jean-Gallier&utm_source=github&utm_medium=referral&utm_campaign=Geometry-Topology&utm_content=book-catalogue)** — *by Jean Gallier*
+- 📖 **[Curves and Surfaces in Geometric Modeling — Jean Gallier](https://freemathematicsbooks.com/B.aspx?FileName=Curves-Surfaces-Geometric-Modeling--Jean-Gallier&utm_source=github&utm_medium=referral&utm_campaign=Geometry-Topology&utm_content=book-catalogue)**
 
-  Explores affine geometry, polynomial curves, Bézier curves, B-splines, and geometric surface modeling.
+Explores affine geometry, polynomial curves, Bézier curves, B-splines, and geometric surface modeling.
+
+---
 
 ### 3. 🌿 Fractal & Applied Geometry
 
-*Resources exploring fractal structures, geometric dimensions, self-similarity, and mathematical applications of fractal geometry.*
+Resources exploring fractal structures, geometric dimensions, self-similarity, and mathematical applications of fractal geometry.
 
-- 📖 **[Fractal Geometry: Mathematical Foundations and Applications](https://freemathematicsbooks.com/B.aspx?FileName=Fractal-Geometry--Kenneth-Falconer&utm_source=github&utm_medium=referral&utm_campaign=Geometry-Topology&utm_content=book-catalogue)** — *by Kenneth Falconer*
+- 📖 **[Fractal Geometry: Mathematical Foundations and Applications — Kenneth Falconer](https://freemathematicsbooks.com/B.aspx?FileName=Fractal-Geometry--Kenneth-Falconer&utm_source=github&utm_medium=referral&utm_campaign=Geometry-Topology&utm_content=book-catalogue)**
 
-  Covers Hausdorff measure, fractal dimensions, self-similar sets, iterated function systems, and applications of fractal geometry.
+Covers Hausdorff measure, fractal dimensions, self-similar sets, iterated function systems, and applications of fractal geometry.
 
-- 📖 **[The Fractal Geometry of Nature](https://freemathematicsbooks.com/B.aspx?FileName=The-Fractal-Geometry-Nature--Benoit-Mandelbrot&utm_source=github&utm_medium=referral&utm_campaign=Geometry-Topology&utm_content=book-catalogue)** — *by Benoit Mandelbrot*
+- 📖 **[The Fractal Geometry of Nature — Benoit Mandelbrot](https://freemathematicsbooks.com/B.aspx?FileName=The-Fractal-Geometry-Nature--Benoit-Mandelbrot&utm_source=github&utm_medium=referral&utm_campaign=Geometry-Topology&utm_content=book-catalogue)**
 
-  Introduces the mathematical foundations of fractal geometry, fractal computation, natural forms, and applications in computer graphics.
+Introduces the mathematical foundations of fractal geometry, fractal computation, natural forms, and applications in computer graphics.
 
-- 📖 **[The Geometry of Fractal Sets](https://freemathematicsbooks.com/B.aspx?FileName=The-Geometry-Fractal-Sets--Kenneth-Falconer&utm_source=github&utm_medium=referral&utm_campaign=Geometry-Topology&utm_content=book-catalogue)** — *by Kenneth Falconer*
+- 📖 **[The Geometry of Fractal Sets — Kenneth Falconer](https://freemathematicsbooks.com/B.aspx?FileName=The-Geometry-Fractal-Sets--Kenneth-Falconer&utm_source=github&utm_medium=referral&utm_campaign=Geometry-Topology&utm_content=book-catalogue)**
 
-  Explores Hausdorff dimension, fractal measures, projections, intersections, self-similar sets, and geometric properties of fractals.
+Explores Hausdorff dimension, fractal measures, projections, intersections, self-similar sets, and geometric properties of fractals.
+
+---
 
 ### 4. 📖 Related & Supplementary Mathematics Resources
 
-*Additional resources covering mathematical history, geometry education, and broader mathematical perspectives.*
+Additional resources covering mathematical history, geometry education, and broader mathematical perspectives.
 
 **Mathematical History & Education**
 
-- 📖 **[The Legacy of Felix Klein](https://freemathematicsbooks.com/B.aspx?FileName=The-Legacy-Felix-Klein--Hans-Georg-Weigand&utm_source=github&utm_medium=referral&utm_campaign=Geometry-Topology&utm_content=book-catalogue)** — *by Hans-Georg Weigand, Neil McCallum & Menghini*
+- 📖 **[The Legacy of Felix Klein — Hans-Georg Weigand, Neil McCallum & Menghini](https://freemathematicsbooks.com/B.aspx?FileName=The-Legacy-Felix-Klein--Hans-Georg-Weigand&utm_source=github&utm_medium=referral&utm_campaign=Geometry-Topology&utm_content=book-catalogue)**
 
-  Explores Felix Klein's mathematical legacy, functional thinking, mathematics education, and the development of mathematical ideas.
+Explores Felix Klein's mathematical legacy, functional thinking, mathematics education, and the development of mathematical ideas.
+
+---
+
+## 📖 How to Choose a Resource
+
+- **Foundations & Spatial Intuition:** Start with *The Axioms of Descriptive Geometry* by Alfred North Whitehead or *The Fourth Dimension* by Charles Howard Hinton for axiomatic and higher-dimensional geometric concepts.
+- **Geometric Modeling & Computer Graphics:** Use *Curves and Surfaces in Geometric Modeling* by Jean Gallier to learn Bézier curves, B-splines, and affine surface construction.
+- **Advanced Manifolds & Differential Structures:** Explore *Lectures on Symplectic Geometry* by Ana Cannas da Silva for symplectic, Lagrangian, and Kähler geometry.
+- **Fractal Geometry & Measure Theory:** Read *The Fractal Geometry of Nature* by Benoit Mandelbrot for broad intuition and applications, and Kenneth Falconer's books for rigorous Hausdorff dimension and fractal set theory.
+- **History & Geometry Education:** Study *The Legacy of Felix Klein* to understand the historical unification of geometry and modern mathematics instruction.
+
+---
+
+## 📚 Topics Covered
+
+This collection includes resources covering the following topics:
+
+- Axiomatic Systems, Projective Spaces, and Descriptive Geometry
+- Four-Dimensional Space and Higher-Dimensional Geometry
+- Symplectic Manifolds, Lagrangian Submanifolds, and Kähler Geometry
+- Affine Geometry, Bézier Curves, B-Splines, and Geometric Modeling
+- Fractal Geometry, Hausdorff Measure, and Fractal Dimensions
+- Self-Similar Sets and Iterated Function Systems (IFS)
+- Elementary, Analytic, Differential, Algebraic, Non-Euclidean, and Computational Geometry
+- Topology and History of Geometry
 
 ---
 
 ## 📋 Book Selection & Verification
 
-Resources in this repository are organized according to their primary mathematical subject and educational purpose.
+Resources in this catalogue are organized according to their primary mathematical subject and educational purpose.
 
 The following considerations guide the organization of this collection:
 
@@ -107,13 +137,13 @@ The following considerations guide the organization of this collection:
 
 The repository contains subject-specific directories for further exploration:
 
-- Elementary Geometry
-- Analytic Geometry
-- Differential Geometry
-- Algebraic Geometry
-- Non-Euclidean Geometry
-- Computational Geometry
-- Topology
+- [Elementary Geometry](./Elementary-Geometry)
+- [Analytic Geometry](./Analytic-Geometry)
+- [Differential Geometry](./Differential-Geometry)
+- [Algebraic Geometry](./Algebraic-Geometry)
+- [Non-Euclidean Geometry](./Non-Euclidean-Geometry)
+- [Computational Geometry](./Computational-Geometry)
+- [Topology](./Topology)
 
 Each directory contains additional book listings and related resources for its respective subject.
 
@@ -148,5 +178,9 @@ Please ensure that suggested materials are freely accessible and that any shared
 ---
 
 ## 🌐 Explore More Mathematics Resources
+
+**GitHub Collection:** [Free Math Books Repository](https://github.com/FreeMathBooks/free-math-books-collection)
+
+**Substack Publication:** [Free Mathematics Books](https://freemathematicsbooks.substack.com/)
 
 Discover additional free textbooks and educational materials through **[Free Mathematics Books](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=repository-footer)**.
