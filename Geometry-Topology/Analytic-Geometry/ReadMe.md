@@ -1,31 +1,119 @@
-# 📘 Analytic Geometry
+# 📚 Free Computational Geometry Books & Textbook Repository
 
-Welcome to the Analytic Geometry textbooks collection.
+![Computational-Geometry Image](/Books/Computational-Geometry.jpg)
 
-![Analytic-Geometry Image](/Books/Analytic-Geometry.jpg)
+Welcome to the **Computational Geometry Collection** by Free Mathematics Books.
 
-* 📖 *Visit our* **[Analytic Geometry Library](https://freemathematicsbooks.com/A.aspx?Id=Analytic-Geometry&utm_source=github&utm_medium=readme&utm_campaign=Analytic-Geometry)** *online*
-* 📖 *Visit our* **[Geometry & Topology Main Library](https://freemathematicsbooks.com/A.aspx?Id=Geometry&utm_source=github&utm_medium=readme&utm_campaign=Geometry)** *online*
-* 📖 *Website* **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)** *online*
+This repository provides a curated selection of free Computational Geometry textbooks, algorithmic references, and supplementary resources covering art gallery theorems and visibility algorithms, combinatorial and geometric computing platforms, computational algebraic geometry, and mathematical visualization.
 
----
+Resources are organized into subject-based groups to help students, educators, researchers, and independent learners find relevant references for algorithms, graphics, and mathematical computation.
 
-### 📚 Recommended Textbooks
-*Click on the titles below to visit the book's download page:*
+Each entry identifies the available book, its author, and a link to its corresponding resource page.
 
-🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com)**
-* 📖 **[Analytic Geometry](https://freemathematicsbooks.com/B.aspx?FileName=Analytic-Geometry--LP-Siceloff)** — *by L. P. Siceloff, G. Wentworth, D. E. Smith*
-* 📖 **[Analytic Geometry and Calculus](https://freemathematicsbooks.com/B.aspx?FileName=Analytic-Geometry-Calculus--Frederick-Woods)** — *by F.S. Woods, F.H. Bailey*
-* 📖 **[Analytic Geometry of Space Hill](https://freemathematicsbooks.com/B.aspx?FileName=Analytic-Geometry-Space--Virgil-Snyder)** — *by V. Snyder, T.P. *
-* 📖 **[Analytical Geometry of Two Dimensions](https://freemathematicsbooks.com/B.aspx?FileName=Elements-Analytical-Geometry-2D--Briot--Bouquet)** — *by Briot & Bouquet*
-* 📖 **[Elements of Analytical Geometry](https://freemathematicsbooks.com/B.aspx?FileName=Elements-Analytical-Geometry--Charles-Davies)** — *by Charles Davies*
-* 📖 **[Plane and Solid Analytic Geometry](https://freemathematicsbooks.com/B.aspx?FileName=Plane-Solid-Analytic-Geometry--WF-Osgood)** — *by W. F. Osgood, W. C. Graustein*
+📖 **[Explore the Complete Computational Geometry Collection](https://freemathematicsbooks.com/A.aspx?Id=Computational-Geometry&utm_source=github&utm_medium=referral&utm_campaign=Computational-Geometry&utm_content=introduction)**
+
+📚 **[Explore the Complete Geometry & Topology Collection](https://freemathematicsbooks.com/A.aspx?Id=Geometry&utm_source=github&utm_medium=referral&utm_campaign=Geometry&utm_content=introduction)**
 
 ---
 
-### 🔙 Navigation
-* [⬅️ Back to Main Geometry & Topology Category](../)
-* [🏠 Back to Home Repository](../../../../)
+## 📖 Curated Computational Geometry Book Catalogue
+
+The following textbooks and resources are organized into three groups according to their algorithmic focus, computational tools, and geometric applications.
+
+### 1. 📐 Geometric Algorithms & Computing Platforms
+
+Foundational texts and software/algorithmic platforms for polygons, visibility, and geometric data structures.
+
+- 📖 **[Art Gallery Theorems and Algorithms — Joseph O'Rourke](https://freemathematicsbooks.com/B.aspx?FileName=Art-Gallery-Theorems-Algorithms--Joseph-ORourke&utm_source=github&utm_medium=referral&utm_campaign=Computational-Geometry&utm_content=book-catalogue)**
+
+Covers art gallery guard placement bounds, polygon decompositions, visibility problems, and combinatorial/algorithmic proofs in computational geometry.
+
+- 📖 **[LEDA: Platform for Combinatorial & Geometric Computing — Mehlhorn & Naher](https://freemathematicsbooks.com/B.aspx?FileName=LEDA-Platform-Geometric-Computing--Mehlhorn--Naher&utm_source=github&utm_medium=referral&utm_campaign=Computational-Geometry&utm_content=book-catalogue)**
+
+Presents data types, algorithms, and software design principles for combinatorial and geometric computing with attention to exactness and implementation.
 
 ---
-🌐 **Discover more advanced resources at [freemathematicsbooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=social&utm_campaign=FreeMathematicsBooks)**
+
+### 2. 💻 Computational Algebraic Geometry
+
+Symbolic and computational approaches to polynomial ideals, varieties, and algebraic geometry software.
+
+- 📖 **[Computations in Algebraic Geometry (Macaulay2) — David Eisenbud](https://freemathematicsbooks.com/B.aspx?FileName=Computations-Algebraic-Geometry-Macaulay2--David-Eisenbud&utm_source=github&utm_medium=referral&utm_campaign=Computational-Geometry&utm_content=book-catalogue)**
+
+Demonstrates computational techniques in algebraic geometry—including Gröbner bases, ideals, and varieties—using the Macaulay2 computer algebra system.
+
+---
+
+### 3. 🎨 Mathematical Graphics & Geometric Illustration
+
+Practical guides to rendering curves, surfaces, and geometric diagrams programmatically.
+
+- 📖 **[Mathematical Illustrations: A Manual of Geometry and PostScript — Bill Casselman](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Illustrations-Geometry-PostScript--Bill-Casselman&utm_source=github&utm_medium=referral&utm_campaign=Computational-Geometry&utm_content=book-catalogue)**
+
+Explains how to generate precise mathematical figures, curves, and geometric illustrations using PostScript programming.
+
+---
+
+## 📖 How to Choose a Resource
+
+- **Visibility, Polygons & Geometric Algorithms:** Start with *Art Gallery Theorems and Algorithms* by Joseph O'Rourke.
+- **Combinatorial & Geometric Data Structures:** Explore *LEDA: Platform for Combinatorial & Geometric Computing* by Mehlhorn & Naher for algorithmic design and implementation.
+- **Symbolic & Algebraic Geometry Computation:** Use *Computations in Algebraic Geometry (Macaulay2)* by David Eisenbud for computer-assisted algebraic geometry.
+- **Programmatic Mathematical Drawing:** Read *Mathematical Illustrations: A Manual of Geometry and PostScript* by Bill Casselman for creating high-precision geometric graphics.
+
+---
+
+## 📚 Topics Covered
+
+This collection includes resources covering the following topics:
+
+- Art Gallery Theorems, Guard Bounds, and Polygon Triangulation/Decomposition
+- Visibility Algorithms and Combinatorial Geometry
+- Combinatorial and Geometric Computing Data Types (LEDA)
+- Gröbner Bases and Computational Algebraic Geometry with Macaulay2
+- PostScript Programming and Mathematical Geometric Illustration
+
+---
+
+## 📋 Book Selection & Verification
+
+Resources in this catalogue are organized by subject relevance, educational level, and clear bibliographic details. Links direct readers to the corresponding resource pages on Free Mathematics Books, where access details and available formats can be reviewed.
+
+---
+
+## 🤝 Contributing to This Repository
+
+Suggestions and contributions are welcome!
+
+You can help improve this collection by:
+
+1. Suggesting freely accessible Computational Geometry textbooks and learning materials.
+2. Reporting broken or outdated book links.
+3. Correcting book titles, author names, or bibliographic details.
+4. Recommending relevant supplementary computational geometry resources.
+5. Improving the organization and documentation of the repository.
+
+**How to contribute:**
+
+- Open a GitHub Issue to report a problem or suggest a resource.
+- Submit a Pull Request with proposed additions or corrections.
+- Include the book title, author, and source link when suggesting a resource.
+
+Please ensure that submitted materials are freely accessible and that any shared files comply with applicable copyright and licensing terms.
+
+---
+
+## 🧭 Repository Navigation
+
+- [⬅️ Back to Main Geometry & Topology Category](../)
+- [🏠 Back to Home Repository](../../../../)
+
+---
+
+## 🌐 Explore More Mathematics Resources
+
+**GitHub Collection:** [Free Math Books Repository](https://github.com/FreeMathBooks/free-math-books-collection)
+
+**Substack Publication:** [Free Mathematics Books](https://freemathematicsbooks.substack.com/)
+
+Discover additional free textbooks and educational materials through **[Free Mathematics Books](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=repository-footer)**.
