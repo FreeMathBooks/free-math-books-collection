@@ -2,7 +2,7 @@
 
 ![Applied-Mathematics Image](/Books/Applied-Mathematics.jpg)
 
-Welcome to the Free Applied Mathematics Books Repository!
+Welcome to the **Applied Mathematics Collection** by Free Mathematics Books.
 
 This repository maintains a curated catalogue of freely accessible Applied Mathematics textbooks, lecture notes, and supplementary academic resources.
 
@@ -34,79 +34,255 @@ The following directories organize resources by their primary mathematical subje
 
 ---
 
-## 📚 Curated Applied Mathematics Book Catalogue
+## 📖 Curated Applied Mathematics Book Catalogue
 
 The following textbooks and supplementary mathematical resources are organized into four groups according to their primary subject, educational focus, and practical applications.
 
 ### 1. 📘 Mathematical Foundations & Core Methods
 
-*Resources covering mathematical foundations, applied analysis, linear algebra, finite mathematics, and fundamental mathematical methods.*
+Resources covering mathematical foundations, applied analysis, linear algebra, finite mathematics, and fundamental mathematical methods.
 
-- 📖 **[A Theory Revolutionizing Technology and Science](https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Computation--Avi-Wigderson&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Avi Wigderson*
-- 📖 **[Applied Analysis](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Analysis--John-Hunter&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by John K. Hunter & Bruno Nachtergaele*
-- 📖 **[Applied Finite Mathematics](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Finite-Mathematics--Roberta-Bloom&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Roberta Bloom & Rupinder Sekhon*
-- 📖 **[Calculus of Finite Differences (Fourth Edition)](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Finite-Differences--George-Boole&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by George Boole*
-- 📖 **[Fuzzy Mathematics](https://freemathematicsbooks.com/B.aspx?FileName=Fuzzy-Mathematics--Etienne-Kerre&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Etienne Kerre & John Mordeson*
-- 📖 **[Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra--David-Cherney&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by David Cherney, Denton & Waldron*
-- 📖 **[Linear Algebra: Theory and Applications](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Theory-App--Kenneth-Kuttler&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Kenneth Kuttler*
-- 📖 **[Mathematics for Algorithm and System Analysis](https://freemathematicsbooks.com/B.aspx?FileName=Math-Algorithm-System-Analysis--Edward-Bender&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Bender & Williamson*
-- 📖 **[Mathematics for Computer Scientists](https://freemathematicsbooks.com/B.aspx?FileName=Math-Computer-Scientists--Gareth-Janacek&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Gareth J. Janacek & Mark Lemmon Close*
+- 📖 **[A Theory Revolutionizing Technology and Science — Avi Wigderson](https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Computation--Avi-Wigderson&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Explores the role of computational theory and algorithmic thinking in shaping modern mathematics, science, and technology.
+
+- 📖 **[Applied Analysis — John K. Hunter & Bruno Nachtergaele](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Analysis--John-Hunter&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Covers metric and normed spaces, operators, Fourier analysis, distributions, and analytical methods used in applied mathematics and physics.
+
+- 📖 **[Applied Finite Mathematics — Roberta Bloom & Rupinder Sekhon](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Finite-Mathematics--Roberta-Bloom&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Introduces linear models, matrices, linear programming, probability, and finance mathematics for practical decision-making.
+
+- 📖 **[Calculus of Finite Differences (Fourth Edition) — George Boole](https://freemathematicsbooks.com/B.aspx?FileName=Calculus-Finite-Differences--George-Boole&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+A classic treatise on finite differences, interpolation, difference equations, and discrete analytical methods.
+
+- 📖 **[Fuzzy Mathematics — Etienne Kerre & John Mordeson](https://freemathematicsbooks.com/B.aspx?FileName=Fuzzy-Mathematics--Etienne-Kerre&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Presents fuzzy sets, fuzzy logic, approximate reasoning, and mathematical frameworks for handling uncertainty.
+
+- 📖 **[Linear Algebra — David Cherney, Denton & Waldron](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra--David-Cherney&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+An accessible introduction to vector spaces, linear transformations, matrices, determinants, and eigenvalues.
+
+- 📖 **[Linear Algebra: Theory and Applications — Kenneth Kuttler](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Theory-App--Kenneth-Kuttler&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Combines theoretical linear algebra with numerical methods, orthogonal projections, and applied problem-solving.
+
+- 📖 **[Mathematics for Algorithm and System Analysis — Edward Bender](https://freemathematicsbooks.com/B.aspx?FileName=Math-Algorithm-System-Analysis--Edward-Bender&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Focuses on discrete structures, asymptotics, recurrences, and mathematical tools for analyzing algorithms and systems.
+
+- 📖 **[Mathematics for Computer Scientists — Gareth J. Janacek & Mark Lemmon Close](https://freemathematicsbooks.com/B.aspx?FileName=Math-Computer-Scientists--Gareth-Janacek&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Covers logic, sets, functions, linear algebra, calculus, and probability tailored to computing and software problem-solving.
+
+---
 
 ### 2. 📐 Differential Equations, Modeling & Dynamical Systems
 
-*Resources covering ordinary and partial differential equations, dynamical systems, mathematical modeling, control theory, and related analytical methods.*
+Resources covering ordinary and partial differential equations, dynamical systems, mathematical modeling, control theory, and related analytical methods.
 
-- 📖 **[Applied DE & Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Applied-DE-LA--Grant-Gustafson&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Grant B. Gustafson*
-- 📖 **[Complex and Adaptive Dynamical Systems: A Primer](https://freemathematicsbooks.com/B.aspx?FileName=Complex-Adaptive-Dynamical-Systems--Claudius-Gros&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Claudius Gros*
-- 📖 **[Differential Equations & Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=DE--LA--Grant-Gustafson&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by G. B. Gustafson*
-- 📖 **[Evolutionary Equations and Picard’s Theorem](https://freemathematicsbooks.com/B.aspx?FileName=Evolutionary-Equations--Christian-Seifert&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Christian Seifert*
-- 📖 **[Feedback Control Theory](https://freemathematicsbooks.com/B.aspx?FileName=Feedback-Control-Theory--John-Doyle&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by John Doyle, Bruce Francis & Allen Tannenbaum*
-- 📖 **[Linear PDEs and Fourier Theory](https://freemathematicsbooks.com/B.aspx?FileName=LPDEs-Fourier-Theory--Marcus-Pivato&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Marcus Pivato*
-- 📖 **[Mathematical Control Theory](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Control-Theory--Eduardo-Sontag&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Eduardo D. Sontag*
-- 📖 **[Solved Problems in Nonlinear Oscillations](https://freemathematicsbooks.com/B.aspx?FileName=Solved-Problems-Nonlinear-Oscillations--Zeng-He&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Zeng He, Wen Jiang & Lin Wang*
-- 📖 **[Techniques of Applied Mathematics](https://freemathematicsbooks.com/B.aspx?FileName=Techniques-Applied-Math--Andrew-Fowler&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Andrew Fowler*
+- 📖 **[Applied DE & Linear Algebra — Grant B. Gustafson](https://freemathematicsbooks.com/B.aspx?FileName=Applied-DE-LA--Grant-Gustafson&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Integrates differential equations with matrix algebra and linear systems for modeling continuous dynamical processes.
+
+- 📖 **[Complex and Adaptive Dynamical Systems: A Primer — Claudius Gros](https://freemathematicsbooks.com/B.aspx?FileName=Complex-Adaptive-Dynamical-Systems--Claudius-Gros&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Introduces nonlinear dynamics, chaos, self-organization, and adaptation across physical, biological, and social systems.
+
+- 📖 **[Differential Equations & Linear Algebra — G. B. Gustafson](https://freemathematicsbooks.com/B.aspx?FileName=DE--LA--Grant-Gustafson&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Covers first- and higher-order differential equations, linear systems, Laplace transforms, and modeling applications.
+
+- 📖 **[Evolutionary Equations and Picard’s Theorem — Christian Seifert](https://freemathematicsbooks.com/B.aspx?FileName=Evolutionary-Equations--Christian-Seifert&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Examines existence, uniqueness, and analytical methods for evolutionary differential equations and functional spaces.
+
+- 📖 **[Feedback Control Theory — John Doyle, Bruce Francis & Allen Tannenbaum](https://freemathematicsbooks.com/B.aspx?FileName=Feedback-Control-Theory--John-Doyle&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Presents system stability, frequency-domain analysis, and feedback control design for engineering systems.
+
+- 📖 **[Linear PDEs and Fourier Theory — Marcus Pivato](https://freemathematicsbooks.com/B.aspx?FileName=LPDEs-Fourier-Theory--Marcus-Pivato&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Covers Fourier series, transforms, separation of variables, and solution methods for heat, wave, and Laplace equations.
+
+- 📖 **[Mathematical Control Theory — Eduardo D. Sontag](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Control-Theory--Eduardo-Sontag&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Provides a rigorous foundation in deterministic and state-space control systems, observability, and stability.
+
+- 📖 **[Solved Problems in Nonlinear Oscillations — Zeng He, Wen Jiang & Lin Wang](https://freemathematicsbooks.com/B.aspx?FileName=Solved-Problems-Nonlinear-Oscillations--Zeng-He&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Offers worked problems and analytical techniques for studying nonlinear oscillators, limit cycles, and bifurcations.
+
+- 📖 **[Techniques of Applied Mathematics — Andrew Fowler](https://freemathematicsbooks.com/B.aspx?FileName=Techniques-Applied-Math--Andrew-Fowler&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Focuses on asymptotic analysis, perturbation methods, scaling, and continuum modeling in applied mathematics.
+
+---
 
 ### 3. 💻 Computational, Numerical & Scientific Computing
 
-*Practical and computational resources covering numerical analysis, scientific computing, computational linear algebra, numerical differential equations, and mathematical algorithms.*
+Practical and computational resources covering numerical analysis, scientific computing, computational linear algebra, numerical differential equations, and mathematical algorithms.
 
-- 📖 **[Applied & Computational Linear Algebra](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Computational-Linear-Algebra--Charles-Byrne&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Charles Byrne*
-- 📖 **[Computational Incompressible Flow](https://freemathematicsbooks.com/B.aspx?FileName=Computational-Incompressible-Flow--Johan-Hoffman&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Johan Hoffman & Claes Johnson*
-- 📖 **[Finite Difference Computing with PDEs](https://freemathematicsbooks.com/B.aspx?FileName=Finite-Difference-PDEs--Hans-Langtangen&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Hans Petter Langtangen*
-- 📖 **[Finite Element Analysis: From Biomedical to Industrial](https://freemathematicsbooks.com/B.aspx?FileName=Finite-Element-Analysis--David-Moratal&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by David Moratal*
-- 📖 **[Finite Element Methods for Electromagnetics](https://freemathematicsbooks.com/B.aspx?FileName=Finite-Element-Methods--Stanley-Humphries&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Stanley Humphries Jr.*
-- 📖 **[Foundations of Signal Processing](https://freemathematicsbooks.com/B.aspx?FileName=Foundations-Signal-Processing--Martin-Vetterli&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Martin Vetterli et al.*
-- 📖 **[Linear Algebra for Computer Vision & Machine Learning](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Computer-Machine-Learning--Jean-Gallier&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Jean Gallier*
-- 📖 **[Making Presentation Math Computable](https://freemathematicsbooks.com/B.aspx?FileName=Making-Presentation-Math-Computable--Greiner-Petter&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by André Greiner-Petter*
-- 📖 **[Matrix Algebra with Computational Applications](https://freemathematicsbooks.com/B.aspx?FileName=Matrix-Algebra-Computational-App--Dirk-Colbry&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Dirk Colbry*
-- 📖 **[Modeling with Data](https://freemathematicsbooks.com/B.aspx?FileName=Modeling-Data--Ben-Klemen&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Ben Klemens*
-- 📖 **[Numerical Methods for ODEs](https://freemathematicsbooks.com/B.aspx?FileName=Numerical-Methods-ODEs--Kees-Vuik&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Kees Vuik & Fred Vermolen*
-- 📖 **[Solving Ordinary Differential Equations in Python](https://freemathematicsbooks.com/B.aspx?FileName=Solving-ODE-Python--Joakim-Sundnes&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Joakim Sundnes*
-- 📖 **[Solving PDEs in Python: The FEniCS Tutorial I](https://freemathematicsbooks.com/B.aspx?FileName=Solving-PDEs-Python--Hans-Langtangen&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Hans Petter Langtangen*
+- 📖 **[Applied & Computational Linear Algebra — Charles Byrne](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Computational-Linear-Algebra--Charles-Byrne&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Covers matrix decompositions, iterative solvers, least squares, and computational linear algebra applications.
+
+- 📖 **[Computational Incompressible Flow — Johan Hoffman & Claes Johnson](https://freemathematicsbooks.com/B.aspx?FileName=Computational-Incompressible-Flow--Johan-Hoffman&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Explores finite element methods, turbulence modeling, and numerical simulation of incompressible fluid dynamics.
+
+- 📖 **[Finite Difference Computing with PDEs — Hans Petter Langtangen](https://freemathematicsbooks.com/B.aspx?FileName=Finite-Difference-PDEs--Hans-Langtangen&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Teaches practical finite difference discretization and scientific programming for partial differential equations.
+
+- 📖 **[Finite Element Analysis: From Biomedical to Industrial — David Moratal](https://freemathematicsbooks.com/B.aspx?FileName=Finite-Element-Analysis--David-Moratal&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Introduces finite element modeling and simulation across biomedical engineering and industrial applications.
+
+- 📖 **[Finite Element Methods for Electromagnetics — Stanley Humphries Jr.](https://freemathematicsbooks.com/B.aspx?FileName=Finite-Element-Methods--Stanley-Humphries&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Applies finite element numerical techniques to electrostatic, magnetostatic, and wave electromagnetic problems.
+
+- 📖 **[Foundations of Signal Processing — Martin Vetterli et al.](https://freemathematicsbooks.com/B.aspx?FileName=Foundations-Signal-Processing--Martin-Vetterli&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Covers discrete-time signals, sampling, filtering, transforms, and mathematical signal processing foundations.
+
+- 📖 **[Linear Algebra for Computer Vision & Machine Learning — Jean Gallier](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Computer-Machine-Learning--Jean-Gallier&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Connects matrix factorizations, singular value decomposition, and optimization with computer vision and machine learning.
+
+- 📖 **[Making Presentation Math Computable — Greiner-Petter](https://freemathematicsbooks.com/B.aspx?FileName=Making-Presentation-Math-Computable--Greiner-Petter&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Examines bridging human-readable mathematical notation with computer algebra systems and symbolic computation.
+
+- 📖 **[Matrix Algebra with Computational Applications — Dirk Colbry](https://freemathematicsbooks.com/B.aspx?FileName=Matrix-Algebra-Computational-App--Dirk-Colbry&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Focuses on hands-on matrix computation, linear systems, and computational workflows for data and science.
+
+- 📖 **[Modeling with Data — Ben Klemens](https://freemathematicsbooks.com/B.aspx?FileName=Modeling-Data--Ben-Klemen&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Covers statistical modeling, numerical estimation, and mathematical data analysis using scientific software.
+
+- 📖 **[Numerical Methods for ODEs — Kees Vuik & Fred Vermolen](https://freemathematicsbooks.com/B.aspx?FileName=Numerical-Methods-ODEs--Kees-Vuik&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Presents Runge-Kutta methods, stability, step-size control, and numerical integration of ordinary differential equations.
+
+- 📖 **[Solving Ordinary Differential Equations in Python — Joakim Sundnes](https://freemathematicsbooks.com/B.aspx?FileName=Solving-ODE-Python--Joakim-Sundnes&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Demonstrates numerical ODE solvers and scientific modeling workflows implemented in Python.
+
+- 📖 **[Solving PDEs in Python: The FEniCS Tutorial I — Hans Petter Langtangen](https://freemathematicsbooks.com/B.aspx?FileName=Solving-PDEs-Python--Hans-Langtangen&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Provides a practical introduction to solving partial differential equations with finite elements in Python and FEniCS.
+
+---
 
 ### 4. ⚙️ Engineering, Physical Sciences & Interdisciplinary Applications
 
-*Resources connecting mathematical methods with engineering, physics, finance, economics, computer science, music, linguistics, and other applied disciplines.*
+Resources connecting mathematical methods with engineering, physics, finance, economics, computer science, music, linguistics, and other applied disciplines.
 
-- 📖 **[Applied Mathematics in Ferroelectricity and Piezoelectricity](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Math-Ferroelectricity-Piezoelectricity--Kenji-Uchino&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Kenji Uchino*
-- 📖 **[Essential Engineering Mathematics](https://freemathematicsbooks.com/B.aspx?FileName=Essential-Eng-Math--Michael-Batty&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Michael Batty*
-- 📖 **[Games, Fixed Points and Mathematical Economics](https://freemathematicsbooks.com/B.aspx?FileName=Games-Fixed-Points--Christian-Ewald&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Christian Ewald & Andrew McLennan*
-- 📖 **[Interest and Derivatives Markets](https://freemathematicsbooks.com/B.aspx?FileName=Interest-Derivatives-Markets--Marcel-Finan&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Marcel B. Finan*
-- 📖 **[Introduction to Mathematical Finance](https://freemathematicsbooks.com/B.aspx?FileName=Intro-Mathematical-Finance--Kaisa-Taipale&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Kaisa Taipale*
-- 📖 **[Linear Algebra for Physicists & Engineers](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Physicists-Engineers--Arak-Mathai&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Arak Mathai*
-- 📖 **[Math Alive](https://freemathematicsbooks.com/B.aspx?FileName=Math-Alive--Ingrid-Daubechies&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Ingrid Daubechies & Shannon Hughes*
-- 📖 **[Mathematics for the Physical Sciences](https://freemathematicsbooks.com/B.aspx?FileName=Math-Physical-Sciences--Herbert-Wilf&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Herbert S. Wilf*
-- 📖 **[Mathematical Linguistics](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Linguistics--Andras-Kornai&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by András Kornai*
-- 📖 **[Mathematical Methods in Quantum Mechanics](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Methods-Quantum-Mechanics--Gerald-Teschl&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Gerald Teschl*
-- 📖 **[Mathematical Tools for Physics](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Tools-Physics--James-Nearing&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by James Nearing*
-- 📖 **[Mathematics for Game Developers](https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Game-Developers--Denny-Burzynski&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Denny Burzynski*
-- 📖 **[Mathematics and Music](https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Music--David-Wright&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by David Wright*
-- 📖 **[Music: A Mathematical Offering](https://freemathematicsbooks.com/B.aspx?FileName=Music-A-Mathematical-Offering--David-Benson&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by David J. Benson*
-- 📖 **[Networks, Crowds, and Markets](https://freemathematicsbooks.com/B.aspx?FileName=Networks-Crowds-Markets--David-Easley&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by David Easley & Jon Kleinberg*
-- 📖 **[Probability in Electrical Engineering and Computer Science](https://freemathematicsbooks.com/B.aspx?FileName=Probability-Electrical-Eng-Computer-Science--Jean-Walrand&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Jean Walrand*
-- 📖 **[The Calculus for Engineers](https://freemathematicsbooks.com/B.aspx?FileName=The-Calculus-Engineers--John-Perry&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by John Perry*
-- 📖 **[The Fractional Calculus: Theory and Applications](https://freemathematicsbooks.com/B.aspx?FileName=Fractional-Calculus--Keith-Oldham&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Keith Oldham & Jerome Spanier*
-- 📖 **[Theory and Applications of Ordered Fuzzy Numbers](https://freemathematicsbooks.com/B.aspx?FileName=Theory-App-Ordered-Fuzzy-Numbers--Piotr-Prokopowicz&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)** — *by Piotr Prokopowicz*
+- 📖 **[Applied Mathematics in Ferroelectricity and Piezoelectricity — Kenji Uchino](https://freemathematicsbooks.com/B.aspx?FileName=Applied-Math-Ferroelectricity-Piezoelectricity--Kenji-Uchino&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Applies tensor analysis, constitutive equations, and electromechanical modeling to ferroelectric and piezoelectric materials.
+
+- 📖 **[Essential Engineering Mathematics — Michael Batty](https://freemathematicsbooks.com/B.aspx?FileName=Essential-Eng-Math--Michael-Batty&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Covers core calculus, differential equations, linear algebra, and vector methods for engineering students.
+
+- 📖 **[Games, Fixed Points and Mathematical Economics — Christian Ewald & Andrew McLennan](https://freemathematicsbooks.com/B.aspx?FileName=Games-Fixed-Points--Christian-Ewald&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Explores game theory, fixed-point theorems, and equilibrium analysis in mathematical economics.
+
+- 📖 **[Interest and Derivatives Markets — Marcel B. Finan](https://freemathematicsbooks.com/B.aspx?FileName=Interest-Derivatives-Markets--Marcel-Finan&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Introduces interest theory, bond pricing, options, and financial mathematics with worked examples.
+
+- 📖 **[Introduction to Mathematical Finance — Kaisa Taipale](https://freemathematicsbooks.com/B.aspx?FileName=Intro-Mathematical-Finance--Kaisa-Taipale&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Covers discrete- and continuous-time financial models, arbitrage pricing, and stochastic valuation basics.
+
+- 📖 **[Linear Algebra for Physicists & Engineers — Arak Mathai](https://freemathematicsbooks.com/B.aspx?FileName=Linear-Algebra-Physicists-Engineers--Arak-Mathai&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Develops vector spaces, matrix theory, and spectral methods tailored to physics and engineering problems.
+
+- 📖 **[Math Alive — Ingrid Daubechies & Shannon Hughes](https://freemathematicsbooks.com/B.aspx?FileName=Math-Alive--Ingrid-Daubechies&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Showcases how mathematical ideas connect with real-world science, technology, art, and everyday life.
+
+- 📖 **[Mathematics for the Physical Sciences — Herbert S. Wilf](https://freemathematicsbooks.com/B.aspx?FileName=Math-Physical-Sciences--Herbert-Wilf&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Covers vector spaces, matrices, determinants, and analytical methods for physical science applications.
+
+- 📖 **[Mathematical Linguistics — András Kornai](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Linguistics--Andras-Kornai&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Applies formal language theory, automata, logic, and mathematical structures to human language.
+
+- 📖 **[Mathematical Methods in Quantum Mechanics — Gerald Teschl](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Methods-Quantum-Mechanics--Gerald-Teschl&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Presents Hilbert spaces, self-adjoint operators, and spectral theory for non-relativistic quantum mechanics.
+
+- 📖 **[Mathematical Tools for Physics — James Nearing](https://freemathematicsbooks.com/B.aspx?FileName=Mathematical-Tools-Physics--James-Nearing&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Provides a practical toolkit of calculus, differential equations, Fourier series, and complex analysis for physicists.
+
+- 📖 **[Mathematics for Game Developers — Denny Burzynski](https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Game-Developers--Denny-Burzynski&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Covers vectors, matrices, transformations, trigonometry, and geometry used in game development and graphics.
+
+- 📖 **[Mathematics and Music — David Wright](https://freemathematicsbooks.com/B.aspx?FileName=Mathematics-Music--David-Wright&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Explores acoustics, scales, tuning systems, symmetry, and group theory in musical composition.
+
+- 📖 **[Music: A Mathematical Offering — David J. Benson](https://freemathematicsbooks.com/B.aspx?FileName=Music-A-Mathematical-Offering--David-Benson&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Examines sound waves, Fourier analysis, harmony, and mathematical structures underlying music.
+
+- 📖 **[Networks, Crowds, and Markets — David Easley & Jon Kleinberg](https://freemathematicsbooks.com/B.aspx?FileName=Networks-Crowds-Markets--David-Easley&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Studies graph theory, social networks, information cascades, game theory, and online market dynamics.
+
+- 📖 **[Probability in Electrical Engineering and Computer Science — Jean Walrand](https://freemathematicsbooks.com/B.aspx?FileName=Probability-Electrical-Eng-Computer-Science--Jean-Walrand&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Covers probability models, random variables, Markov chains, and stochastic processes for engineering and computing.
+
+- 📖 **[The Calculus for Engineers — John Perry](https://freemathematicsbooks.com/B.aspx?FileName=The-Calculus-Engineers--John-Perry&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Emphasizes practical differentiation, integration, and differential equations for engineering problem-solving.
+
+- 📖 **[The Fractional Calculus: Theory and Applications — Keith Oldham & Jerome Spanier](https://freemathematicsbooks.com/B.aspx?FileName=Fractional-Calculus--Keith-Oldham&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Introduces fractional derivatives and integrals along with applications to diffusion and applied science.
+
+- 📖 **[Theory and Applications of Ordered Fuzzy Numbers — Piotr Prokopowicz](https://freemathematicsbooks.com/B.aspx?FileName=Theory-App-Ordered-Fuzzy-Numbers--Piotr-Prokopowicz&utm_source=github&utm_medium=referral&utm_campaign=Applied-Mathematics&utm_content=book-catalogue)**
+
+Explores ordered fuzzy numbers, aggregation operators, and applied decision-making models.
+
+---
+
+## 📖 How to Choose a Resource
+
+- **Core Foundations & Applied Linear Algebra:** Start with *Linear Algebra* (Cherney et al. or Kuttler), *Applied Analysis* by Hunter & Nachtergaele, or *Applied Finite Mathematics* for foundational tools.
+- **Differential Equations, Control & Dynamical Systems:** Choose Grant B. Gustafson, Marcus Pivato, Eduardo D. Sontag, or Claudius Gros for ODEs, PDEs, control theory, and dynamical systems.
+- **Numerical & Scientific Computing (Python / FEM / ODEs):** Explore Hans Petter Langtangen, Joakim Sundnes, Kees Vuik & Fred Vermolen, or finite element texts for computational methods and simulations.
+- **Engineering, Physics, Finance & Interdisciplinary Fields:** Pick domain-specific guides such as James Nearing, Gerald Teschl, Kaisa Taipale, Jean Walrand, or David Easley & Jon Kleinberg.
+
+---
+
+## 📚 Topics Covered
+
+This collection includes resources covering the following topics:
+
+- Applied Analysis, Linear Algebra, and Finite Mathematics
+- Ordinary and Partial Differential Equations (ODEs & PDEs)
+- Dynamical Systems, Control Theory, and Mathematical Modeling
+- Numerical Methods, Finite Differences, and Finite Element Analysis (FEA)
+- Scientific Computing in Python and Signal Processing
+- Engineering Mathematics, Electromagnetics, and Fluid Dynamics
+- Quantum Mechanics and Mathematical Physics
+- Mathematical Finance, Economics, Networks, and Interdisciplinary Applications
 
 ---
 
@@ -169,5 +345,9 @@ Please ensure that suggested materials are freely accessible and that any shared
 ---
 
 ## 🌐 Explore More Mathematics Resources
+
+**GitHub Collection:** [Free Math Books Repository](https://github.com/FreeMathBooks/free-math-books-collection)
+
+**Substack Publication:** [Free Mathematics Books](https://freemathematicsbooks.substack.com/)
 
 Discover additional free textbooks and educational materials through **[Free Mathematics Books](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=repository-footer)**.
