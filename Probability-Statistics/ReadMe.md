@@ -138,15 +138,7 @@ The following considerations guide the organization of this collection:
 
 ## 📁 Repository Organization
 
-The repository contains subject-specific directories for further exploration:
-
-- [Statistical Inference](./Statistical-Inference)
-- [Probability & Stochastic Processes](./Probability-Stochastic)
-- [Statistical Learning](./Statistical-Learning)
-- [Bayesian Statistics](./Bayesian-Statistics)
-- [Applied Statistics](./Applied-Statistics)
-
-Each directory contains additional book listings and related resources for its respective subject.
+Each subject directory listed in the table above contains additional book listings and related resources for further exploration.
 
 ---
 
