@@ -169,17 +169,6 @@ The following considerations guide the organization of this collection:
 
 ---
 
-## 📁 Repository Organization
-
-The repository contains subject-specific directories for further exploration:
-
-- [Introductory Linear Algebra](./Linear-Algebra-Introduction)
-- [Matrix Algebra](./Matrix-Algebra)
-
-Each directory contains additional book listings and related resources for its respective subject.
-
----
-
 ## 🤝 Contributing to This Repository
 
 Suggestions and contributions are welcome!
