@@ -16,7 +16,7 @@ The collection covers rigorous mathematical analysis, multivariable calculus, ve
 
 ## 📖 Curated Advanced Calculus Book Catalogue
 
-### 1. Rigorous Foundations & Advanced Analysis
+### 1. 📘 Rigorous Foundations & Advanced Analysis
 
 These textbooks develop the theoretical foundations of advanced calculus, including limits, continuity, real and complex variables, differentiation, integration, and rigorous mathematical proofs.
 
@@ -38,7 +38,7 @@ An introductory bridge from computational calculus to rigorous mathematical anal
 
 ---
 
-### 2. Multivariable, Vector & Applied Calculus
+### 2. 📐 Multivariable, Vector & Applied Calculus
 
 This group focuses on calculus of several variables, vector-valued functions, partial derivatives, multiple integrals, and connections with linear algebra and scientific applications.
 
@@ -60,7 +60,7 @@ A classic mathematical text covering vector addition, scalar multiplication, dir
 
 ---
 
-### 3. Specialized Calculus: Variational & Fractional Methods
+### 3. ⚙️ Specialized Calculus: Variational & Fractional Methods
 
 These specialized textbooks explore extensions of ordinary calculus, including optimization of functions and functionals and differentiation and integration of non-integer orders.
 
@@ -74,7 +74,7 @@ A specialized textbook introducing differentiation and integration of arbitrary,
 
 ---
 
-### 4. Calculus Education & Teaching
+### 4. 📖 Calculus Education & Teaching
 
 This resource explores how calculus is taught and learned, with attention to conceptual understanding, curriculum design, and instructional practice.
 
@@ -144,6 +144,7 @@ Please ensure that submitted materials are freely accessible and that any shared
 
 ## 🧭 Repository Navigation
 
+- [🏠 Main Repository](../../)
 - [📉 Main Calculus Collection](../)
 - [📐 Calculus & Analytical Geometry](../Calculus-Analytical-Geometry/)
 - [📘 Calculus of Variations](../Calculus-Variation/)
