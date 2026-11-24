@@ -68,4 +68,109 @@ An extensive historical and theoretical work examining ordinary and partial diff
 
 ---
 
-###
+### 3. 🌊 Partial Differential Equations & Fourier Theory
+
+Resources focusing on linear partial differential equations, Cauchy problems, Fourier analysis, and wave/heat/Laplace models.
+
+- 📖 **[Lectures on Cauchy's Problem in Linear PDEs — Jacques Hadamard](https://freemathematicsbooks.com/B.aspx?FileName=Lectures-Cauchy-Problem-LPDEs--Jacques-Hadamard&utm_source=github&utm_medium=referral&utm_campaign=Differential-Equations&utm_content=book-catalogue)**
+
+A foundational lecture series on well-posedness, Cauchy problems, hyperbolic equations, and fundamental solutions for linear PDEs.
+
+- 📖 **[Linear PDEs and Fourier Theory — Marcus Pivato](https://freemathematicsbooks.com/B.aspx?FileName=LPDEs-Fourier-Theory--Marcus-Pivato&utm_source=github&utm_medium=referral&utm_campaign=Differential-Equations&utm_content=book-catalogue)**
+
+Covers Fourier series and transforms, separation of variables, and analytical solutions to heat, wave, and Laplace equations.
+
+---
+
+### 4. 💻 Numerical Methods, Scaling & Chaos
+
+Computational techniques, finite differences, dimensional scaling, and nonlinear dynamical behavior in differential models.
+
+- 📖 **[Finite Difference Computing with PDEs — Hans Petter Langtangen](https://freemathematicsbooks.com/B.aspx?FileName=Finite-Difference-PDEs--Hans-Langtangen&utm_source=github&utm_medium=referral&utm_campaign=Differential-Equations&utm_content=book-catalogue)**
+
+Teaches finite difference discretization, stability, accuracy, and scientific programming for partial differential equations.
+
+- 📖 **[Finite Difference Methods for Differential — Randall LeVeque](https://freemathematicsbooks.com/B.aspx?FileName=Finite-Difference-Methods-DE--Randall-LeVeque&utm_source=github&utm_medium=referral&utm_campaign=Differential-Equations&utm_content=book-catalogue)**
+
+Covers finite difference schemes, consistency, stability, convergence, and numerical solutions for ordinary and partial differential equations.
+
+- 📖 **[Numerical Methods for ODEs — Kees Vuik and Fred Vermolen](https://freemathematicsbooks.com/B.aspx?FileName=Numerical-Methods-ODEs--Kees-Vuik&utm_source=github&utm_medium=referral&utm_campaign=Differential-Equations&utm_content=book-catalogue)**
+
+Presents explicit and implicit numerical solvers, Runge–Kutta methods, stability regions, and step-size control for ODEs.
+
+- 📖 **[Scaling of Differential Equations — Hans Petter Langtangen](https://freemathematicsbooks.com/B.aspx?FileName=Scaling-DE--Hans-Langtangen&utm_source=github&utm_medium=referral&utm_campaign=Differential-Equations&utm_content=book-catalogue)**
+
+Focuses on non-dimensionalization and scaling of ODEs and PDEs to simplify physical models and identify key dimensionless parameters.
+
+- 📖 **[Strange Attractors: Creating Patterns in Chaos — Julien Sprott](https://freemathematicsbooks.com/B.aspx?FileName=Creating-Patterns-Chaos--Julien-Sprott&utm_source=github&utm_medium=referral&utm_campaign=Differential-Equations&utm_content=book-catalogue)**
+
+Explores nonlinear differential and iterative systems, chaotic dynamics, fractals, and strange attractors.
+
+---
+
+## 📖 How to Choose a Resource
+
+- **Self-Study & Core ODEs:** Start with *Differential Equations* by Paul Dawkins, *Elementary Differential Equations* by William F. Trench, or *Introduction to Differential Equations* by Mohammed Kaabar.
+- **Engineering & Boundary Value Problems:** Use *Notes on Diffy Qs* by Jiri Lebl, *Differential Equations* by Jeffrey R. Chasnov, or *Differential Equations & Boundary Value Problems* by William Trench.
+- **Partial Differential Equations & Fourier Methods:** Explore *Linear PDEs and Fourier Theory* by Marcus Pivato or *Lectures on Cauchy's Problem in Linear PDEs* by Jacques Hadamard.
+- **Numerical Solvers & Scaling:** Turn to *Numerical Methods for ODEs* by Vuik & Vermolen, *Finite Difference Methods* by Randall LeVeque, *Finite Difference Computing with PDEs*, or *Scaling of Differential Equations* by Hans Petter Langtangen.
+- **Advanced Theory & Chaos:** Read Gabriel Nagy, Edward L. Ince, A. R. Forsyth, or Julien Sprott for deeper theory and chaotic dynamics.
+
+---
+
+## 📚 Topics Covered
+
+This collection includes resources covering the following topics:
+
+- First-Order, Second-Order, and Higher-Order Ordinary Differential Equations (ODEs)
+- Linear Systems of Differential Equations and Laplace Transforms
+- Series Solutions, Sturm–Liouville Theory, and Boundary Value Problems
+- Linear Partial Differential Equations (Heat, Wave, and Laplace Equations)
+- Cauchy Problems, Well-Posedness, and Fourier Series/Transforms
+- Numerical Methods for ODEs and Finite Difference Methods for PDEs
+- Non-Dimensionalization, Scaling of Differential Equations, and Chaos Theory
+
+---
+
+## 📋 Book Selection & Verification
+
+Resources in this catalogue are organized by subject relevance, educational level, and clear bibliographic details. Links direct readers to the corresponding resource pages on Free Mathematics Books, where access details and available formats can be reviewed.
+
+---
+
+## 🤝 Contributing to This Repository
+
+Suggestions and contributions are welcome!
+
+You can help improve this collection by:
+
+1. Suggesting freely accessible Differential Equations textbooks and learning materials.
+2. Reporting broken or outdated book links.
+3. Correcting book titles, author names, or bibliographic details.
+4. Recommending relevant supplementary mathematical resources.
+5. Improving the organization and documentation of the repository.
+
+**How to contribute:**
+
+- Open a GitHub Issue to report a problem or suggest a resource.
+- Submit a Pull Request with proposed additions or corrections.
+- Include the book title, author, and source link when suggesting a resource.
+
+Please ensure that submitted materials are freely accessible and that any shared files comply with applicable copyright and licensing terms.
+
+---
+
+## 🧭 Repository Navigation
+
+- [⬅️ Back to Main Applied Mathematics Category](../)
+- [🏠 Back to Home Repository](../../../../)
+
+---
+
+## 🌐 Explore More Mathematics Resources
+
+**GitHub Collection:** [Free Math Books Repository](https://github.com/FreeMathBooks/free-math-books-collection)
+
+**Substack Publication:** [Free Mathematics Books](https://freemathematicsbooks.substack.com/)
+
+Discover additional free textbooks and educational materials through **[Free Mathematics Books](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=repository-footer)**.
