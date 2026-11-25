@@ -32,6 +32,19 @@ The following directories organize resources by their primary mathematical subje
 
 ---
 
+## 🧭 Suggested Calculus Study Path
+
+Students can use the following sequence as a general guide for exploring Calculus:
+
+1. 🌱 **Foundational & Introductory Calculus:** Build intuition around rates of change, limits, basic derivatives, and integrals.
+2. 📈 **Single-Variable Calculus:** Study functions, limits, continuity, differentiation rules, and integration techniques.
+3. 📐 **Differential Calculus:** Focus on derivatives, curve analysis, optimization, and physical/engineering applications.
+4. ∫ **Integral Calculus:** Master antiderivatives, definite integrals, series, and accumulation problems.
+5. 🌐 **Multivariable Calculus:** Move to functions of several variables, partial derivatives, multiple integrals, and vector fields.
+6. 🔬 **Advanced Calculus & Specialized Topics:** Explore rigorous analysis, calculus of variations, finite differences, and fractional calculus.
+
+---
+
 ## 📖 Curated Calculus Book Catalogue
 
 The following books are organized into four groups according to their primary subject, educational focus, and intended use.
@@ -182,7 +195,7 @@ An open-source textbook covering vectors in Euclidean space, multiple integrals,
 
 Course materials, practice problems, teaching resources, and related mathematical subjects.
 
-**Course Materials, Practice & Teaching**
+#### 📝 Course Materials, Practice & Teaching
 
 - 📖 **[Integral Calculus Course Materials — Miguel A. Lerma](https://freemathematicsbooks.com/B.aspx?FileName=Integral-Calculus--Miguel-Lerma&utm_source=github&utm_medium=referral&utm_campaign=Calculus&utm_content=book-catalogue)**
 
@@ -196,7 +209,7 @@ A collection of calculus problems, formulas, and helpful hints for strengthening
 
 A resource examining conceptual understanding, curriculum design, and effective calculus instruction.
 
-**Related Differential Equations Resources**
+#### 📐 Related Differential Equations Resources
 
 - 📖 **[Introduction to Differential Equations — Mohammed Kaabar](https://freemathematicsbooks.com/B.aspx?FileName=Intro-DE--Mohammed-Kaabar&utm_source=github&utm_medium=referral&utm_campaign=Calculus&utm_content=book-catalogue)**
 
@@ -210,11 +223,11 @@ A bridge connecting discrete difference equations with continuous differential e
 
 ## 📖 How to Choose a Resource
 
-- **Beginners & Self-Learners:** Start with *Calculus Made Easy* by Silvanus P. Thompson, *Calculus for the Practical Man* by J. E. Thompson, or *APEX Calculus* by Gregory Hartman for clear, approachable foundations.
-- **Core Undergraduate Calculus:** Use *Calculus* by Gilbert Strang, *Introduction to Calculus I* by J. H. Heinbockel, or *Calculus and Linear Algebra Vol. 1* by Kaplan & Lewis.
-- **Engineering, Physics, Business & Life Sciences:** Explore applied textbooks tailored to your discipline, such as *Calculus for Engineering Students*, *Calculus-Based Physics II*, *Business Calculus with Excel*, or *Calculus for the Life Sciences*.
-- **Advanced, Multivariable & Vector Study:** Move on to *Multivariable Calculus*, *Vector Calculus*, *Advanced Calculus* (Wilson or Loomis & Sternberg), or *The Fractional Calculus* for deeper theory and higher dimensions.
-- **Practice, Teaching & Differential Equations:** Use *Problems in the Calculus*, *Integral Calculus Course Materials*, *Teaching and Learning of Calculus*, or introductory differential equations texts to reinforce mastery.
+- 🌱 **Beginners & Self-Learners:** Start with *Calculus Made Easy* by Silvanus P. Thompson, *Calculus for the Practical Man* by J. E. Thompson, or *APEX Calculus* by Gregory Hartman for clear, approachable foundations.
+- 🎓 **Core Undergraduate Calculus:** Use *Calculus* by Gilbert Strang, *Introduction to Calculus I* by J. H. Heinbockel, or *Calculus and Linear Algebra Vol. 1* by Kaplan & Lewis.
+- ⚙️ **Engineering, Physics, Business & Life Sciences:** Explore applied textbooks tailored to your discipline, such as *Calculus for Engineering Students*, *Calculus-Based Physics II*, *Business Calculus with Excel*, or *Calculus for the Life Sciences*.
+- 🔬 **Advanced, Multivariable & Vector Study:** Move on to *Multivariable Calculus*, *Vector Calculus*, *Advanced Calculus* (Wilson or Loomis & Sternberg), or *The Fractional Calculus* for deeper theory and higher dimensions.
+- 📝 **Practice, Teaching & Differential Equations:** Use *Problems in the Calculus*, *Integral Calculus Course Materials*, *Teaching and Learning of Calculus*, or introductory differential equations texts to reinforce mastery.
 
 ---
 
@@ -242,11 +255,11 @@ Resources in this catalogue are organized according to their main subject and ed
 
 The following considerations guide the organization of this collection:
 
-- **Subject Relevance:** Books are included according to their coverage of Calculus or closely related mathematical subjects.
-- **Bibliographic Information:** Book titles and author details are provided to help readers identify the resources.
-- **Resource Accessibility:** Links lead to the corresponding book information pages, where availability and access details can be checked.
-- **Subject Classification:** Resources are grouped by their primary educational focus to make browsing easier.
-- **Link Maintenance:** Broken links and bibliographic corrections can be reported through GitHub Issues.
+- ✅ **Subject Relevance:** Books are included according to their coverage of Calculus or closely related mathematical subjects.
+- ✅ **Bibliographic Information:** Book titles and author details are provided to help readers identify the resources.
+- ✅ **Resource Accessibility:** Links lead to the corresponding book information pages, where availability and access details can be checked.
+- ✅ **Subject Classification:** Resources are grouped by their primary educational focus to make browsing easier.
+- ✅ **Link Maintenance:** Broken links and bibliographic corrections can be reported through GitHub Issues.
 
 ---
 
@@ -264,9 +277,9 @@ You can help improve this collection by:
 
 **How to contribute:**
 
-- Open a GitHub Issue to report a problem or suggest a resource.
-- Submit a Pull Request with proposed additions or corrections.
-- Include the book title, author, and source link when suggesting a resource.
+- 🐛 Open a GitHub Issue to report a problem or suggest a resource.
+- 🔀 Submit a Pull Request with proposed additions or corrections.
+- 📌 Include the book title, author, and source link when suggesting a resource.
 
 Please ensure that submitted materials are freely accessible and that any shared files comply with applicable copyright and licensing terms.
 
@@ -274,7 +287,7 @@ Please ensure that submitted materials are freely accessible and that any shared
 
 ## 🔙 Repository Navigation
 
-- [🏠 Back to Repository Root](../)
+- 🏠 **[Back to Repository Root](../)**
 
 ---
 
