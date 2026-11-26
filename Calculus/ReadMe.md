@@ -293,7 +293,7 @@ Please ensure that submitted materials are freely accessible and that any shared
 
 ## 🌐 Explore More Mathematics Resources
 
-**Gitlab Collection:** [Free Mathematics Books Studay Guide](https://gitlab.com/mathematics55/FreeMathBooks/-/tree/main)
+**GitLab Collection:** [Free Mathematics Books Study Guide](https://gitlab.com/mathematics55/FreeMathBooks/-/tree/main)
 
 **Substack Publication:** [Free Mathematics Books](https://freemathematicsbooks.substack.com/)
 
