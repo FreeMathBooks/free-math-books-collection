@@ -175,7 +175,7 @@ Please ensure that suggested materials are freely accessible and that any shared
 
 ## 🧭 Repository Navigation
 
-- [🏠 Back to Repository Root](../../)
+- [🏠 Back to Repository Root](../)
 
 ---
 
