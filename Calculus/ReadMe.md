@@ -285,16 +285,14 @@ Please ensure that submitted materials are freely accessible and that any shared
 
 ---
 
-## 🔙 Repository Navigation
+## 🧭 Repository Navigation
 
-- 🏠 **[Back to Repository Root](../)**
+- [🏠 Return to Repository Root](../)
 
 ---
 
 ## 🌐 Explore More Mathematics Resources
 
-**GitLab Collection:** [Free Mathematics Books Study Guide](https://gitlab.com/mathematics55/FreeMathBooks/-/tree/main)
-
-**Substack Publication:** [Free Mathematics Books](https://freemathematicsbooks.substack.com/)
-
-Discover additional free textbooks and educational materials through **[Free Mathematics Books](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=repository-footer)**.
+- **GitLab Study Guide:** [Free Mathematics Books Study Guide](https://gitlab.com/mathematics55/FreeMathBooks/-/tree/main) — Structured topic mirrors, subject study guides, and organized textbook directories.
+- **Substack Reading Notes:** [Free Mathematics Books](https://freemathematicsbooks.substack.com/) — Curated reading lists, book highlights, study notes, and periodic collection updates.
+- **Main Directory:** [FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=repository-footer) — Full searchable directory with external links to freely accessible mathematics textbooks and study guides across subjects.
