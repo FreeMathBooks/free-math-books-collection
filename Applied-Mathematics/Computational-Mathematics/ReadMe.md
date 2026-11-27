@@ -176,7 +176,7 @@ Please ensure that submitted materials are freely accessible and that any shared
 ## 🧭 Repository Navigation
 
 - [⬅️ Back to Main Applied Mathematics Category](../)
-- [🏠 Back to Home Repository](../../../../)
+- [🏠 Back to Home Repository](../../)
 
 ---
 
