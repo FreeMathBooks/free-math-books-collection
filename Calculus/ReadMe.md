@@ -287,7 +287,7 @@ Please ensure that submitted materials are freely accessible and that any shared
 
 ## 🧭 Repository Navigation
 
-- [🏠 Back to Repository Root](../)
+- [🏠 Back to Home Repository](../../)
 
 ---
 
