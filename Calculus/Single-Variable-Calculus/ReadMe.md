@@ -150,7 +150,6 @@ Please ensure that submitted materials are freely accessible and that any shared
 
 ## 🧭 Repository Navigation
 
-- [📉 Main Calculus Collection](../)
 - [📐 Calculus & Analytical Geometry](../Calculus-Analytical-Geometry/)
 - [📘 Calculus of Variations](../Calculus-Variation/)
 - [∂ Differential Calculus](../Differential-Calculus/)
@@ -158,12 +157,13 @@ Please ensure that submitted materials are freely accessible and that any shared
 - [🔷 Multivariable Calculus](../Multivariable-Calculus/)
 - [📊 Single Variable Calculus](../Single-Variable-Calculus/)
 
+- [⬅️ Back to Main Calculus Category](../)
+- [🏠 Back to Home Repository](../../)
+
 ---
 
 ## 🌐 Explore More Mathematics Resources
 
-**GitHub Collection:** [Free Math Books Repository](https://github.com/FreeMathBooks/free-math-books-collection)
-
-**Substack Publication:** [Free Mathematics Books](https://freemathematicsbooks.substack.com/)
-
-Discover additional free textbooks and educational materials through **[Free Mathematics Books](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=repository-footer)**.
+- **GitLab:** [Free Mathematics Books Study Guide](https://gitlab.com/mathematics55/FreeMathBooks/-/tree/main) — Subject study guides and topic mirrors.
+- **Substack:** [Free Mathematics Books Reading Notes](https://freemathematicsbooks.substack.com/) — Curated reading lists and book highlights.
+- **Official Website:** [FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=repository-footer) — Searchable directory of external textbook links.
