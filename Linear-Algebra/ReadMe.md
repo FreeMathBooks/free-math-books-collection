@@ -193,7 +193,6 @@ Please ensure that suggested materials are freely accessible and that any shared
 
 ## 🧭 Repository Navigation
 
-- [⬅️ Back to Main Linear Algebra Category](../)
 - [🏠 Back to Home Repository](../../)
 
 ---
