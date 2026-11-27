@@ -49,5 +49,6 @@ Browse curated subject folders in this GitHub repository or jump directly to the
 
 ## 🌐 Related Collections & Publications
 
-- 🌐 **[FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=github-main-footer)** — Explore subject directories, open textbooks, and study resources online.
-- 📰 **[Free Mathematics Books on Substack](https://freemathematicsbooks.substack.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=github-main-footer-substack)** — Read curated mathematics reading lists, study notes, and collection updates.
+- **Official Website:** [FreeMathematicsBooks.com](https://freemathematicsbooks.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=github-main-footer) — Searchable directory of external textbook links.
+- **GitLab Study Guide:** [Free Mathematics Books Study Guide](https://gitlab.com/mathematics55/FreeMathBooks/-/tree/main) — Subject study guides and topic mirrors.
+- **Substack Reading Notes:** [Free Mathematics Books](https://freemathematicsbooks.substack.com/?utm_source=github&utm_medium=referral&utm_campaign=FreeMathematicsBooks&utm_content=github-main-footer-substack) — Curated reading lists and study notes.
