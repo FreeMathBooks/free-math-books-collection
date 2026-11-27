@@ -157,6 +157,7 @@ Please ensure that submitted materials are freely accessible and that any shared
 - [🔷 Multivariable Calculus](../Multivariable-Calculus/)
 - [📊 Single Variable Calculus](../Single-Variable-Calculus/)
 
+
 - [⬅️ Back to Main Calculus Category](../)
 - [🏠 Back to Home Repository](../../)
 
