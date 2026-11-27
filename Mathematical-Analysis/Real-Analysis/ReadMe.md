@@ -121,7 +121,7 @@ Please ensure that submitted materials are freely accessible and that any shared
 
 ## 🧭 Repository Navigation
 
-- [⬅️ Back to Main Mathematical-Analysis Category](../)
+- [⬅️ Back to Main Mathematical Analysis Category](../)
 - [🏠 Back to Home Repository](../../)
 
 ---
