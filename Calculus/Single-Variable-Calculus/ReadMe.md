@@ -148,15 +148,18 @@ Please ensure that submitted materials are freely accessible and that any shared
 
 ---
 
-## 🧭 Repository Navigation
+## 📂 Calculus Subcategories
 
-- [📐 Calculus & Analytical Geometry](../Calculus-Analytical-Geometry/)
-- [📘 Calculus of Variations](../Calculus-Variation/)
 - [∂ Differential Calculus](../Differential-Calculus/)
 - [∫ Integral Calculus](../Integral-Calculus/)
-- [🔷 Multivariable Calculus](../Multivariable-Calculus/)
 - [📊 Single Variable Calculus](../Single-Variable-Calculus/)
+- [🔷 Multivariable Calculus](../Multivariable-Calculus/)
+- [🔷 Advance Calculus](../Advance-Calculus/)
+- [📐 Calculus & Analytical Geometry](../Calculus-Analytical-Geometry/)
+- [📘 Calculus of Variations](../Calculus-Variation/)
+---
 
+## 🧭 Repository Navigation
 
 - [⬅️ Back to Main Calculus Category](../)
 - [🏠 Back to Home Repository](../../)
